@@ -1,0 +1,33 @@
+{% extends "::layout.html.twig" %}
+
+{% block content %}
+<div id="js_grammary" class="margin-top-75 subcontainer">
+    <div class="btn-group">
+        <div class="btn-group">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Choose grammary package 
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                {% for part in parts %}
+                <li><a href="{{ path('grammary', {'grammary_package': part.part})}}">{{part.part}}</a></li>
+                 {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% if(grammary)%}
+    <div class="margin-top-50">
+            {% for grammary in grammary %}
+        <div class="margin-top-50">
+            <h5><strong>{{grammary.subpart|nl2br}}</strong> ({{grammary.part|nl2br}})</h5>
+            <h2>{{grammary.title|nl2br}}</h2>
+            
+        </div>
+        <div>
+            <p>{{grammary.content|nl2br}}</p>
+        </div>
+            {% endfor %}
+    </div>
+    {% endif%}
+</div>
+{% endblock %}

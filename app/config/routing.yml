@@ -1,0 +1,5 @@
+dwr_frontend:
+    resource: "@DwrFrontendBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

@@ -1,0 +1,41 @@
+{% extends "::layout.html.twig" %}
+
+{% block content %}
+<div id="js_words_list" class="margin-top-75 subcontainer">
+    <div class="btn-group">
+        <div class="btn-group">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Choose words package 
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                {% for part in parts %}
+                <li><a href="{{ path('words_list', {'words_package': part.part})}}">{{part.part}}</a></li>
+                 {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% if(words_package)%}
+    <div>
+        <table class="margin-top-50 table table-striped">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>english</th>
+                    <th>polish</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for word in words %}
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td>{{ word.english }}</td>
+                    <td>{{ word.polish }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif%}
+</div>
+{% endblock %}

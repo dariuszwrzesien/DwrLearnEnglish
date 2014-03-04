@@ -21,7 +21,11 @@
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
         "doctrine/doctrine-fixtures-bundle": "dev-master",
-        "stof/doctrine-extensions-bundle": "~1.1@dev"
+        "stof/doctrine-extensions-bundle": "~1.1@dev",
+        "jms/serializer-bundle": "0.12.*",
+        "friendsofsymfony/rest-bundle": "1.1.*",
+        "nelmio/api-doc-bundle": "@stable",
+        "codeception/codeception": "1.8.*"
     },
     "scripts": {
         "post-install-cmd": [

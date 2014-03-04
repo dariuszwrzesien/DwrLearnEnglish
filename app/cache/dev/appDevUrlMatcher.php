@@ -167,10 +167,53 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
             return array (  '_controller' => 'Dwr\\FrontendBundle\\Controller\\IssuesController::indexAction',  '_route' => 'issues',);
         }
 
-        // words_list
-        if (0 === strpos($pathinfo, '/words_list') && preg_match('#^/words_list(?:/(?P<words_package>[^/]++))?$#s', $pathinfo, $matches)) {
-            return $this->mergeDefaults(array_replace($matches, array('_route' => 'words_list')), array (  'words_package' => NULL,  '_controller' => 'Dwr\\FrontendBundle\\Controller\\WordslistController::indexAction',));
+        if (0 === strpos($pathinfo, '/word')) {
+            if (0 === strpos($pathinfo, '/words')) {
+                // words_list
+                if (0 === strpos($pathinfo, '/words_list') && preg_match('#^/words_list(?:/(?P<words_package>[^/]++))?$#s', $pathinfo, $matches)) {
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'words_list')), array (  'words_package' => NULL,  '_controller' => 'Dwr\\FrontendBundle\\Controller\\WordslistController::indexAction',));
+                }
+
+                // dwr_apirest_words_all
+                if ($pathinfo === '/words') {
+                    if (!in_array($this->context->getMethod(), array('GET', 'HEAD'))) {
+                        $allow = array_merge($allow, array('GET', 'HEAD'));
+                        goto not_dwr_apirest_words_all;
+                    }
+
+                    return array (  '_controller' => 'Dwr\\ApiRestBundle\\Controller\\WordController::allAction',  '_format' => 'json',  '_route' => 'dwr_apirest_words_all',);
+                }
+                not_dwr_apirest_words_all:
+
+            }
+
+            // dwr_apirest_word_get
+            if (preg_match('#^/word/(?P<id>\\d+)$#s', $pathinfo, $matches)) {
+                if (!in_array($this->context->getMethod(), array('GET', 'HEAD'))) {
+                    $allow = array_merge($allow, array('GET', 'HEAD'));
+                    goto not_dwr_apirest_word_get;
+                }
+
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'dwr_apirest_word_get')), array (  '_controller' => 'Dwr\\ApiRestBundle\\Controller\\WordController::getAction',  '_format' => 'json',));
+            }
+            not_dwr_apirest_word_get:
+
         }
+
+        // nelmio_api_doc_index
+        if (rtrim($pathinfo, '/') === '/api/doc') {
+            if (!in_array($this->context->getMethod(), array('GET', 'HEAD'))) {
+                $allow = array_merge($allow, array('GET', 'HEAD'));
+                goto not_nelmio_api_doc_index;
+            }
+
+            if (substr($pathinfo, -1) !== '/') {
+                return $this->redirect($pathinfo.'/', 'nelmio_api_doc_index');
+            }
+
+            return array (  '_controller' => 'Nelmio\\ApiDocBundle\\Controller\\ApiDocController::indexAction',  '_route' => 'nelmio_api_doc_index',);
+        }
+        not_nelmio_api_doc_index:
 
         throw 0 < count($allow) ? new MethodNotAllowedException(array_unique($allow)) : new ResourceNotFoundException();
     }

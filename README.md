@@ -169,3 +169,14 @@ Enjoy!
 [11]: http://symfony.com/doc/2.4/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
+
+Notatki szaleńca:
+DwrForntEndBundle - zawiera controllery i widoki
+Jest też api
+DwrApi
+aby je zrobić należało dodać i wykożystać:
+        "jms/serializer-bundle": "0.12.*"
+        "friendsofsymfony/rest-bundle": "1.1.*",
+        "nelmio/api-doc-bundle": "@stable",
+Do testowania używam Codeception
+        "codeception/codeception": "1.8.*"

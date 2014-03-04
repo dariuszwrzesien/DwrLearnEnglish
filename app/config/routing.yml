@@ -1,5 +1,26 @@
+dwr_api_rest:
+    resource: "@DwrApiRestBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 dwr_frontend:
     resource: "@DwrFrontendBundle/Controller/"
     type:     annotation
     prefix:   /
+    
+dwr_apirest_words_all:
+    pattern:  /words
+    defaults: { _controller: DwrApiRestBundle:Word:all, _format: json }
+    requirements:
+        _method: GET
 
+dwr_apirest_word_get:
+    pattern:  /word/{id}
+    defaults: { _controller: DwrApiRestBundle:Word:get, _format: json }
+    requirements:
+        _method: GET
+        id: "\d+"
+        
+NelmioApiDocBundle:
+    resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
+    prefix:   /api/doc

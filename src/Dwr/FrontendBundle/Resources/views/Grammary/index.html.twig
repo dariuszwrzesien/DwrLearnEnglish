@@ -4,13 +4,13 @@
 <div id="js_grammary" class="margin-top-75 subcontainer">
     <div class="btn-group">
         <div class="btn-group">
-            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                 Choose grammary package 
                 <span class="caret"></span>
             </button>
             <ul class="dropdown-menu">
                 {% for part in parts %}
-                <li><a href="{{ path('grammary', {'grammary_package': part.part})}}">{{part.part}}</a></li>
+                <li><a id="item{{loop.index}}" href="{{ path('grammary', {'grammary_package': part.part})}}">{{part.part}}</a></li>
                  {% endfor %}
             </ul>
         </div>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+        <title>Words 2.0</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="/words2/web/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="/words2/web/css/style.css" rel="stylesheet">
+
+        <!-- Just for debugging purposes. Don't actually copy this line! -->
+        <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/words2/web/app_dev.php/">Words 2.0</a>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul id="js_topmenu" class="nav navbar-nav">
+                        <li><a id="home" href="/words2/web/app_dev.php/">Home</a></li>
+                        <li><a id="check_me" href="/words2/web/app_dev.php/check_me">Check me</a></li>
+                        <li><a id="words_list" href="/words2/web/app_dev.php/words_list">Words list</a></li>
+                        <li><a id="issues" href="/words2/web/app_dev.php/issues">Issues</a></li>
+                        <li><a id="grammary" href="/words2/web/app_dev.php/grammary">Grammary</a></li>
+                        <li><a id="contact" href="/words2/web/app_dev.php/contact">Contact</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+        <div class="container">
+
+                <div id="js_grammary" class="margin-top-75 subcontainer">
+    <div class="btn-group">
+        <div class="btn-group">
+            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Choose grammary package 
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                                <li><a href="/words2/web/app_dev.php/grammary/at%20on%20in">at on in</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%202%20Pre%20Intermediate%20-%20Unit%204">New English File 2 Pre Intermediate - Unit 4</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%202%20Pre%20Intermediate%20-%20Unit%207">New English File 2 Pre Intermediate - Unit 7</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%202%20Pre%20Intermediate%20-%20Unit%208">New English File 2 Pre Intermediate - Unit 8</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%203%20Intermediate%20-%20Unit%201">New English File 3 Intermediate - Unit 1</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%203%20Intermediate%20-%20Unit%201-3A%20Addon">New English File 3 Intermediate - Unit 1-3A Addon</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%203%20Intermediate%20-%20Unit%202">New English File 3 Intermediate - Unit 2</a></li>
+                                 <li><a href="/words2/web/app_dev.php/grammary/New%20English%20File%203%20Intermediate%20-%20Unit%204">New English File 3 Intermediate - Unit 4</a></li>
+                             </ul>
+        </div>
+    </div>
+    </div>
+
+        </div><!-- /.container -->
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <script src="/words2/web/js/bootstrap.min.js"></script>
+        <script src="/words2/web/js/script.js"></script>
+    
+<div id="sfwdt2ac2a1" class="sf-toolbar" style="display: none"></div><script>/*<![CDATA[*/    Sfjs = (function() {        "use strict";        var noop = function() {},            profilerStorageKey = 'sf2/profiler/',            request = function(url, onSuccess, onError, payload, options) {                var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');                options = options || {};                xhr.open(options.method || 'GET', url, true);                xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');                xhr.onreadystatechange = function(state) {                    if (4 === xhr.readyState && 200 === xhr.status) {                        (onSuccess || noop)(xhr);                    } else if (4 === xhr.readyState && xhr.status != 200) {                        (onError || noop)(xhr);                    }                };                xhr.send(payload || '');            },            hasClass = function(el, klass) {                return el.className.match(new RegExp('\\b' + klass + '\\b'));            },            removeClass = function(el, klass) {                el.className = el.className.replace(new RegExp('\\b' + klass + '\\b'), ' ');            },            addClass = function(el, klass) {                if (!hasClass(el, klass)) { el.className += " " + klass; }            },            getPreference = function(name) {                if (!window.localStorage) {                    return null;                }                return localStorage.getItem(profilerStorageKey + name);            },            setPreference = function(name, value) {                if (!window.localStorage) {                    return null;                }                localStorage.setItem(profilerStorageKey + name, value);            };        return {            hasClass: hasClass,            removeClass: removeClass,            addClass: addClass,            getPreference: getPreference,            setPreference: setPreference,            request: request,            load: function(selector, url, onSuccess, onError, options) {                var el = document.getElementById(selector);                if (el && el.getAttribute('data-sfurl') !== url) {                    request(                        url,                        function(xhr) {                            el.innerHTML = xhr.responseText;                            el.setAttribute('data-sfurl', url);                            removeClass(el, 'loading');                            (onSuccess || noop)(xhr, el);                        },                        function(xhr) { (onError || noop)(xhr, el); },                        options                    );                }                return this;            },            toggle: function(selector, elOn, elOff) {                var i,                    style,                    tmp = elOn.style.display,                    el = document.getElementById(selector);                elOn.style.display = elOff.style.display;                elOff.style.display = tmp;                if (el) {                    el.style.display = 'none' === tmp ? 'none' : 'block';                }                return this;            }        }    })();/*]]>*/</script><script>/*<![CDATA[*/    (function () {                Sfjs.load(            'sfwdt2ac2a1',            '/words2/web/app_dev.php/_wdt/2ac2a1',            function(xhr, el) {                el.style.display = -1 !== xhr.responseText.indexOf('sf-toolbarreset') ? 'block' : 'none';                if (el.style.display == 'none') {                    return;                }                if (Sfjs.getPreference('toolbar/displayState') == 'none') {                    document.getElementById('sfToolbarMainContent-2ac2a1').style.display = 'none';                    document.getElementById('sfToolbarClearer-2ac2a1').style.display = 'none';                    document.getElementById('sfMiniToolbar-2ac2a1').style.display = 'block';                } else {                    document.getElementById('sfToolbarMainContent-2ac2a1').style.display = 'block';                    document.getElementById('sfToolbarClearer-2ac2a1').style.display = 'block';                    document.getElementById('sfMiniToolbar-2ac2a1').style.display = 'none';                }            },            function(xhr) {                if (xhr.status !== 0) {                    confirm('An error occurred while loading the web debug toolbar (' + xhr.status + ': ' + xhr.statusText + ').\n\nDo you want to open the profiler?') && (window.location = '/words2/web/app_dev.php/_profiler/2ac2a1');                }            }        );    })();/*]]>*/</script>
+</body>
+</html>

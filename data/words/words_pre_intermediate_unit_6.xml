@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+1st Conditional
+IF + Present, WILL + infinitive (bezokolicznik)
+If I miss the bus, I'll get a taxi.
+She won't be angry, If you tell her the truth
+What will you do if it rains?
+
+I'll come if you like. OR If you like, I'll come
+
+Można też użyć orzecinka lub CAN
+If you miss the bus, get a taxi.
+If you miss the bus, you can get a taxi.
+
+2nd Conditional
+IF + PAST, WOULD + invinitive (bezokolicznik)
+If a bear attaced me, I'd run away.
+If I didn't have children, I wouldn't live in the country.
+Would you take the manager's job if they offered it to you?
+IF I WERE YOU, I WOULDN'T DO THIS
+1. Używamy gdy mówimy o czymś nieprawdopodobnym, niemozliwym, hipotetycznym.
+2. Z CAN używamy COULD + bezokolicznik  (nie używamy -> would can <- nie ma czegoś takiego)
+
+
+MAY/MIGHT
+We might have a picnic tomorrow.
+I might not go to the party.
+I may go to the party.
+I may not have time to do everything today
+
+1. Używamy gdy mówimy o możliwościach w przyszłości
+2. May I use your phone - pytania używamy w kontekscie "czy JA mogę coś zrobić"
+
+SHOULD/SHOULDN'T (advice)
+I think you should change your job.
+The government shoul do more for old people.
+You shouldn't cut your hair
+
+1. Używamy gdy dajemy porady.
+-->
+<words>
+    <word>
+        <english>change queues</english>
+        <polish>zmienić kolejkę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lend sth to sb/borrow sth from sb</english>
+        <polish>pożyczyć coś komuś/porzyczyć coś od kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Czy możesz pożyczyć mi pieniądze?</english>
+        <polish>Can you lend me the money?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Czy mogę pożyczyć pieniądze od Ciebie?</english>
+        <polish>Can I borrow moneyfrom you?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>journey</english>
+        <polish>podróż</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be bored</english>
+        <polish>być znudzonym</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>seat</english>
+        <polish>siedzenie, siedzisko, siedzieć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fall in love with sb</english>
+        <polish>zakochać się w kimś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>invite sb to (sb's house)</english>
+        <polish>zaprosić kogoś do czyjegoś domu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>that's way</english>
+        <polish>dlatego</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>run away</english>
+        <polish>uciekać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>become friends</english>
+        <polish>stać się przyjaciółmi</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>know/meet</english>
+        <polish>znać/spotkać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wear (clothes)/ carry(bag)</english>
+        <polish>nosić (ubrania -> coś co swiadczy o wizerunku -> make up, okulary, biżuterie) /trzymać,nosić (torbę, lub parasolkę -> nosić coś nie na sobie)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>win (a prize, a match)/ earn (a salary)</english>
+        <polish>wygrać (nagrodę, mecz)/ zarobić (wypłatę)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>make (a cake, lunch, dinner, a noise)/ do (exam, a test, housework, washing up, sport)</english>
+        <polish>zrobić coś namacalnego (casto, obiad, hałas)/ zrobić jakieś zadanie, czynność (egzamin, prace domowe, mycie, sport)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>hope(that sth good will happen)/ wait(for a bus)</english>
+        <polish>czekać z nadzeją że cos dobrego się wydarzy/ czekać na autobus</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>watch (TV)/ look at (a photo)</english>
+        <polish>oglądać (TV)/ patrzeć na (zdjęcie)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>look (happy)/ look like (sb's mother)</english>
+        <polish>wyglądać (na szczęśliwego)/ wyglądać jak (czyjaś matka)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>If something bad can happen, it will</english>
+        <polish>Jeśli coś złego może się stać, to się stanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take sb's name form sb/sth</english>
+        <polish>wzieło swoją nazwę od kogoś/czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>engineer</english>
+        <polish>inżynier</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>investigate</english>
+        <polish>zbadać, prześledzić</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>plane crash</english>
+        <polish>katastrofa lotnicza</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>get a reputation for sth (He got a reputatnion for always thinking of the worst think)</english>
+        <polish>mieć opinie kogoś (On miał opinie myślącego zawsze o najgorszym)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>look for sth</english>
+        <polish>szukać czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take sth back to the shop</english>
+        <polish>oddać coś do sklepu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>It doesn't work</english>
+        <polish>to nie działa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>spill sth on sb/sth</english>
+        <polish>wylać coś na kogoś/coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>have sth in sb's size</english>
+        <polish>mieć coś w rozmiarze kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>The smoke will go directly towords you</english>
+        <polish>Dym poleci dokładnie w twoim kierunku</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be single</english>
+        <polish>być samemu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>throw sth away</english>
+        <polish>wyrzucić coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>go to sleep late</english>
+        <polish>iść spać późno</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be in a hurry</english>
+        <polish>spieszyć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>catch a plane</english>
+        <polish>złapać samolot</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>get to work late</english>
+        <polish>dostać się do pracy spoźnionym, być spóźnionym do pracy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Do you find it difficult to remember people's names?</english>
+        <polish>Czy sprawia Ci trudność zapamiętywanie imion osób?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Do you think it's important to learn to cook</english>
+        <polish>Czy sądzisz że ważne jest nauczyć się gotować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>What's the most interesting place to visit in your town?</english>
+        <polish>Jakie jest najbardziej interesujące miejsce do zwiedzenia w twoim mieście?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever forgotten to turn off your mobile in a cinema or a concert?</english>
+        <polish>Czy kiedykolwiek zapomniałeś wyłączyć tel. komórkowy w kinie lub na koncercie?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Do you think it's possible to learn a foreign language without going to the country?</english>
+        <polish>Czy uważasz że jest możliwe nauczenie się obcego języka bez wyjazdu do tego kraju?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Is there any part of your town where it's dangerous to go at night?</english>
+        <polish>Czy jest jakaś część twojego miasta gdzie jest niebezpiecznie chodzić w nocy?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Do you always remember to phone your friends on their birthdays?</english>
+        <polish>Czy zawsze pamiętasz zadzwonić to swoich przyjaciół na ich urodziny?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>When was the last time you promised not to come home late?</english>
+        <polish>Kiedy był ostatni raz gdy obiecałeś że nie wrócisz do domu późno?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever pretended to be ill?</english>
+        <polish>Czy kiedykolwiek udawałeś chorego?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you decided to go anywhere next summer?</english>
+        <polish>Czy zdecydowałeś gdzie pojedziesz na następne lato?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>smile at sb </english>
+        <polish>uśmiechać się do kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>see sth on TV</english>
+        <polish>oglądać coś w TV</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>What would you do if you met a wild animal?</english>
+        <polish>Co byś zrobił gdybyś spotkał dzikie zwierzę?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>swim to the bank</english>
+        <polish>płynąć w kierunku brzegu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>stay still</english>
+        <polish>nieruszać się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hit sb in the face/ on the nose</english>
+        <polish>uderzyć kogoś w twarz/ w nos</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>large</english>
+        <polish>duży</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bear</english>
+        <polish>niedźwiedź</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>climb up a tree</english>
+        <polish>wspiąć się na drzewo</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pretend to be dead</english>
+        <polish>udawać martwego</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>lie on the ground</english>
+        <polish>leżeć na ziemi</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>I'd run away as fast I could</english>
+        <polish>Uciekałbym najszybciej jak bym mógł</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>field</english>
+        <polish>pole</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bull</english>
+        <polish>byk</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>throw sth (in another direction)</english>
+        <polish>rzucić czymś (w innym kierunku)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>shout</english>
+        <polish>krzyczeć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wave arms</english>
+        <polish>machać rękami</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>probable</english>
+        <polish>prawdopodobny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>snake</english>
+        <polish>wąż</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>have a pet</english>
+        <polish>mieć zwierzątko domowe</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cartoon</english>
+        <polish>rysunek, karton</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>go on a safari</english>
+        <polish>jechać na safari</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be afraid of sth</english>
+        <polish>obawiać się czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fur coat</english>
+        <polish>futrzany płaszcz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>meat</english>
+        <polish>mięso</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bark</english>
+        <polish>kora/szczekanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>look after</english>
+        <polish>opiekować się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>grow (grow, grew, grown)</english>
+        <polish>rosnąć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>weight</english>
+        <polish>waga</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mouth</english>
+        <polish>usta</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>victim</english>
+        <polish>ofiara</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>drown</english>
+        <polish>utopić</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>human</english>
+        <polish>człowiek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sign</english>
+        <polish>znak</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>warn</english>
+        <polish>ostrzec, ostrzegać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>disapear</english>
+        <polish>zniknąć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>watch sth in horror</english>
+        <polish>patrzeć w przerażeniu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>below</english>
+        <polish>poniżej, w dole</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>save sb</english>
+        <polish>ocalić kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>nephew</english>
+        <polish>bratanek/siostrzeniec</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>niece</english>
+        <polish>bratanica/siostrzenica</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bee</english>
+        <polish>pszczoła</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>butterfly</english>
+        <polish>motyl</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fly</english>
+        <polish>mucha</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mosquito</english>
+        <polish>komar</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>spider</english>
+        <polish>pająk</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wasp</english>
+        <polish>osa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bull</english>
+        <polish>byk</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>chicken</english>
+        <polish>kurczak</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cow</english>
+        <polish>krowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>goat</english>
+        <polish>koza</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>horse</english>
+        <polish>koń</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pig</english>
+        <polish>świnia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sheep</english>
+        <polish>owca</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bear</english>
+        <polish>niedźwiedź</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>camel</english>
+        <polish>wielbłąd</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>crocodile</english>
+        <polish>krokodyl</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>dolphin</english>
+        <polish>delfin</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>elephant</english>
+        <polish>słoń</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>giraffe</english>
+        <polish>żyrafa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>gorilla</english>
+        <polish>goryl</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>kangaroo</english>
+        <polish>kangur</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>lion</english>
+        <polish>lew</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mouse - mice</english>
+        <polish>mysz - myszy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rabbit</english>
+        <polish>królik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hare</english>
+        <polish>zając</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>shark</english>
+        <polish>rekin</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tiger</english>
+        <polish>tygrys</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>whale</english>
+        <polish>wieloryb</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>duck</english>
+        <polish>kaczka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>eagle</english>
+        <polish>orzeł</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>swan</english>
+        <polish>łabędź</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>may/might</english>
+        <polish>może</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>possibility</english>
+        <polish>możliwość</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>make a right decision</english>
+        <polish>pojąć właściwą decyzję</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>decisive/indecisive</english>
+        <polish>zdecydowany/niezdecydowany</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have problems doing sth</english>
+        <polish>mieć problemy z wykonaniem czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>change mind</english>
+        <polish>zmienić zdanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>It's about (the party tonight)</english>
+        <polish>Chodzi o (impreze w nocy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>You'll love it</english>
+        <polish>pokochasz to, bardzo Ci się to spodoba</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>You might meet someone new</english>
+        <polish>Możesz spotkać kogoś nowego</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>What are you going to wear?</english>
+        <polish>Co zamierzasz ubrać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I might wear my new trousers</english>
+        <polish>Może założe moje nowe spodnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>If I were you, I would wear the red dress</english>
+        <polish>Jeśli byłabym tobą, założyłabym czerwoną sukienke</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm not sure yet</english>
+        <polish>Jeszcze nie wiem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>How are you getting there</english>
+        <polish>Jak się tam dostaniesz?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>compare</english>
+        <polish>porównaj</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>choose between sth</english>
+        <polish>wybrać pomiędzy czymś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>take your time</english>
+        <polish>nie spiesz się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>make a list of sth</english>
+        <polish>zrób listę czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ask sb for advice</english>
+        <polish>zapytaj kogoś o radę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>use imagination</english>
+        <polish>użyj wyobraźni</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>feel comfortable with sth</english>
+        <polish>czuć się z czymś komfortowo</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>confuse - confusion</english>
+        <polish>zakłopotanie/zamieszanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>decide - decision</english>
+        <polish>decydować - decyzja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>imagine - imagination</english>
+        <polish>wyobrażać - wyobraźnia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>inform - information</english>
+        <polish>informować - informacja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>elect - election</english>
+        <polish>wybierać, głosować - głosowanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>invite - invitation</english>
+        <polish>zapraszać - zaproszenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>organise - organisation</english>
+        <polish>organizować - organizacja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>educate - education</english>
+        <polish>edukować - edukacja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>transalte - translation</english>
+        <polish>tłumaczyć - tłumaczenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>communicate - communication</english>
+        <polish>komunikować - komunikacja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>belong to</english>
+        <polish>należeć do</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>What should I do?</english>
+        <polish>Co powinienem zrobić</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>clothes</english>
+        <polish>ubrania</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>jealousy</english>
+        <polish>zazdrosny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>dialy</english>
+        <polish>dzienny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>ask for help</english>
+        <polish>zapytaj o pomoc</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>You should talk to your friend</english>
+        <polish>Powinieneś porozmawiać z przyjacielem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>treat sb</english>
+        <polish>traktować kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>perhaps</english>
+        <polish>może</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>opportunity</english>
+        <polish>okazja</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>lock sth in the cupboard</english>
+        <polish>zamknąć coś w szafce</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>get the message (She'll soon get the message)</english>
+        <polish>otrzymać wiadomość (Ona otrzyma wkrótce wiadomość)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>I don't mind</english>
+        <polish>Nie mam nic przeciwko</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>How about (a boat trip)</english>
+        <polish>Co "powiesz" na (wycieczkę łódką)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>bay</english>
+        <polish>zatoka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>That sound fantastic!</english>
+        <polish>To brzmi fantastycznie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>It's a pity</english>
+        <polish>szkoda</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>go well (I hope your exam went well)</english>
+        <polish>dobrze idzie (Mam nadzieje że twój egazmin dobrze poszedł)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>visit a place</english>
+        <polish>odwiedzić miejsce</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>come for 3 weeks</english>
+        <polish>przyjechać na 3 tygodnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>hire a car</english>
+        <polish>wypożyczyć samochód</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>travel by bus/train</english>
+        <polish>podóżować autobusem/pociągiem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>spend a few days (somewhere)</english>
+        <polish>spędzić kilka dni (gdzieś)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>It would be great if we could meet.</english>
+        <polish>Byłoby wspaniale, gdybyśmy mogli się spotkać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>Can you recommend a good hotel</english>
+        <polish>Możesz polecić mi dobry hotel</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>Best wishes</english>
+        <polish>Najlepsze życzenia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>Thanks for your email</english>
+        <polish>Dziękuje za Twój email</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>It was great hear from you again</english>
+        <polish>Dobrze Cię znowu usłyszeć (w emailu/liście)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>I'm looking forward to seeing you</english>
+        <polish>Nie mogę się doczekać spotkania z tobą</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>petrol station</english>
+        <polish>stacja benzynowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>race</english>
+        <polish>wyścig/gonitwa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>male</english>
+        <polish>męski</polish>
+        <part>New English File 2 Pre Intermediate - Unit 6</part>
+        <subpart>D</subpart>
+    </word>
+</words>

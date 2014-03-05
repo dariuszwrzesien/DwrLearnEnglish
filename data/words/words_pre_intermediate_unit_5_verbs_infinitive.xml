@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+TO:
+1. Używamy po określonych czasownikach (want to, try to etc...) -> "We decide to go to France",
+2. Po przymiotnikach -> It's nice to meet you, It's difficult to uderstatnd, It was very interesting to see my old school, I'm happy to be here,
+3. Gdy wyjaśniamy dlaczego coś robiliśmy -> Say that you're going to bar TO GET another drink,
+4. Po 'make' i 'let' używamy bezokolicznika bez 'to' -> My parents don't LET me GO out during the week,
+-->
+<words>
+    <word>
+        <english>find it difficult to do sth (it's very difficult to motivate teenagers)</english>
+        <polish>trudne do zrobienia (naprawdę trudno jest zmotywować nastolatków) (po przymiotniku)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>decide to (We decided to go to France)</english>
+        <polish>zdecydować się (Zdecydowaliśmy się jechać do Francji)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>forget to (Don't forget to turn off all the lights)</english>
+        <polish>zaponieć (Nie zapomnij wyłączyć wszystkich świateł)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>help to (He helped her to start the car)</english>
+        <polish>pomóc (On pomógł jej uruchomić samochód)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>hope to (We hope to see you again)</english>
+        <polish>mieć nadzieje (Mamy nadzieje że się ponownie spotkamy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>learn to (I'm learning to drive)</english>
+        <polish>uczyć się (Uczę się jeździć)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>need to (I need to go to th bank. I don't have any money)</english>
+        <polish>potrzebować (Ptrzebuję iść do banku. Nie mam żadnych pieniędzy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>offer to (He offered to take me to air port)</english>
+        <polish>zaoferować (On zaoferował mi zawiezienie mnie na lotnisko)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>plan to (They're planning to get married soon)</english>
+        <polish>planować (Oni zaplanowali pobrać się niebawem)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>pretend to (He pretended to be ill, but he wasn't really)</english>
+        <polish>udawać (On udawał że jest chory, ale w rzeczywistości nie był)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>promise to (He promised to pay me back)</english>
+        <polish>obiecać (On obiecał oddać mi)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>remember to (Remember to bring your dictionaries tommorrow)</english>
+        <polish>pamiętać (Pamiętaj o przyniesieniu swoich słowników jutro)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>start to (She started to cry)</english>
+        <polish>rozpocząć (Zaczeła płakać) Używamy przy krótkich czynnościach - started to. Nie używamy przy nawykach i czynnościach które długo trwają - wtedy start doing, np. I started working here in 1998.</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>try on (I'm trying on find a job, but it's very hard)</english>
+        <polish>próbować (Staram się znaleźć pracę, ale jest to bardzo trudne)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>want to (I want to go home)</english>
+        <polish>chcieć (Chce iść do domu)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>would like to (I'd like to buy new car)</english>
+        <polish>chcieć coś zrobić (Chciałbym kupić nowy samochód)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>make (without "to") (Singing makes me feel good)</english>
+        <polish>sprawiać (bez "to") (Śpiewanie sprawia że czuje się dobrze)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+    <word>
+        <english>let (without "to") (My parents don't let me go out during the week)</english>
+        <polish>pozwolić (bez "to")(Moi rodzice nie pozwolili mi wyjść podczas tygodnia)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_infinitive</subpart>
+    </word>
+</words>

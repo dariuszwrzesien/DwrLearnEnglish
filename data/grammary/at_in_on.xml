@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary>
+    <grammary_issue>
+        <title>in</title>
+        <content>     
+            Country and Cities:
+            in France, in Paris, in Poland, in Gliwice
+            
+            Rooms:
+            in the bedroom, in the kitchen, in the saloon
+            
+            Buildings:
+            in a shop, in a museum, in a super-market
+            
+            Closed spaces - ograniczone/zamknięte powierzchnie
+            in a park, in a garden, in a car
+            
+            Months:
+            in January, in Fabruary, in March, in April, in May, in June
+            
+            Seasons: 
+            in winter, in spring, in summer, in autum
+            
+            Years:
+            in 1980, in 2000
+            
+            Time of day: 
+            in the morning, in the afternoon, in the evening (not night - at night)
+        </content>
+        <comment>
+        </comment>
+        <part>at on in</part>
+        <subpart></subpart>
+    </grammary_issue>
+    <grammary_issue>
+        <title>on</title>
+        <content>     
+            Transport (na pokładzie):
+            on a bike, on a bus, on train, on plane, on ship (not car - in a car)
+            
+            Surface (na powierzchniach):
+            on the floor, on a table, on a shelf, on the balcony, on the roof, on the wall
+            
+            TIME:
+            Dates (dokładne daty): 
+            on March 1st
+            Days (dni tygodnia): 
+            on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday
+            on Sunday morning, on Wednesday afternoon
+            Days (dokładne dni świąteczne - nie okresy świąt): 
+            on New Year's Day. on Valentine's Day (okresy świąt: at Chrismas)
+            Uwaga: 
+            on holiday
+        </content>
+        <comment>
+        </comment>
+        <part>at on in</part>
+        <subpart></subpart>
+    </grammary_issue>
+    <grammary_issue>
+        <title>at</title>
+        <content>     
+            W ściśle określonych miejscach (jedynych)
+            bez the: 
+            at school, at home, at work, at university, at a party
+            
+            at the (w okreśonych punktach):
+            at the airport, at the station, at the door
+            
+            Times:
+            at 6 o'clock, at half past two
+            at noon, at midnight, at sunset
+            
+            Festival periods (okresy świąteczne): 
+            at Chrismass, at Easter, at the weekend
+            
+            Uwaga: at night
+        </content>
+        <comment>
+        </comment>
+        <part>at on in</part>
+        <subpart></subpart>
+    </grammary_issue>
+</grammary>

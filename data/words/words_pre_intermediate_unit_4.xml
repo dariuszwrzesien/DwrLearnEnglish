@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Present perfect:
+
+I've (I have) been to London
+He's (He has) been to London
+She has been to London
+They have been to London
+
+I haven't been to London
+He hasn't been to London
+They haven' been to London
+
+Have you ever been to London? Yes, I have.
+Has she ever been to London? No, she hasn't
+Have they ever been to London
+
+Czasu używamy gdy:
+1. Mówimy o przeszłych doświadczeniach ale nie mówimy dokładnie kiedy się wydarzyły.
+I've been to London. My brother has worked abroad.
+2. Używamy często ever/never - odnosząc się do życiowego doświadczenia.
+Have you ever been to Zara store? No I've never been there.
+3. Go/Be
+He has gone to Paris = He is in Paris now.
+He has been to Paris = He went to Paris and come back.
+
+Present Perfect/Past Simple
+Have you ever been to Mexico? Yes, I have.
+When did you go there? I went last year.
+
+Konwersacje zazwyczaj rozpoczynamy w czasie Present Perfect od ogólnego pytania,
+po czym szczegółowe pytania zadajemy już w Past Simple.
+Past Simple używamy aby określić kiedy cos się wydarzyło.
+
+Past Continous: I/He/She/It was working, You/We/They were working, 
+He wasn't working, Was he working?
+
+1. Past Continous używamy aby opisać czynność w przeszłości dziejącą się w jakimś danym momencie
+At six o,clock last night I was driving home. On April 1st I was staying with some friends in the country.
+
+Past Simple/Past Continous
+When I took the photo, they were writing a song. Zrobiłem zdjęcie, oni pisali piosenkę.
+I was sitting at home when I saw the new on TV. Siedziałem w domu kiedy obejrzałem wiadomości w TV.
+
+1. Past Simple używamy gdy czynności która została zakończona, trwała krótko.
+2. Past Continuous dla czynności trwającej dłużej niż wspomniana wcześniej.
+
+Present Perfect (Yet/Just/Already)
+YET:
+Have you finished yet?
+I haven't finished yet.
+
+Yet używmy przy pytaniach i przeczeniach zawsze na końcu zdania.
+
+JUST - właśnie
+Would you like a coffee?
+No thanks. I've just had one.
+
+Just używamy gdy coś właśnie przed chwilą się stało.
+Just stawiamy zawsze przed głównym czasownikiem.
+
+ALREADY - już
+Do you want to see this film?
+No, I have seen it three times.
+
+Already używamy gdy mówimy że coś się JUŻ wydarzyło.
+Already stawiamy przed głównym czasownikiem.
+
+Stopniowanie przymiotników:
+Stopień wyższy:
++ ER / MORE + 
+short -> shorter
+big -> bigger
+busy -> busier
+relaxed -> more relaxed
+
+nieregularne:
+good -> better
+bad -> worse
+far -> further
+many->more
+litte->less
+
+Przysłówki:
+quickly->more quickly
+slowly->less slowly
+
+nieregularne:
+hard->harder
+well->better
+badly->worse
+
+1. Przymiotniki używamy gdy porównujemy osoby lub rzeczy:
+My brother is taller than me.
+2. Przysłówki używamy gdy porównujemy akcje.
+He drives more slowly than me.
+
+Można użyć także (not) as + (przymiotnik/przysłówek) + as.
+I'm not as tall as my brother. -> wtedy używamy stopnia podstawowego.
+He doesn't drive as fast as me. - >tę formę często spotyka się właśnie w przeczeniach
+
+Stopnień najwyższy
+The (+ EST / MOST +)
+cold->colder->the coldest
+hot->hoter->the hottest
+pretty->prettier->the pretties
+beautiful->more beautiful->the most beautiful
+good->better->the best
+bad->worse->the worst
+far->further->the furthest
+
+1. Czesto używamy najwyższej formy przymiotnika w połączeniu z Present Perfect
+Russia is the coldest country we have ever been to.
+-->
+<words>
+    <word>
+        <english>from rags to riches</english>
+        <polish>od biedaka do bogacza</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>store</english>
+        <polish>sklep</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>probably</english>
+        <polish>prawdopodobnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>chain</english>
+        <polish>łańcuch/sieć(sklepów)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>grow</english>
+        <polish>rosnąć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>very few</english>
+        <polish>niewielu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>ralery</english>
+        <polish>rzadki</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>give interviews</english>
+        <polish>udzielać wywiadu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>multimillionaire</english>
+        <polish>multimilioner</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tie/wear a tie</english>
+        <polish>krawat/ nosić krawat</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>suit/wear a suit</english>
+        <polish>garnitur/nosić garnitur</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shirt</english>
+        <polish>koszula</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>keep coming back (Customers keep coming back to see what's new)</english>
+        <polish>przychodzić spowrotem, powracać (Klienci powracają aby zobaczyć co nowego)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>When did you last go there?</english>
+        <polish>Kiedy ostatni raz tam poszedłeś?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>What did you buy?</english>
+        <polish>Co kupiłeś?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Are you happy with it?</english>
+        <polish>Jesteś zadowolony z tego?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever worn something only once</english>
+        <polish>Czy kiedykolwiek nosiłeś coś tylko raz?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever danced in very uncomfotable shoes</english>
+        <polish>Czy kiedykolwiek tańczyłeś w bardzo niewygodnych butach?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever worn 'fancy dress'</english>
+        <polish>Czy kiedykolwiek nosiłeś strój przebierańca?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever ruined clothes in the washing machines</english>
+        <polish>Czy kiedykolwiek zniszczyłeś ubrania w pralce?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever had an argument with your family about clothes?</english>
+        <polish>Czy kiedykolwiek kłuciłeś się z rodziną na temat ubrań?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever bought something and never worn it?</english>
+        <polish>Czy kiedykolwiek kupiłeś coś i nigdy tego nie załozyłeś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever met somebody who was wearing exactly the same as you?</english>
+        <polish>Czy kiedykolwiek spotkałeś kogoś kto nosił dokładnie to samo co ty?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Have you ever been to a fashion show?</english>
+        <polish>Czy kiedykolwiek byłeś na pokazie mody?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>dream of sth</english>
+        <polish>marzyć o czymś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pyjamas</english>
+        <polish>pidżama</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>successful</english>
+        <polish>pomyślnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>the main reason</english>
+        <polish>główny powód</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>incredibly</english>
+        <polish>niewiarygodny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>react to sth</english>
+        <polish>zareagować na coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>designer fashion</english>
+        <polish>kreator mody</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fashionable</english>
+        <polish>modne</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>inexpensive</english>
+        <polish>tani/niedogi</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>produce clothes</english>
+        <polish>produkować ubranie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>keep comming back</english>
+        <polish>wracać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>none</english>
+        <polish>żaden</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>unusualy</english>
+        <polish>niezwykły</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take off coat (or plane take off)</english>
+        <polish>zdjąć płaszcz (lub start samolotu)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>try on</english>
+        <polish>przymierzać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>dress</english>
+        <polish>sukienka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>top</english>
+        <polish>górna część ubioru/top</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>skirt</english>
+        <polish>spódnica</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>belt</english>
+        <polish>pasek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>T-shirt</english>
+        <polish>koszulka z krótkim rękawkiem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sweater</english>
+        <polish>sweter</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>suit</english>
+        <polish>garnitur</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>coat</english>
+        <polish>płaszcz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tie</english>
+        <polish>krawat</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>scarf</english>
+        <polish>szalik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tracksuit</english>
+        <polish>dres do treningu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>jacket</english>
+        <polish>żakiet</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>hat</english>
+        <polish>kapelusz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>cap</english>
+        <polish>czapka z daszkiem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>blouse</english>
+        <polish>bluzka(damska)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>trousers</english>
+        <polish>spodnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>jeans</english>
+        <polish>spodnie dżinsowe</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>denim</english>
+        <polish>materiał dżinsowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shorts</english>
+        <polish>szorty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shoes</english>
+        <polish>buty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>boots</english>
+        <polish>buty wysokie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>trainers</english>
+        <polish>buty do treningu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>socks</english>
+        <polish>skarpetki</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tights</english>
+        <polish>rajstopy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>get dressed</english>
+        <polish>ubierać się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wear (a hat)</english>
+        <polish>nosić (kapelusz)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take off (sb's boots)</english>
+        <polish>zdejmować (komuś buty)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>try on (a dress)</english>
+        <polish>przymierzać (sukienkę)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>put on (sb's coat)</english>
+        <polish>założyć (czyjś płaszcz)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be happy with sth</english>
+        <polish>cieszyć się z czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wear-wore-worn</english>
+        <polish>nosić na sobie (3 formy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>only once</english>
+        <polish>tylko raz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be was/were been</english>
+        <polish>być (3 formy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fashion show</english>
+        <polish>pokaz mody</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>uncomfortable</english>
+        <polish>nie komfortowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fancy dress</english>
+        <polish>strój na bal przebierańców</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fancy</english>
+        <polish>fantazyjny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>meet met met</english>
+        <polish>spotkać (3 formy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>buy bought bought</english>
+        <polish>kupować (3 formy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>have had had</english>
+        <polish>mieć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>have an argument with sb</english>
+        <polish>kłucić się z kimś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>just/already/yet</english>
+        <polish>just - właśnie (gdy przed chwilą się wydarzyło, używamy przed głównym czasownikiem)/already - już (gdy zostało wcześniej zrobione, używamy przed głównym czasownikiem)/yet - już (w przeczeniach i pytaniach, na końcu zdania)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>He never tidies his room - it's always a mess</english>
+        <polish>On nigdy nie sprząta swojego pokoju - tam jest ciągle bałagan</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>covered</english>
+        <polish>pokryty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>drive sb mad</english>
+        <polish>doprowadzić kogoś do szaleństwa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>make sb's bed</english>
+        <polish>pościelić komuś łóżko</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tidy sb's room</english>
+        <polish>posprzątać czyjś pokój</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mess</english>
+        <polish>bałagan</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>leave wet towels (on the floor)</english>
+        <polish>zostawić mokre ręczniki (na podłodze)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pick sth up</english>
+        <polish>podnieść coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>plate</english>
+        <polish>płyta</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>angelic smile</english>
+        <polish>anielski uśmiech</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>do the washing up</english>
+        <polish>pozmywać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>change the channel (on the TV)</english>
+        <polish>zmienić kanał (telewizyjny)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>take sb's dog for a walk</english>
+        <polish>wziąć czyjegoś psa na spacer</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>guess</english>
+        <polish>zgadywać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>at the last minute</english>
+        <polish>w ostatniej minucie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>chat with sb</english>
+        <polish>rozmawiać z kimś przez czat</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pet</english>
+        <polish>zwierzątko domowe</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hausework</english>
+        <polish>prace domowe</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be late for (work)</english>
+        <polish>być spóźnionym do (pracy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>on the bus</english>
+        <polish>w autobusie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>throw sb out</english>
+        <polish>wyrzucić kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>teenage child</english>
+        <polish>nastoletnie dziecko</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rent a flat</english>
+        <polish>wynająć mieszkanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pay a rent</english>
+        <polish>płacić czynsz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>leave home</english>
+        <polish>opuścić dom</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>take a decision</english>
+        <polish>podjąć decyzję</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>go to court</english>
+        <polish>iść do sądu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rude</english>
+        <polish>niegrzeczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>moody</english>
+        <polish>markotny, rozkapryszony</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>couple</english>
+        <polish>para</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>exactly</english>
+        <polish>dokładnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>impossible</english>
+        <polish>niemożliwe</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>argue</english>
+        <polish>argumentować, spierać się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>treat sb</english>
+        <polish>potraktować kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>contribute</english>
+        <polish>wnieść wkład, przyczynić się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>complain</english>
+        <polish>skarżyć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>insult</english>
+        <polish>obrażać, znieważać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>respect</english>
+        <polish>szanować, respektować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>ruin sb/sth</english>
+        <polish>rujnować kogoś/coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>under (Spanish) law</english>
+        <polish>zgodnie (z Hiszpańskim) prawem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>have the right to do sth</english>
+        <polish>mieć prawo do zrobienia czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>in this case</english>
+        <polish>w tej sprawie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>judge</english>
+        <polish>sędzia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>intolerable</english>
+        <polish>nieznośny, nie do zniesienia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>give sb the right to do sth</english>
+        <polish>dać komuś prawo do zrobienia czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>the right age for sb to do sth</english>
+        <polish>odpowiedni wiek dla kogoś do zrobienia czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>summary</english>
+        <polish>podsumowanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>But sadly this has not happened</english>
+        <polish>Ale niestety ti się nie stało</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>as ... as ...</english>
+        <polish>tak ... jak ...</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>less ... than ...</english>
+        <polish>mniej ... niż ...</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>introduction to sth</english>
+        <polish>wprowadzenie do czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>faster</english>
+        <polish>szybciej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>better</english>
+        <polish>lepiej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>less</english>
+        <polish>mniej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>more</english>
+        <polish>więcej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>harder</english>
+        <polish>trudniej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>longer</english>
+        <polish>dłużej, dłuższy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>previous generation</english>
+        <polish>poprzednie pokolenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be obsessed with sth</english>
+        <polish>mić obsesję na czymś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>save sb time</english>
+        <polish>oszczędzać czyjś czas</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>health</english>
+        <polish>zdrowie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>acceleration</english>
+        <polish>przyspieszenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>suffer from</english>
+        <polish>cierpieć z powodu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hurry</english>
+        <polish>spieszyć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>sickness</english>
+        <polish>choroba</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>as a result</english>
+        <polish>w wyniku/ w rezultacie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>slow down</english>
+        <polish>zwolnij</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>mean</english>
+        <polish>czasownik: znaczyć, przymiotnik: skąpy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>the news</english>
+        <polish>wiadomości, nowości</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>headline</english>
+        <polish>nagłówek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>shorter</english>
+        <polish>niższy/krótszy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bigger</english>
+        <polish>większy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have enought time</english>
+        <polish>mieć wystarczająco dużo czasu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bedtime story</english>
+        <polish>opowieści na dobranoc</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>specially</english>
+        <polish>specjalnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>answerphone</english>
+        <polish>automatyczna sekretarka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>waste time</english>
+        <polish>tracić czas</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>take a long time</english>
+        <polish>trwało długo</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>slower</english>
+        <polish>wolniejszy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>worse</english>
+        <polish>gorszy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>spend time doing sth</english>
+        <polish>spędzać czas na robieniu czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>feel stressed</english>
+        <polish>czuć się zestresowanym</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be worried</english>
+        <polish>martwić się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>arrive on time</english>
+        <polish>przyjechac na czas</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>predict</english>
+        <polish>przepowiadać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>average</english>
+        <polish>średnia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>speed</english>
+        <polish>prędkość, szybkość</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>friendly, unfriendly</english>
+        <polish>przyjacielski, nieprzyjacielski</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>Can you recommend a good museum?</english>
+        <polish>Czy możesz polecić dobre muzeum?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>How far is it from here</english>
+        <polish>Jak to jest daleko stąd?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>What time does it open?</english>
+        <polish>O której jest otwarte</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>Don't I know you?</english>
+        <polish>Czy my się nie znamy?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>That's really kind of you</english>
+        <polish>To miło z twojej strony</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>on the coast</english>
+        <polish>na wybrzeżu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>rude</english>
+        <polish>niegrzeczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>find out</english>
+        <polish>dowiedzieć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>dressed as sb</english>
+        <polish>ubrać się jak ktoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>foreign</english>
+        <polish>zagraniczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>do a test</english>
+        <polish>robić test</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>polite</english>
+        <polish>miły</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>inhabitant</english>
+        <polish>mieszkaniec</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>several</english>
+        <polish>kilka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>accient</english>
+        <polish>wypadek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>pretend to do sth</english>
+        <polish>udawać, symulować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>fall over</english>
+        <polish>spaść</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>in front of</english>
+        <polish>przed</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>They couldn't stop laughing</english>
+        <polish>Oni nie mogli przestać się śmiać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>chic</english>
+        <polish>elegancja, szyk</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>extra money</english>
+        <polish>dodatkowe pieniądze</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>greengrocer's</english>
+        <polish>warzywniak</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>coin</english>
+        <polish>moneta</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>exact</english>
+        <polish>dokładny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>amount</english>
+        <polish>kwota, ilość</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>seller</english>
+        <polish>sprzedawca</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>railway station</english>
+        <polish>stacja kolejowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>give sb the change</english>
+        <polish>wydać komuś resztę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>broken (camera)</english>
+        <polish>zepsuta (kamera)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>pass (a minute passed)</english>
+        <polish>mineła minuta</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>immediately</english>
+        <polish>natychmiast</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>hurry</english>
+        <polish>śpieszyć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>get the right change</english>
+        <polish>otrzymać zgodną resztę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>buy a souvenir</english>
+        <polish>kupić pamiątki</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>impatient</english>
+        <polish>niecierpliwy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>expensive</english>
+        <polish>drogi</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>comfortable</english>
+        <polish>komfortowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>lost</english>
+        <polish>zgubić</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>It's the third street on the left</english>
+        <polish>To jest na trzeciej ulicy w lewo</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Go straight</english>
+        <polish>idź naprzód</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Go down the street</english>
+        <polish>idź w dół ulicy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Go out of (the hotel)</english>
+        <polish>wyjdź z hotelu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Turn left (at Stockton)</english>
+        <polish>Skręć w lewo (w Stocton)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>It will be in front of you</english>
+        <polish>To będzie przed Tobą</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Can you recommend a good museum</english>
+        <polish>Czy możesz polecic dobre muzeum</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Where is it?</english>
+        <polish>Gdzie to jest?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>How far is it from?</english>
+        <polish>Jak to jest daleko stąd?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>It's just a few blocks</english>
+        <polish>To tylko parę bloków</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Can I walk from here?</english>
+        <polish>Czy dojdę stąd na piechotę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Can you show me on the map</english>
+        <polish>Czy możesz pokazać mi na mapie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>on the left/right</english>
+        <polish>po lewej/prawej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>What time does it open?</english>
+        <polish>o której otwierają?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Don't I know you?</english>
+        <polish>Czy ja Cię nie znam?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>I don't think so</english>
+        <polish>Nie sądze</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>What are you doing here?</english>
+        <polish>Co tutaj robisz?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>I'm looking for ...</english>
+        <polish>Szukam ...</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>That's really kind of you</english>
+        <polish>Naprawdę miło z Twojej strony</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>swap (roles)</english>
+        <polish>zamiana (ról)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>be famouse for sth</english>
+        <polish>być znanym z czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>What's the weather like?</english>
+        <polish>Jaka jest pogoda?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>on the coast</english>
+        <polish>na wybrzeżu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>in the north of (Portugal)</english>
+        <polish>na północy (Portugali)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>have a population of (300,00 people)</english>
+        <polish>posiada liczbę mieszkańców</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>narrow</english>
+        <polish>wąski</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>outdoor bars and resteurant</english>
+        <polish>bary i resteurację na wolnym powietrzu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>sit in the sun</english>
+        <polish>siedziec na słońcu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>wet</english>
+        <polish>wilgotny, mokry</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>go to the beach</english>
+        <polish>iść na plażę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>go to the mountains</english>
+        <polish>iść w góry</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>tourist attraction</english>
+        <polish>atrakcja turystyczna</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>probably</english>
+        <polish>prawdopodobnie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>bridge</english>
+        <polish>most</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>including</english>
+        <polish>włączając</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>designed by</english>
+        <polish>zaprojektowany przez</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>boat trip</english>
+        <polish>wycieczka łódką</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>hammer</english>
+        <polish>młotek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>hit sb with sth</english>
+        <polish>uderzyć kogoś czymś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>quite</english>
+        <polish>cichy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>safe</english>
+        <polish>bezpieczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>main reason</english>
+        <polish>główny powód</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>rude, polite</english>
+        <polish>niegrzeczny, grzeczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>noisy, quite</english>
+        <polish>głośny, cichy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>possible, impossible</english>
+        <polish>prawdopodobne, nieprawdopodobne</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>dangerous, safe</english>
+        <polish>niebezpieczny, bezpieczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>patient, impatient</english>
+        <polish>cierpliwy, niecierpliwy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 4</part>
+        <subpart>Practical</subpart>
+    </word>
+</words>

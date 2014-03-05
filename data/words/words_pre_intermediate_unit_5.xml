@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Grammar:
+
+infinitive + TO
+1. Używamy z niektórymi czasownikami (decide to, forget to, help to, hope to, learn to, need to, offer to, plan to, pretend to
+promise to, remember to (remember meeting - pamiętać ostatnie spotkanie), start to, try to - próbować (try doing - ekperymentować)
+want to, would like to)
+2. Po przymiotniku
+It isn't easy to find a job. Nice to meet you.
+3. Używamy aby wyjasnić dlaczego coś robimy
+I came to this school TO learn English. Say that you're going to bar TO get anaother drink.
+
+Zaprzeczenia przez dodanie NOT:
+It's important not to be late. Try not to be late tommorow.
+
+verb +ING
+1.Używamy z niektórymi czasownikami (wyrażającymi nasze uczucia: enjoy, hate, like, love, "don't" mind,
+przestawać coś robić: finish doing, stop doing (stop to do - zatrzymać się aby coś zrobić),
+kontynuować: go on,
+spędzać czas na robieniu czegoś: spend "time")
+2. gdy używamy czasownika jako rzeczownik
+Being with people I like makes me feel good.
+3. Używamy po przyimkach (at, without, of)
+MAKE/LET
+Po make i let używamy bezokolicznika be TO
+Singing makes me feel good.
+My parents don't let me go out during the week.
+
+HAVE TO, DON'T HAVE TO, MUST, MUSTN'T
+She has to get up
+You have to drive on the left in th UK.
+
+We don't have to wear uniform
+He doesn't have to work on Saturdays.
+
+Do I have to buy a book?
+Does she have to study tonight?
+
+1. Używamy HAVE TO + bezokolicznik gdy mówimy o zasadach, regułach - gdy cos odgórni musimy zrobić.
+2. Zaprzeczenia przez DON'T HAVE TO - czyli że nie musimy czegoś robić
+3. Używamy DO/DOES aby zrobić pytania, przeczenia
+Do I have to go?
+
+MUSTN'T - nie wolno, coś jest zabronione
+You mustn't smoke there. - Nie wolno Ci tam palić.
+You mustn't leave your bags here - Nie wolno Ci zostawić tutaj bagażu.
+
+MOVEMENT
+across - przez (ulice), w poprzek (ulicy)
+along - wzdłuż
+through - poprzez
+into the shop - do (z rzeczownikiem -> do sklepu)
+towards - w kierunku
+out of the shop - z (ze sklepu)
+past the church - minąć kościół
+ 
+
+-->
+<words>
+    <word>
+        <english>party animal</english>
+        <polish>imprezowicz, lew salonowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>give a party</english>
+        <polish>wydawać przyjęcie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>go to a party</english>
+        <polish>iść na przyjęcie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>celebration</english>
+        <polish>świętowanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wedding reception</english>
+        <polish>przyjęcie weselne</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>birthday party</english>
+        <polish>impreza urodzinowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>until the end</english>
+        <polish>do końca</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>survive</english>
+        <polish>przetrwać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>at a party</english>
+        <polish>na imprezie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>seem (Everybody there seems to know each other)</english>
+        <polish>wyglądać na, mieć wrażenie (Wszyscy wyglądają jakby znali się nawzajem)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>simple</english>
+        <polish>proste</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tip (Here are five simple tips)</english>
+        <polish>wskazówka (Podaje 5 prostych wskazówek)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>stand in the corner</english>
+        <polish>stać w rogu</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>introduce oneself</english>
+        <polish>przedstawić się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>impersonal (Try to ask impersonal question)</english>
+        <polish>bezosobowy (Staraj się zadawać bezosobowe pytania)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>start a conversation</english>
+        <polish>rozpocząć rozmowę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>dominate</english>
+        <polish>dominować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>nervous</english>
+        <polish>nerwowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>make an impression</english>
+        <polish>zrobić wrażenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>friendly</english>
+        <polish>przyjacielski</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>escape from</english>
+        <polish>uciec z</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>get a drink</english>
+        <polish>dostać drinka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>boring</english>
+        <polish>nudny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tired</english>
+        <polish>zmęczony</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Would you like a drink?</english>
+        <polish>Czy masz ochotę na drinka?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lucky</english>
+        <polish>szczęśliwy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>motivate</english>
+        <polish>motywować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>teenager</english>
+        <polish>nastolatek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>travel agent</english>
+        <polish>przedstawiciel biura podróży</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>recommend</english>
+        <polish>polecić, rekomendować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>hairdresser</english>
+        <polish>fryzjer</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>psychiatrist</english>
+        <polish>psychiatra</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>adult</english>
+        <polish>dorosły</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>guess</english>
+        <polish>odgadnąć</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>guest</english>
+        <polish>gość</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>make (sb feel good)</english>
+        <polish>sprawić (aby ktoś poczuł się dobrze)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sit on a plane (Sitting on the plane when it takes off)</english>
+        <polish>siedzieć w samolocie (Siedzieć w samolocie kiedy on startuje)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>take off (Plane takes off)</english>
+        <polish>startować (Samolot startuje)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wake up on a sunny morning</english>
+        <polish>obudzić się w słoneczny poranek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>during my holidays</english>
+        <polish>podczas moich wakacji</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>have a whole day ahead</english>
+        <polish>mieć cały dzień przed sobą</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>It doesn't matter</english>
+        <polish>To nie ma znaczenia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>forest</english>
+        <polish>las</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>beach</english>
+        <polish>plaża</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>feel alive</english>
+        <polish>czuć że się żyje</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>heavy rain storm</english>
+        <polish>duża ulewa/burza</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>watch something throught the window</english>
+        <polish>oglądać coś przez okno</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pleasure</english>
+        <polish>przyjemność</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>have time for oneself</english>
+        <polish>mieć czas dla siebie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>find sth hard (to belive) / Do you find it difficult to remember?</english>
+        <polish>ciężko w to uwierzyć / Czy uważasz to za trudne?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>use a dictionary</english>
+        <polish>używać słownika</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mystery</english>
+        <polish>tajemnica</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tidy up</english>
+        <polish>posprzątać</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cupboard</english>
+        <polish>szafka, schowek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>stop sb from doing something</english>
+        <polish>zapobiec wykonywaniu czegoś przez kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be interested in doing sth</english>
+        <polish>być zainteresowanym robieniem czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>dream of doing sth</english>
+        <polish>marzyć o robieniu czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>think of doing sth</english>
+        <polish>myśleć o robieniu czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be good at doing sth</english>
+        <polish>być dobrym w robieniu czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sing in the shower</english>
+        <polish>śpiewać pod prysznicem</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sing high notes</english>
+        <polish>śpiewać wysokie nuty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>choir</english>
+        <polish>chór</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>breathe (correctly)</english>
+        <polish>oddychać (poprawnie)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>read music</english>
+        <polish>czytać nuty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be able to do sth</english>
+        <polish>móc coś zrobić</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>It takes a long time to (do sth)</english>
+        <polish>To zabiera dużo czasu (zrobienie czegoś)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>last (one week) (Course lasted one day)</english>
+        <polish>trwać (jeden tydzień) (Kurs trwał jeden dzień)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>a bit better</english>
+        <polish>troszeczkę lepiej</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>have to/don't have to/ must/ mustn't</english>
+        <polish>musieć, nie musieć, chcieć, nie wolno</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>silence</english>
+        <polish>cisza</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>in progress</english>
+        <polish>w trakcie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>entrance</english>
+        <polish>wejście</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fee</english>
+        <polish>opłata</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pay in advance</english>
+        <polish>zapłata z góry</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pronunciation class</english>
+        <polish>klasa w której uczą wymowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>turn off sb's mobile</english>
+        <polish>wyłączyć czyjś telefon komórkowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>obligation</english>
+        <polish>obowiązek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>rule (it's against the rule)</english>
+        <polish>zasada (to jest wbrew zasadą)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>obligatory</english>
+        <polish>obowiązkowy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>necessary</english>
+        <polish>konieczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>permitted</english>
+        <polish>dozwolony</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do an exam (a test)</english>
+        <polish>robić egzamin (test)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>dictionary</english>
+        <polish>słownik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>intensive (Polish) course</english>
+        <polish>intensywny kurs (polskiego)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>learn sth in month / for a month</english>
+        <polish>nauczyć się czegoś w ciągu miesiąca / na miesiąc</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work for sb</english>
+        <polish>pracować dla kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>great-grantmother</english>
+        <polish>prababka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have relatives</english>
+        <polish>mieć krewnych</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm not sure</english>
+        <polish>Nie jestem pewien</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>incredibly (difficult)</english>
+        <polish>niewiarygodnie (trudny)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>complicated</english>
+        <polish>skomplikowany</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>unbelivable</english>
+        <polish>nie do uwierzenia</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>local guide</english>
+        <polish>lokalny przewodnik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>give sb a mark (out of 10)</english>
+        <polish>dać komuś ocenę (z 10)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get a taxi (I would like to order a taxi)</english>
+        <polish>wziąć taksówkę (Chciałbym zmówić taksówkę)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>order a drink (I'll have a drink)</english>
+        <polish>zamówić drinka (Chciałbym się czegoś napić)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ask a direction (How to get to the ... ?)</english>
+        <polish>zapytaj o kierunek (Jak dostać się do ... ?)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ask sb the time (What time is it?)</english>
+        <polish>zapytaj kogoś o godzinę (Która jest godzina)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>waitress</english>
+        <polish>kelnerka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>find out</english>
+        <polish>dowiedzieć się</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>Have you ever (spoken in english on the phone)</english>
+        <polish>Czy ty kiedykolwiek (rozmawiałeś po angielsku przez telefon)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>foreign city</english>
+        <polish>zagraniczne miasto</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>inredibly /really /very /quite /a bit /not very (difficult)</english>
+        <polish>niewiarygodnie /naprawdę /bardzo /całkiem /troszkę /niebardzo (trudny)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>impove sb's English</english>
+        <polish>poprawić język angielski</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be worried abouth sth</english>
+        <polish>martwić się o coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>useful</english>
+        <polish>użyteczny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>movement</english>
+        <polish>ruch</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>play basketball/ tennis/ volleyball/ football/ baseball/ cricket</english>
+        <polish>grać (sporty z piłką) koszykówka/ tenis/ siatkówka/ football/ baseball/ krikiet</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>go swimming/ cycling/ skiing</english>
+        <polish>uprawiać (sporty z końcówką ing) pływanie/ kolarstwo/ jazda na nartach</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>do judo/ karate/ areobics</english>
+        <polish>wykonywać (sporty) judo/ karate/ areobic</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>team sport</english>
+        <polish>zespół, drużyna (Nie sport drużynowy!)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>player</english>
+        <polish>gracz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>hit/ throw/ kick the ball</english>
+        <polish>uderzyć/ rzucić/ kopnąć piłkę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>shoot</english>
+        <polish>strzelać (również: rzucić do kosza w koszykówce)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>sport team</english>
+        <polish>sport drużynowy (Nie zespół!)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>rules of the game</english>
+        <polish>zasady gry</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>outside, inside</english>
+        <polish>na zewnątrz, w środku</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>hit the ball into a small hole</english>
+        <polish>wbić piłkę do małej dziury</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>hit the ball over a net</english>
+        <polish>przebić piłke nad siatką</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>go round the track</english>
+        <polish>biec w około toru</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>pass the finish line</english>
+        <polish>przekroczyć linie mety</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>pass the ball to sb</english>
+        <polish>podać piłkę do kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>kick the ball into the goal</english>
+        <polish>kopnąć piłke do bramki</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>touch sth</english>
+        <polish>dotknąć czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>throw a ball to sb</english>
+        <polish>rzucic piłkę do kogoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>get points</english>
+        <polish>dostać punkty</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>under/ along/ round/ around/ throught/ into/ across/ over/ up/ past/ towards/ down/ out of</english>
+        <polish>pod/ wzdłuż/ w około/ do okoła/ poprzez/ do/ wpoprzek/ nad/ do góry/ obok,  (przejść obok)/ w kierunku/ w dół/ z</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>lake</english>
+        <polish>jezioro</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>railway line</english>
+        <polish>linia kolejowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>tunnel</english>
+        <polish>tunel</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>road</english>
+        <polish>droga</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>bridge</english>
+        <polish>most</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>steps</english>
+        <polish>schody</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>D</subpart>
+    </word>
+    <word>
+        <english>at a deoartment store</english>
+        <polish>w domu towarowym</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>size / What size is she?</english>
+        <polish>rozmiar / Jaki ona ma rozmiar</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>try sth on</english>
+        <polish>przymierzyć coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>cost</english>
+        <polish>kosztować</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>pay by credit card / in cash</english>
+        <polish>zapłacić kartą kredytową / w gotówce</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>ask for sb's money back</english>
+        <polish>zapytać o zwrot pieniędzy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Can I help you?</english>
+        <polish>W czym mogę pomóc?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Is there a problem?</english>
+        <polish>Czy jest jakiś problem?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>The sweater's too big for me</english>
+        <polish>Ten sweter jest na mnie za duży</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I'll go and check</english>
+        <polish>Pójde i sprawdzę</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>small/ medium/ large (size)</english>
+        <polish>mały/ średni/ duży (rozmiar)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Do you have any more?</english>
+        <polish>Czy masz więcej?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>It'll only take a few days?</english>
+        <polish>To zajmię tylko kilka dni</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>exchange sth for sth</english>
+        <polish>wymienić coś na coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Could I have a refund?</english>
+        <polish>Czy mogę dostać zwrot pieniędzy?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Do you have a receipt?</english>
+        <polish>Czy masz paragon?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Here you are</english>
+        <polish>Tutaj jest / proszę bardzo (podając coś)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>annoyed</english>
+        <polish>zdenerwowany, zirytowany</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What would you think of it? / What are you thinking about?</english>
+        <polish>Co sądzisz o tym? / O czym myślisz teraz</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Never mind</english>
+        <polish>Nieważne</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What a lovely evening</english>
+        <polish>Co za uroczy wieczór</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I got lost / I lost my wallet</english>
+        <polish>Zgubiłem się / Zgubiłem mój portfel</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What would you like to do?</english>
+        <polish>Co chciałbyś robić?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What a good idea!</english>
+        <polish>Co za wspaniały pomysł</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Dear Sir/ Madam</english>
+        <polish>drogi Panie/ Pani (w rozpoczęciu np. e-mail'a)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Yours faithfully</english>
+        <polish>z poważaniem (w zakończeniu np. e-mail'a)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I look forward to hearing from you</english>
+        <polish>oczekuje na wiadomość od Państwa (w zakończeniu np. e-mail'a)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>library</english>
+        <polish>biblioteka</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>currently</english>
+        <polish>obecnie (przysłówek)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>framework</english>
+        <polish>struktura pracy, szablon pracy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>level</english>
+        <polish>poziom</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>website</english>
+        <polish>strona internetowa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>accommodation</english>
+        <polish>mieszkanie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>If possible I would like to ...</english>
+        <polish>Jeśli to możliwe, chciałbym ...</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>cookery</english>
+        <polish>sztuka kulinarna</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>northern</english>
+        <polish>północny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>included</english>
+        <polish>zawierający</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>tennis coach</english>
+        <polish>trener tenisa</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>be tired of doing something</english>
+        <polish>być zmęczonym robieniem czegoś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>be late for sth</english>
+        <polish>być spóźnionym na coś</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>run along the track</english>
+        <polish>biec wzdłuż toru</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>do areobics</english>
+        <polish>wykonywać areobic</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>throught</english>
+        <polish>poprzez</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>very hight posts</english>
+        <polish>bardzo wysokie słupy</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>present the cup</english>
+        <polish>wręczyć puchar</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Who was taking part?</english>
+        <polish>Kto brał udział?</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>stadium (Nou Camp stadium)</english>
+        <polish>stadion (Stadion Nou Camp)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>pitch</english>
+        <polish>boisko</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>despair (in despair)</english>
+        <polish>rozpacz (w rozpaczy)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>was incredibly intense</english>
+        <polish>była niesamowicie intensywna</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>penalty</english>
+        <polish>karny</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>scored</english>
+        <polish>zapunktować, zdobyć punkt/gola</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>ecstatic</english>
+        <polish>zachwycenie</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>blow his whisle</english>
+        <polish>dmuchną w gwizdek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>missed both</english>
+        <polish>przegapił oba</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>unforgettable</english>
+        <polish>niezapomniane</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>receipt</english>
+        <polish>paragon</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>bill</english>
+        <polish>rachunek</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>prescription</english>
+        <polish>recepta</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What size is this sweater? / What size are these troursers</english>
+        <polish>Jaki jest rozmiar tego swetra? / Jaki jest rozmiar tych spodni</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>infinitive</english>
+        <polish>bezokolicznik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>adjective</english>
+        <polish>przymiotnik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>noun</english>
+        <polish>rzeczownik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>verb</english>
+        <polish>czasownik</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+</words>

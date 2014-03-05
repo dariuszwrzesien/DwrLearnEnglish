@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+1. Po określonych czasownikach -> I love sitting at cafes,
+2. Kiedy używamy czasownika jak rzeczownika -> He thinks winning is the most important thing, Eating cakes and junk food is unhealthy, Being with people I like makes me feel good,
+3. Gdy używamy czasownika po przyimku -> I can enjoy reading WITHOUT USING a dictionary, Are you good AT REMEMBERING ?
+4. TRY +ing używamy gdy mówimy o eksperymencie -> Why don't try  DOING YOGA ?
+5. REMEMBER +ing używamy gdy mówimy o czynności która nastąpiła wcześniej -> I remember CLOSING the window - pamiętam że zamknąłem okno. (I remember TO CLOSE the window - pamietałem żeby zamknąć okno)
+6. FORGET +ing używamy gdy mówimy o czynności która nastąpiła wcześniej -> I won't forget meeting you - nie zapomne pierwszego spotkania z tobą. (I won't forget TO MEET you - nie zapomne żeby się z tobą spotkać)
+-->
+<words>
+    <word>
+        <english>enjoy doing (I enjoy reading in bed)</english>
+        <polish>cieszyć się robieniem czegoś (Sprawia mi przyjemność czytanie w łóżku)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>like doing (I like having lunch in the garden)</english>
+        <polish>lubić robienie czegoś (Lubię mieć obiad w ogrodzie)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>love doing (I love waking up on sunny morning)</english>
+        <polish>kochać robienie czegoś (Kocham budzić się słonecznym porankiem)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>hate doing (I hate getting up early)</english>
+        <polish>nienawidzieć robić czegoś (Nienawidzę wstawać wcześnie)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>(don't) mind doing (I don't mind cooking)</english>
+        <polish>nie mieć nic przeciko (Nie mam nic przeciwko gotowaniu)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>finish doing (Have you finished getting dressed?)</english>
+        <polish>skończyć robienie czegoś (Czy skończyłeś się ubierać)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>stop doing (Please stop talking)</english>
+        <polish>zaprzestać robienia czegoś (Proszę przestać rozmawiać)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>go on doing = continue (I have to go on working until 9 o'clock)</english>
+        <polish>kontynuować robienie (Muszę kontynuować pracę aż do 9)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>start doing (She started reading this book last week)</english>
+        <polish>rozpocząć robienie czegoś (Ona rozpoczeła czytanie tej książki w zeszłym tygodniu) Używamy przy nawykach lub czynnościach które długo trwają.</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+    <word>
+        <english>spend (time) doing (She spends hours talking on the phone)</english>
+        <polish>spędzać czas na robieniu czegoś (Ona spędza godziny rozmawiając przez telefon)</polish>
+        <part>New English File 2 Pre Intermediate - Unit 5</part>
+        <subpart>verbs_and_ing</subpart>
+    </word>
+</words>

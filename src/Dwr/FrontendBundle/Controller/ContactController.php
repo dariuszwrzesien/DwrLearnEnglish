@@ -14,6 +14,9 @@ class ContactController extends Controller
      */
     public function indexAction()
     {
-        return array();
+        $author = $this->container->getParameter('author');
+        $author_mail = $this->container->getParameter('author_mail');
+        
+        return array('author' => $author, 'author_mail' => $author_mail);
     }
 }

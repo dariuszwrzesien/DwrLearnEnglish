@@ -43,16 +43,14 @@ class Grammary
     private $comment;
 
     /**
-     * @var string
-     *
-     * @ORM\Column(name="part", type="string", length=255)
+     * @ORM\ManyToOne(targetEntity="Part", inversedBy="grammaries")
+     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false)
      */
     private $part;
-
+    
     /**
-     * @var string
-     *
-     * @ORM\Column(name="subpart", type="string", length=255)
+     * @ORM\ManyToOne(targetEntity="Subpart", inversedBy="grammaries")
+     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false)
      */
     private $subpart;
 

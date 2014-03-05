@@ -36,20 +36,18 @@ class Word
     private $polish;
 
     /**
-     * @var string
-     *
-     * @ORM\Column(name="part", type="string", length=255)
+     * @ORM\ManyToOne(targetEntity="Part", inversedBy="words")
+     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false)
      */
     private $part;
-
+    
     /**
-     * @var string
-     *
-     * @ORM\Column(name="subpart", type="string", length=255)
+     * @ORM\ManyToOne(targetEntity="Subpart", inversedBy="words")
+     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false)
      */
     private $subpart;
 
-
+    
     /**
      * Get id
      *

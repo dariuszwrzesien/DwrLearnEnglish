@@ -1,5 +1,6 @@
 <?php
 $I = new WebGuy($scenario);
-$I->wantTo('see email adress belongs to contact person');
+$I->wantTo('see author name and email');
 $I->amOnPage('/web/contact');
-$I->see('dariuszwrzesien@gmail.com');
+$I->see($author);
+$I->see($author_mail);

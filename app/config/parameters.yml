@@ -12,3 +12,5 @@ parameters:
     mailer_password: null
     locale: en
     secret: ThisTokenIsNotSoSecretChangeIt
+    author: Dariusz Wrzesień
+    author_mail: dariuszwrzesien@gmail.com

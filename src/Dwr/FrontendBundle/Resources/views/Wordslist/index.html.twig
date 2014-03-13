@@ -4,18 +4,18 @@
 <div id="js_words_list" class="margin-top-75 subcontainer">
     <div class="btn-group">
         <div class="btn-group">
-            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                 Choose words package 
                 <span class="caret"></span>
             </button>
             <ul class="dropdown-menu">
                 {% for part in parts %}
-                <li><a href="{{ path('words_list', {'words_package': part.part})}}">{{part.part}}</a></li>
+                <li><a href="{{ path('words_list', {'words_package_id': part.id})}}">{{part.name}}</a></li>
                  {% endfor %}
             </ul>
         </div>
     </div>
-    {% if(words_package)%}
+    {% if(words)%}
     <div>
         <table class="margin-top-50 table table-striped">
             <thead>

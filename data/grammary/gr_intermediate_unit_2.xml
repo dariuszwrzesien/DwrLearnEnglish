@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>Present Perfect and Past Simple</title>
         <content> 
             Present Perfect:
@@ -73,8 +73,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 2</part>
         <subpart>2A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Present Perfect Continous</title>
         <content> 
             Present Perfect Continous DLA NIEUKOŃCZONYCH DZIAŁAŃ (AKCJI)
@@ -117,8 +117,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 2</part>
         <subpart>2B</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Comparatives and superlatives</title>
         <content> 
             (z poprzedniego roku)
@@ -190,5 +190,5 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 2</part>
         <subpart>2C</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

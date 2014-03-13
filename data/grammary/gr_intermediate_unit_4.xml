@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>First conditional and future time clauses + when, until, etc</title>
         <content> 
             IF (or UNLESS = IF NOT) + Present Simple, WILL/WON'T + Infinitife
@@ -44,8 +44,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>4A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Second Conditional</title>
         <content> 
             IF + past simple, would/wouldn't + infinitive
@@ -83,8 +83,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>4B</subpart>
-    </grammary_issue>
-        <grammary_issue>
+    </grammary>
+        <grammary>
         <title>Usually and used to</title>
         <content>
             USUALLY 
@@ -117,5 +117,5 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>4C</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

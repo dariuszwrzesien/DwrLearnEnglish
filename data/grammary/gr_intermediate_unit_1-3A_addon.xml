@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>Food and restaurants</title>
         <content> 
             Food / Resteurant
@@ -9,8 +9,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Sport</title>
         <content> 
             Sport
@@ -19,8 +19,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Myself, yourself ...</title>
         <content> 
             Myself, yourself ...
@@ -29,8 +29,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Personality</title>
         <content> 
             Personality
@@ -39,8 +39,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Money</title>
         <content> 
             Money
@@ -49,8 +49,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>numbers</title>
         <content> 
             Numbers
@@ -59,8 +59,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Strong adjectives</title>
         <content> 
             tiny = very small
@@ -80,8 +80,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Transport and travel</title>
         <content> 
             Transport and travel
@@ -90,5 +90,5 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1-3A Addon</part>
         <subpart>1-3A</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

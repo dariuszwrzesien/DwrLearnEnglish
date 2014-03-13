@@ -10,7 +10,7 @@
             </button>
             <ul class="dropdown-menu">
                 {% for part in parts %}
-                <li><a id="item{{loop.index}}" href="{{ path('grammary', {'grammary_package': part.part})}}">{{part.part}}</a></li>
+                <li><a id="item{{loop.index}}" href="{{ path('grammary', {'grammary_package_id': part.id})}}">{{part.name}}</a></li>
                  {% endfor %}
             </ul>
         </div>
@@ -19,7 +19,7 @@
     <div class="margin-top-50">
             {% for grammary in grammary %}
         <div class="margin-top-50">
-            <h5><strong>{{grammary.subpart|nl2br}}</strong> ({{grammary.part|nl2br}})</h5>
+            <h5><strong>{{grammary.subpart.name|nl2br}}</strong> ({{grammary.part.name|nl2br}})</h5>
             <h2>{{grammary.title|nl2br}}</h2>
             
         </div>

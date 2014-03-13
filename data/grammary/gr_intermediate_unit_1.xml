@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>Present Simple and Continuous, action and non-action verbs</title>
         <content>    
             PRESENT SIMPLE 
@@ -48,8 +48,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1</part>
         <subpart>1A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Present Simple and Continuous, action and non-action verbs</title>
         <content>    
             PAST TENSES
@@ -92,8 +92,8 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1</part>
         <subpart>1B</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Future forms</title>
         <content>    
             BE GOING TO + infinitive
@@ -173,5 +173,5 @@
         </comment>
         <part>New English File 3 Intermediate - Unit 1</part>
         <subpart>1C</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

@@ -1,0 +1,33 @@
+{% extends "::layout.html.twig" %}
+
+{% block content %}
+<div id="js_sentences" class="margin-top-75 subcontainer">
+    <div class="btn-group">
+        <div class="btn-group">
+            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Choose sentences package 
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                {% for part in parts %}
+                <li><a id="item{{loop.index}}" href="{{ path('sentences', {'sentences_package_id': part.id})}}">{{part.name}}</a></li>
+                 {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% if(sentences)%}
+    <div class="margin-top-50">
+            {% for sentence in sentences %}
+        <div class="margin-top-50">
+            <h5><strong>{{sentence.subpart.name|nl2br}}</strong> ({{sentence.part.name|nl2br}})</h5>
+            <h2>{{sentence.title|nl2br}}</h2>
+            
+        </div>
+        <div>
+            <p>{{sentence.content|nl2br}}</p>
+        </div>
+            {% endfor %}
+    </div>
+    {% endif%}
+</div>
+{% endblock %}

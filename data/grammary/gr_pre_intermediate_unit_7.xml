@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>Present Perfect + for / + since</title>
         <content>     
             A. Where do you live now? B. In Manchester.
@@ -20,8 +20,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 7</part>
         <subpart>7A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Present Perfect czy Past simple</title>
         <content>
             How long has Tarantino been a director? He has been a director since the 1980s.
@@ -38,8 +38,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 7</part>
         <subpart>7B</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>USE TO/ DIDN'T USE TO (KIEDYŚ) | USED TO/ DIDN"T USE TO + Infinitive</title>
         <content>
             I, You, He, She, We etc. USED TO wear glasses
@@ -66,8 +66,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 7</part>
         <subpart>7C</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>PASSIVE VOICE</title>
         <content>
             be (is, are, was, were) + past participle (III Forma)
@@ -114,5 +114,5 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 7</part>
         <subpart>7D</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

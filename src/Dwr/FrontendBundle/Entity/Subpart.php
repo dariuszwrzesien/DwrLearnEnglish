@@ -37,6 +37,11 @@ class Subpart
      * @ORM\OneToMany(targetEntity="Grammary", mappedBy="subpart")
      */
     private $grammaries;
+    
+    /**
+     * @ORM\OneToMany(targetEntity="Sentence", mappedBy="subpart")
+     */
+    private $sentences;
 
 
     /**
@@ -143,5 +148,38 @@ class Subpart
     public function getGrammaries()
     {
         return $this->grammaries;
+    }
+
+    /**
+     * Add sentences
+     *
+     * @param \Dwr\FrontendBundle\Entity\Sentence $sentences
+     * @return Subpart
+     */
+    public function addSentence(\Dwr\FrontendBundle\Entity\Sentence $sentences)
+    {
+        $this->sentences[] = $sentences;
+
+        return $this;
+    }
+
+    /**
+     * Remove sentences
+     *
+     * @param \Dwr\FrontendBundle\Entity\Sentence $sentences
+     */
+    public function removeSentence(\Dwr\FrontendBundle\Entity\Sentence $sentences)
+    {
+        $this->sentences->removeElement($sentences);
+    }
+
+    /**
+     * Get sentences
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSentences()
+    {
+        return $this->sentences;
     }
 }

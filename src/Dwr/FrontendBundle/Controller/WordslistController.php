@@ -10,19 +10,20 @@ class WordslistController extends Controller
 {
 
     /**
-     * @Route("/words_list/{words_package}", defaults={"words_package" = null}, name="words_list")
+     * @Route("/words_list/{words_package_id}", defaults={"words_package_id" = null}, name="words_list")
      * @Template()
      */
-    public function indexAction($words_package)
+    public function indexAction($words_package_id)
     {
         $em = $this->getDoctrine()->getManager();
-        $words = $em->getRepository('DwrFrontendBundle:Word')->findBy(array('part' => $words_package));
-        $parts = $em->getRepository('DwrFrontendBundle:Word')->findAllFromColumn('DwrFrontendBundle:Word', 'part');
+                
+        $words = $em->getRepository('DwrFrontendBundle:Word')->findBy(array('part' => (int)$words_package_id));
+        $parts = $em->getRepository('DwrFrontendBundle:Word')->findAllPartsForEntity('DwrFrontendBundle:Word');
         
         return array(
             'parts' => $parts,
             'words' => $words,
-            'words_package' => $words_package
+            'words_package' => $words_package_id
         );
     }
 

@@ -24,14 +24,14 @@ class Word
     /**
      * @var string
      *
-     * @ORM\Column(name="english", type="string", length=255)
+     * @ORM\Column(name="english", type="string", length=255, nullable=true)
      */
     private $english;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="polish", type="string", length=255)
+     * @ORM\Column(name="polish", type="string", length=255, nullable=true)
      */
     private $polish;
 

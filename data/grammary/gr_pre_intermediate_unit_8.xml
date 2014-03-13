@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>Something, anything, nothing, etc.</title>
         <content>
                 Zdanie pozytywne, oznajmiające:
@@ -33,8 +33,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 8</part>
         <subpart>8A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Liczebniki too, too much, too many, enough, a lot of, a lot</title>
         <content>
             Too, too much, too many.
@@ -64,8 +64,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 8</part>
         <subpart>8B</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Kolejność PHRASAL VERBS</title>
         <content>
             Every morning I get up at 8.00.
@@ -132,8 +132,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 8</part>
         <subpart>8C</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>SO, NEITHER + słówka pomocnicze</title>
         <content>
             SO, NEITHER + słówka pomocnicze
@@ -165,5 +165,5 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 8</part>
         <subpart>8D</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

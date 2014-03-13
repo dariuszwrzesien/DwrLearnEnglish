@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title></title>
         <content>     
 
@@ -9,8 +9,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 4</part>
         <subpart>4A</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title></title>
         <content>
         </content>
@@ -18,8 +18,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 4</part>
         <subpart>4B</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Comparative adjectives (przymiotniki porównawcze)</title>
         <content>
             short -> shortER - w jedno sylabowych dodajemy ER
@@ -54,8 +54,8 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 4</part>
         <subpart>4C</subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>Superlatives (najwyższy stopień)</title>
         <content>
             Dodajemy na poczatku stawiamy THE a później dodajemy MOST lub +EST,
@@ -75,5 +75,5 @@
         </comment>
         <part>New English File 2 Pre Intermediate - Unit 7</part>
         <subpart>7D</subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

@@ -14,5 +14,6 @@ parameters:
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
 
+    address: http://words2.local
     author: Dariusz Wrzesień
     author_mail: dariuszwrzesien@gmail.com

@@ -9,19 +9,19 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class GrammaryController extends Controller
 {
     /**
-     * @Route("/grammary/{grammary_package}", defaults={"grammary_package" = null}, name="grammary")
+     * @Route("/grammary/{grammary_package_id}", defaults={"grammary_package_id" = null}, name="grammary")
      * @Template()
      */
-    public function indexAction($grammary_package)
+    public function indexAction($grammary_package_id)
     {
         $em = $this->getDoctrine()->getManager();
-        $grammary = $em->getRepository('DwrFrontendBundle:Grammary')->findBy(array('part' => $grammary_package));
-        $parts = $em->getRepository('DwrFrontendBundle:Grammary')->findAllFromColumn('DwrFrontendBundle:Grammary', 'part');
+        $grammary = $em->getRepository('DwrFrontendBundle:Grammary')->findBy(array('part' => $grammary_package_id));
+        $parts = $em->getRepository('DwrFrontendBundle:Grammary')->findAllPartsForEntity('DwrFrontendBundle:Grammary');
         
         return array(
             'parts' => $parts,
             'grammary' => $grammary,
-            'grammary_package' => $grammary_package
+            'grammary_package' => $grammary_package_id
         );
     }
 }

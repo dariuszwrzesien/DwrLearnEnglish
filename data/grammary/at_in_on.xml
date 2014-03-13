@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammary>
-    <grammary_issue>
+<grammary_roles>
+    <grammary>
         <title>in</title>
         <content>     
             Country and Cities:
@@ -31,8 +31,8 @@
         </comment>
         <part>at on in</part>
         <subpart></subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>on</title>
         <content>     
             Transport (na pokładzie):
@@ -56,8 +56,8 @@
         </comment>
         <part>at on in</part>
         <subpart></subpart>
-    </grammary_issue>
-    <grammary_issue>
+    </grammary>
+    <grammary>
         <title>at</title>
         <content>     
             W ściśle określonych miejscach (jedynych)
@@ -80,5 +80,5 @@
         </comment>
         <part>at on in</part>
         <subpart></subpart>
-    </grammary_issue>
-</grammary>
+    </grammary>
+</grammary_roles>

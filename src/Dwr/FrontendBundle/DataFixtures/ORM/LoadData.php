@@ -13,20 +13,36 @@ use Dwr\FrontendBundle\Entity\Sentence;
 class LoadData implements FixtureInterface
 {
 
-    public function load(ObjectManager $manager)
+    //TO DO: 
+    //zrobić unit testy
+
+    protected $dataStorage = array();
+
+    public function __construct()
     {
-        $dataStorage = array(
+        $this->dataStorage = array(
             'word' => 'data/words',
             'sentence' => 'data/sentences',
             'grammary' => 'data/grammary'
         );
-        
-        foreach ($dataStorage as $dataDir) {
+    }
+
+    public function load(ObjectManager $manager)
+    {
+
+        $progress = new \Symfony\Component\Console\Helper\ProgressHelper();
+        $output = new \Symfony\Component\Console\Output\ConsoleOutput();
+
+        foreach ($this->dataStorage as $dataDir) {
             if (opendir($dataDir)) {
                 $dirHandle = opendir($dataDir);
                 while (false !== ($file = readdir($dirHandle))) {
                     if ($file != "." && $file != "..") {
                         $xml = simplexml_load_file($dataDir . '/' . $file);
+
+                        $output->writeln($file);
+                        $progress->start($output, $xml->count());
+
                         foreach ($xml->children() as $child) {
                             /**
                              * Add Part and Subpart if don't exist
@@ -38,7 +54,9 @@ class LoadData implements FixtureInterface
                              * Add Data to Entity
                              */
                             $Object = $this->addData($manager, $child, $Part, $Subpart);
+                            $progress->advance();
                         }
+                        $progress->finish();
                     }
                 }
             }
@@ -46,7 +64,7 @@ class LoadData implements FixtureInterface
         $manager->flush();
     }
 
-    private function addPart(ObjectManager $manager, $part)
+    protected function addPart(ObjectManager $manager, $part)
     {
         $partInDb = $manager->getRepository('DwrFrontendBundle:Part')
                 ->findOneBy(array('name' => $part));
@@ -62,7 +80,7 @@ class LoadData implements FixtureInterface
         }
     }
 
-    private function addSubpart(ObjectManager $manager, $subpart)
+    protected function addSubpart(ObjectManager $manager, $subpart)
     {
         $subpartInDb = $manager->getRepository('DwrFrontendBundle:Subpart')
                 ->findOneBy(array('name' => $subpart));
@@ -78,9 +96,8 @@ class LoadData implements FixtureInterface
         }
     }
 
-    private function addData(ObjectManager $manager, \SimpleXMLElement $data, $Part, $Subpart)
+    protected function addData(ObjectManager $manager, \SimpleXMLElement $data, Part $Part, Subpart $Subpart)
     {
-
         $entityName = "Dwr\FrontendBundle\Entity\\"
                 . ucfirst((string) $data->getName());
 

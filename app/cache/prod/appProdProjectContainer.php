@@ -1436,7 +1436,7 @@ class appProdProjectContainer extends Container
             'kernel.root_dir' => '/home/darek/Projekty/www/words2/app',
             'kernel.environment' => 'prod',
             'kernel.debug' => false,
-            'kernel.name' => 'ap_',
+            'kernel.name' => 'app',
             'kernel.cache_dir' => '/home/darek/Projekty/www/words2/app/cache/prod',
             'kernel.logs_dir' => '/home/darek/Projekty/www/words2/app/logs',
             'kernel.bundles' => array(

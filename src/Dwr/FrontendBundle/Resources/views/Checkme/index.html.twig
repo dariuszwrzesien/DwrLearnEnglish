@@ -1,9 +1,44 @@
 {% extends "::layout.html.twig" %}
 
 {% block content %}
-<div id="js_check_me" class="margin-top-150 subcontainer">
-    <p>
-        checkme
-    </p>
+<div id="js_check_me" class="margin-top-75 subcontainer">
+    <div class="btn-group">
+        <div class="btn-group">
+            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                {% if(part) %}
+                {{ part.name}}
+                {% else %}
+                Choose words package
+                {% endif %}
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                {% for part in parts %}
+                <li><a href="{{ path('check_me', {'part_id': part.id})}}">{{part.name}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="float-right">
+        <button id="js-bulb" class="bulb-on" /></button>
+    </div>
+    {% if(word) %}
+    <div class="center-block checkme-box">
+        <div class="question-answer-block">
+            <div id="question" class="label label-success">Question wewewew e w</div>
+            <div id="answer" class="label label-default">Answereqweqw e q e qeq</div>
+        </div>
+        <br class="clear-both" />
+        <div class="form-block">
+            <p>
+            {{ form(form)}}
+            </p>
+        </div>
+        <br class="clear-both" />
+        <div class="restart-block">
+            <p><button type="button" class="btn btn-default btn-sm navbar-btn restart-button">Restart</button></p>
+        </div>
+    </div>
+    {% endif %}
 </div>
 {% endblock %}

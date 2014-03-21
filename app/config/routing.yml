@@ -9,17 +9,19 @@ dwr_frontend:
     prefix:   /
     
 dwr_apirest_words_all:
-    pattern:  /words
+    pattern:  /words/{part_id}
     defaults: { _controller: DwrApiRestBundle:Word:all, _format: json }
     requirements:
         _method: GET
+        part_id: "\d+"
 
 dwr_apirest_word_get:
-    pattern:  /word/{id}
+    pattern:  /word/{part_id}/{word_id}
     defaults: { _controller: DwrApiRestBundle:Word:get, _format: json }
     requirements:
         _method: GET
-        id: "\d+"
+        part_id: "\d+"
+        word_id: "\d+"
         
 NelmioApiDocBundle:
     resource: "@NelmioApiDocBundle/Resources/config/routing.yml"

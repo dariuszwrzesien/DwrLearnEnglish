@@ -5,7 +5,11 @@
     <div class="btn-group">
         <div class="btn-group">
             <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                Choose sentences package 
+                {% if(part) %}
+                {{ part.name}}
+                {% else %}
+                Choose sentence package
+                {% endif %}
                 <span class="caret"></span>
             </button>
             <ul class="dropdown-menu">

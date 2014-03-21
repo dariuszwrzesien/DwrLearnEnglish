@@ -67,20 +67,20 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                 }
 
                 // dwr_apirest_words_all
-                if ($pathinfo === '/words') {
+                if (preg_match('#^/words/(?P<part_id>\\d+)$#s', $pathinfo, $matches)) {
                     if (!in_array($this->context->getMethod(), array('GET', 'HEAD'))) {
                         $allow = array_merge($allow, array('GET', 'HEAD'));
                         goto not_dwr_apirest_words_all;
                     }
 
-                    return array (  '_controller' => 'Dwr\\ApiRestBundle\\Controller\\WordController::allAction',  '_format' => 'json',  '_route' => 'dwr_apirest_words_all',);
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'dwr_apirest_words_all')), array (  '_controller' => 'Dwr\\ApiRestBundle\\Controller\\WordController::allAction',  '_format' => 'json',));
                 }
                 not_dwr_apirest_words_all:
 
             }
 
             // dwr_apirest_word_get
-            if (preg_match('#^/word/(?P<id>\\d+)$#s', $pathinfo, $matches)) {
+            if (preg_match('#^/word/(?P<part_id>\\d+)/(?P<word_id>\\d+)$#s', $pathinfo, $matches)) {
                 if (!in_array($this->context->getMethod(), array('GET', 'HEAD'))) {
                     $allow = array_merge($allow, array('GET', 'HEAD'));
                     goto not_dwr_apirest_word_get;

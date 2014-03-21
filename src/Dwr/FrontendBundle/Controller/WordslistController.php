@@ -16,11 +16,13 @@ class WordslistController extends Controller
     public function indexAction($words_package_id)
     {
         $em = $this->getDoctrine()->getManager();
-                
-        $words = $em->getRepository('DwrFrontendBundle:Word')->findBy(array('part' => (int)$words_package_id));
+
+        $words = $em->getRepository('DwrFrontendBundle:Word')->findBy(array('part' => $words_package_id));
+        $part = $em->getRepository('DwrFrontendBundle:Part')->findOneBy(array('id' => $words_package_id));
         $parts = $em->getRepository('DwrFrontendBundle:Word')->findAllPartsForEntity('DwrFrontendBundle:Word');
-        
+
         return array(
+            'part' => $part,
             'parts' => $parts,
             'words' => $words,
             'words_package' => $words_package_id

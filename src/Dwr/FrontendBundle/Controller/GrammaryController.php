@@ -16,9 +16,11 @@ class GrammaryController extends Controller
     {
         $em = $this->getDoctrine()->getManager();
         $grammary = $em->getRepository('DwrFrontendBundle:Grammary')->findBy(array('part' => $grammary_package_id));
+        $part = $em->getRepository('DwrFrontendBundle:Part')->findOneBy(array('id' => $grammary_package_id));
         $parts = $em->getRepository('DwrFrontendBundle:Grammary')->findAllPartsForEntity('DwrFrontendBundle:Grammary');
         
         return array(
+            'part' => $part,
             'parts' => $parts,
             'grammary' => $grammary,
             'grammary_package' => $grammary_package_id

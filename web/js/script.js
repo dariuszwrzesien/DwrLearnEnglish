@@ -15,22 +15,23 @@ $(document).ready(function() {
      * Click on the bulb
      */
     $('#js-bulb').on('click', function() {
-        if($('body').css('backgroundColor') === 'rgb(255, 255, 255)'){
+        if ($('body').css('backgroundColor') === 'rgb(255, 255, 255)') {
             /**
              * jquery.color.js
              */
-              $('body').animate({
-                 backgroundColor:  '#333333'
-              },500);
-              $(this).removeClass('bulb-on');
-              $(this).addClass('bulb-off')
-        }else{
             $('body').animate({
-                 backgroundColor:  '#FFFFFF'
-              },500);
-              $(this).removeClass('bulb-off');
-              $(this).addClass('bulb-on')
-        };
+                backgroundColor: '#333333'
+            }, 500);
+            $(this).removeClass('bulb-on');
+            $(this).addClass('bulb-off')
+        } else {
+            $('body').animate({
+                backgroundColor: '#FFFFFF'
+            }, 500);
+            $(this).removeClass('bulb-off');
+            $(this).addClass('bulb-on')
+        }
+        ;
         console.log($('body').css('backgroundColor'));
     });
 });

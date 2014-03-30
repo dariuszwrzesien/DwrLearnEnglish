@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
-    <word>
+<!--    <word>
         <english>slow down</english>
         <polish>zwolnij</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>ask for + noun/verb+ING / ask to + verb</english>
+        <polish>poprosić</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>burst into (tears)</english>
+        <polish>wybuchnąć (płaczem)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>turn down</english>
+        <polish>odrzucić</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>turn up</english>
+        <polish>pojawić się</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>He is IN third year.</english>
+        <polish>On jest NA trzecim roku (studiów)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -62,7 +92,7 @@
     </word>
     <word>
         <english>have a proper meal</english>
-        <polish>mieć odpowiedni posiłek</polish>
+        <polish>mieć właściwy posiłek</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -129,6 +159,12 @@
     <word>
         <english>encourage sb to do sth</english>
         <polish>zachęcić kogoś do robienia czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>encourage</english>
+        <polish>zachęcić</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -206,7 +242,7 @@
     </word>
     <word>
         <english>take (your) time</english>
-        <polish>nie spiesz się</polish>
+        <polish>nie spiesz się (take)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -241,8 +277,14 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>mayor</english>
-        <polish>burmistrz</polish>
+        <english>mayor (mayor city)</english>
+        <polish>burmistrz (burmistrz miasta)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>revealed</english>
+        <polish>ujawnić</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -266,7 +308,7 @@
     </word>
     <word>
         <english>join (a club / a movement)</english>
-        <polish>dolączyć (do klubu / do ruchu)</polish>
+        <polish>dołączyć (do klubu / do ruchu)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -380,7 +422,7 @@
     </word>
     <word>
         <english>reduce the speed limit</english>
-        <polish>zredukować limi prędkości</polish>
+        <polish>zredukować limit prędkości</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -403,7 +445,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>I think / I don't thin it would be a good idea to ...</english>
+        <english>I think / I don't think it would be a good idea to ...</english>
         <polish>Sądzę / Nie sądzę aby to był dobry pomysł ...</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
@@ -415,7 +457,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>I don't think what would work.</english>
+        <english>I don't think that would work</english>
         <polish>Nie sądzę żeby to zadziałało</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
@@ -452,7 +494,7 @@
     </word>
     <word>
         <english>Take your time!</english>
-        <polish>Nie spiesz się</polish>
+        <polish>Nie spiesz się! (take)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -481,7 +523,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>be expert at sth</english>
+        <english>be expert AT sth (z at - tak jak w przypadku be good at sth)</english>
         <polish>być ekspertem w czymś</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
@@ -529,20 +571,26 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>whereas</english>
+        <polish>natomiast</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>stick to sth</english>
         <polish>przykleić się do czegoś</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>peropd of time</english>
+        <english>period of time</english>
         <polish>okres czasu</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>put sth aside</english>
-        <polish>odłozyć coś na bok</polish>
+        <polish>odłożyć coś na bok</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -614,13 +662,13 @@
     </word>
     <word>
         <english>be in charge of sth</english>
-        <polish>być za czymś</polish>
+        <polish>być odpowiedzialnym za coś, być zarządzającym czymś (być w zarządzie czegoś)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>be responsible for sth</english>
-        <polish>byc odpowiedzialny za coś</polish>
+        <polish>być odpowiedzialny za coś</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -698,7 +746,7 @@
     </word>
     <word>
         <english>accountant</english>
-        <polish>księgowy księgowy</polish>
+        <polish>księgowy/księgowa</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -710,7 +758,7 @@
     </word>
     <word>
         <english>do a job</english>
-        <polish>wykonywac jakąś pracę</polish>
+        <polish>wykonywac (jakąś) pracę</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -785,5 +833,527 @@
         <polish>zmysł przestrzenny</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
+    </word>-->
+    <word>
+        <english>job swap</english>
+        <polish>zmiana pracy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>salary</english>
+        <polish>wypłata</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>apply for (a job)</english>
+        <polish>aplikować do (pracy), aplikować na stanowisko</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be sacked</english>
+        <polish>zostać wyrzuconym z pracy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get promoted</english>
+        <polish>dostać awans / promocję</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>employ</english>
+        <polish>zatrudniać</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>unemployed</english>
+        <polish>bezrobotny, niezatrudniony</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>unemployment</english>
+        <polish>bezrobocie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>employer</english>
+        <polish>pracodawca, zatrudniający</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>employee</english>
+        <polish>pracownik, zatrudniany</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>look for a job</english>
+        <polish>szukac pracy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do overtime</english>
+        <polish>robić nadgodziny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have an interview</english>
+        <polish>mieć rozmowe o pracę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work part-time</english>
+        <polish>pracować na część etatu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>temporary job</english>
+        <polish>część etapu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have a (six-month) contact</english>
+        <polish>mieć (6-scio miesięczny) kontrakt</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>working hours</english>
+        <polish>godziny pracy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>permament job</english>
+        <polish>stała praca, stałe zatrudnienie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work full-time</english>
+        <polish>pracować na pełny etat</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>contract (a written legal agreement)</english>
+        <polish>kontrakt</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>experience (the knowledge you get from doing a job)</english>
+        <polish>doświadczenie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>training (a series of lessons to learn to do a job)</english>
+        <polish>szkolenia</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>working hours (the time you spend doing a job)</english>
+        <polish>godziny pracy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>self-employed (working for yourself, not for a company)</english>
+        <polish>samozatrudnienie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>retire (to stop working when you reach a certain age e.g. 65)</english>
+        <polish>przejście na emeryturę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>You are retire.</english>
+        <polish>Jesteś na emeryturze.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>resign (left a job becouse you wanted to)</english>
+        <polish>zrezygnować</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>temporary (for only a part of the day or the week)</english>
+        <polish>tymczasowa praca</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>temporary job != permament job</english>
+        <polish>tymczasowa praca != stała praca</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>part time (for only a part of the day or the week)</english>
+        <polish>część etatu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>part time != full-time</english>
+        <polish>część etatu != pełen etat</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>qualifications (exams you've passed or courses you've done)</english>
+        <polish>kwalifikacje</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>lawyer</english>
+        <polish>prawnik</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>plumber</english>
+        <polish>hydraulik</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>actor / actress</english>
+        <polish>aktor / aktorka</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>conductor</english>
+        <polish>drygent</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>psychologist</english>
+        <polish>psycholog</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>scientist</english>
+        <polish>naukowiec</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>jurnalist</english>
+        <polish>dziennikarz</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>electrician</english>
+        <polish>elektryk</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>librarian</english>
+        <polish>bibliotekarz</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>accountant</english>
+        <polish>księgowy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chef</english>
+        <polish>szef kuchni, kucharz</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>tailor</english>
+        <polish>krawiec</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work for a multinational company</english>
+        <polish>pracować DLA międzynarodowej firmy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work as a manger</english>
+        <polish>pracować jako menadżer</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm in charge of the marketing department.</english>
+        <polish>Jestem zarządzajacym (odpowiedzialnym za) działem marketingu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I work in factory</english>
+        <polish>Pracuje W fabryce</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>responisbe for</english>
+        <polish>odpowiedzialny za</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm at school/university</english>
+        <polish>Jestem uczniem/studentem</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm in my third year</english>
+        <polish>Jestem NA trzecim roku</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>turn the page</english>
+        <polish>przewrócić stronę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>whisper</english>
+        <polish>szept</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do a training course</english>
+        <polish>robić szkolenie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get my qualifications</english>
+        <polish>zdobyć kwalifikacje</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get experience</english>
+        <polish>zdobyc doświadczenie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work regular hours</english>
+        <polish>pracować w regularnych godzinach</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>last for a short time</english>
+        <polish>trwać przez krótki czas</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work for / as / in </english>
+        <polish>pracować dla ... / jako ... /w ...</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be in charge of sth</english>
+        <polish>być zarządzającym czymś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be responsible for sth</english>
+        <polish>być odpowiedzialnym za coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>customer loan</english>
+        <polish>pożyczka / kredyt konsumencki</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do a job</english>
+        <polish>robić / wykonywać pracę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be good AT doING sth</english>
+        <polish>być dobrym w robieniu czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>mind doing sth</english>
+        <polish>mieć coś przeciwko robieniu czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>make (quick) decisions</english>
+        <polish>podejmować (szybko) decyzje</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>take risks</english>
+        <polish>podejmować ryzyko</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>find it difficult / easy to do sth</english>
+        <polish>trudno coś zrobić / łatwo coś zrobić</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>work by oneself</english>
+        <polish>pracować samemu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>manage large amounts of money</english>
+        <polish>zarządzać dużą ilością pieniędzy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>express oneself (I'm good at expressing myself)</english>
+        <polish>wyrażać się (jestem dobry w wyrazaniu siebie)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I always try to follow my instincts</english>
+        <polish>Zawsze staram się podązac za moimi instynktami.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do complex calculations</english>
+        <polish>robić skomplikowane obliczenia</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>complex</english>
+        <polish>skomplikowany, złożony</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>solve problems</english>
+        <polish>rozwiązać problemy</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>understand theoretical principles</english>
+        <polish>zrozumieć teoretyczne zasady (reguły)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be able to do sth</english>
+        <polish>być wstanie coś zrobić</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>calulate space and distance</english>
+        <polish>obliczać przestrzeń i odległość</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>caring proffessions</english>
+        <polish>zawody pielegnacyjne (pielęgniarka, opiekunka)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>alternatively</english>
+        <polish>zlternatywnie, zmiennie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>social work</english>
+        <polish>praca socjalna</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>acciuntancy</english>
+        <polish>księgowość</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stock market</english>
+        <polish>rynek (giełda) papierów wartościowych</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>graphic design</english>
+        <polish>projekt graficzny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>music industry</english>
+        <polish>przemysł muzyczny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>analytical mind</english>
+        <polish>zmysł nanlityczny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>spatial sense</english>
+        <polish>zmysł przestrzenny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
     </word>
 </words>

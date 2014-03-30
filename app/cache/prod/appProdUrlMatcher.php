@@ -29,8 +29,8 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
 
         if (0 === strpos($pathinfo, '/c')) {
             // check_me
-            if ($pathinfo === '/check_me') {
-                return array (  '_controller' => 'Dwr\\FrontendBundle\\Controller\\CheckmeController::indexAction',  '_route' => 'check_me',);
+            if (0 === strpos($pathinfo, '/check_me') && preg_match('#^/check_me(?:/(?P<part_id>[^/]++))?$#s', $pathinfo, $matches)) {
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'check_me')), array (  'part_id' => NULL,  '_controller' => 'Dwr\\FrontendBundle\\Controller\\CheckmeController::indexAction',));
             }
 
             // contact

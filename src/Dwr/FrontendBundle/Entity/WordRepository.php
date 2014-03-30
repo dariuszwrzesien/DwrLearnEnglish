@@ -13,4 +13,14 @@ use Dwr\FrontendBundle\Entity\CustomRepository;
 class WordRepository extends CustomRepository
 {
 
+    public function findWordsIdByPart($part)
+    {
+        $qb = $this->createQueryBuilder('w')
+                ->select('w.id')
+                ->where('w.part = ?1')
+                ->setParameter(1, $part->getId())
+                ->getQuery();
+
+        return $qb->getResult();
+    }
 }

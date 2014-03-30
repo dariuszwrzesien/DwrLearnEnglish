@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+    <word>
+        <english>one</english>
+        <polish>jeden</polish>
+        <part>Testowa</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>two</english>
+        <polish>dwa</polish>
+        <part>Testowa</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>three</english>
+        <polish>trzy</polish>
+        <part>Testowa</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>four</english>
+        <polish>cztery</polish>
+        <part>Testowa</part>
+        <subpart>A</subpart>
+    </word>
+</words>

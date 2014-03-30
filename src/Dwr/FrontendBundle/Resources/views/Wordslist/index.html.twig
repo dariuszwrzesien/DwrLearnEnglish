@@ -3,21 +3,19 @@
 {% block content %}
 <div id="js_words_list" class="margin-top-75 subcontainer">
     <div class="btn-group">
-        <div class="btn-group">
-            <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        <button type="button" id="choose_package" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                 {% if(part) %}
                 {{ part.name}}
                 {% else %}
                 Choose words package
                 {% endif %}
-                <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu">
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
                 {% for part in parts %}
-                <li><a href="{{ path('words_list', {'words_package_id': part.id})}}">{{part.name}}</a></li>
+            <li><a href="{{ path('words_list', {'words_package_id': part.id})}}">{{part.name}}</a></li>
                  {% endfor %}
-            </ul>
-        </div>
+        </ul>
     </div>
     {% if(words)%}
     <div>

@@ -98,7 +98,7 @@
     </word>
     <word>
         <english>get good results in sth</english>
-        <polish>mieć dobre wyniki w czymś</polish>
+        <polish>zdobywać dobre wyniki w czymś</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>A</subpart>
     </word>
@@ -163,7 +163,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>take / do exams</english>
+        <english>take/do exams</english>
         <polish>przystąpić do egzaminów</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>A</subpart>
@@ -278,7 +278,7 @@
     </word>
     <word>
         <english>have a degree in (economics)</english>
-        <polish>mieć stopień z (ekonomi)</polish>
+        <polish>mieć stopień (naukowy) z (ekonomi)</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>A</subpart>
     </word>
@@ -560,7 +560,7 @@
     </word>
     <word>
         <english>unless / as soon as / until (after this only affirmative sentence is allowed)/ if / when</english>
-        <polish>jeśli nie (if not) / jak tylko / dopóki, aż do ... (po tym może być tylko twierdzenie (!w polskim jest przeczenie!)) / jeśli / kiedy</polish>
+        <polish>jeśli nie (if not) / jak tylko / dopóki, aż do ... (po tym może być tylko twierdzenie (! w polskim jest przeczenie !)) / jeśli / kiedy</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>A</subpart>
     </word>
@@ -747,6 +747,12 @@
     <word>
         <english>tastleless (This food is tastleless)</english>
         <polish>bez smaku (To jedzenie jest bez smaku)</polish>
+        <part>New English File 3 Intermediate - Unit 4</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>deliberate</english>
+        <polish>celowo, umyślnie</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>A</subpart>
     </word>
@@ -1423,7 +1429,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>break up wit sb</english>
+        <english>break up with sb</english>
         <polish>zerwać (znajomość) z kimś</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>C</subpart>
@@ -1538,7 +1544,7 @@
     </word>
     <word>
         <english>unnecessary possessions</english>
-        <polish>niekonieczne posaidanie</polish>
+        <polish>niekonieczne posiadanie</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -1712,7 +1718,7 @@
     </word>
     <word>
         <english>Why don't you (show her around Paris)?</english>
-        <polish>Pkażmy jej Paryż (forma propozycji)</polish>
+        <polish>Pokażmy jej Paryż (forma propozycji)</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>Revision</subpart>
     </word>
@@ -1735,7 +1741,7 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>I don't think (churches) are realy her thing</english>
+        <english>I don't think (churches) are really her thing</english>
         <polish>Nie sądzę że (kościoły) to jest to co lubi</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>Revision</subpart>
@@ -2105,5 +2111,11 @@
         <polish>Jaki był twój najlpeszy i najgorszy przedmiot lekcyjny?</polish>
         <part>New English File 3 Intermediate - Unit 4</part>
         <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>take up (It takes me up too much time)</english>
+        <polish>zacząć zajmować się czymś (To zajmuje mi za dużo czasu)</polish>
+        <part>New English File 3 Intermediate - Unit 4</part>
+        <subpart>A</subpart>
     </word>
 </words>

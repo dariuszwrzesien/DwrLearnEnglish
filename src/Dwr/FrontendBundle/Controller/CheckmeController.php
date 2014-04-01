@@ -9,7 +9,6 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\Cookie;
 use Dwr\FrontendBundle\Entity\Part;
-use Dwr\FrontendBundle\Entity\Word;
 
 class CheckmeController extends Controller
 {
@@ -61,14 +60,9 @@ class CheckmeController extends Controller
 
         $allWordsId = $em->getRepository('DwrFrontendBundle:Word')
                 ->findWordsIdByPart($part);
-        echo "<br />";
-        echo "<br />";
-        echo "<br />";
-        echo "<br />";
 
         $randomId = rand(0, count($allWordsId) - 1);
-        $alreadyDrawn = $request->cookies->get('words');
-        $alreadyDrawn = unserialize($alreadyDrawn);
+        $alreadyDrawn = unserialize($request->cookies->get('words'));
         if ($alreadyDrawn) {
             if (count($alreadyDrawn) < count($allWordsId)) {
                 while (in_array($randomId, $alreadyDrawn)) {
@@ -87,22 +81,6 @@ class CheckmeController extends Controller
                 ->findOneBy(array('id' => $allWordsId[$randomId]['id']));
 
         return $word;
-    }
-
-    protected function hasDrawn(Request $request, $word_id)
-    {
-        $alreadyDrawn = unserialize($request->cookies->get('words'));
-
-        if (null != $alreadyDrawn && in_array($word_id, $alreadyDrawn)) {
-            return true;
-        } else {
-            return false;
-        }
-    }
-
-    protected function randomId(array $allWordsId)
-    {
-        $randomId = rand(0, count($allWordsId));
     }
 
     protected function setCookie(array $data)

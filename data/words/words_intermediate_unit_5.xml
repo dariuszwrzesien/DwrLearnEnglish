@@ -854,7 +854,7 @@
     </word>
     <word>
         <english>be sacked</english>
-        <polish>zostać wyrzuconym z pracy</polish>
+        <polish>zostać wyrzuconym (z pracy)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -896,7 +896,7 @@
     </word>
     <word>
         <english>look for a job</english>
-        <polish>szukac pracy</polish>
+        <polish>szukać pracy</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -920,13 +920,13 @@
     </word>
     <word>
         <english>temporary job</english>
-        <polish>część etapu</polish>
+        <polish>tymczasowa praca</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>have a (six-month) contact</english>
-        <polish>mieć (6-scio miesięczny) kontrakt</polish>
+        <polish>mieć (6-ścio miesięczny) kontrakt</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -939,6 +939,12 @@
     <word>
         <english>permament job</english>
         <polish>stała praca, stałe zatrudnienie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>agreement</english>
+        <polish>zgoda, umowa, porozumienie</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -985,6 +991,12 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>reach</english>
+        <polish>osiągnąć</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>You are retire.</english>
         <polish>Jesteś na emeryturze.</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
@@ -997,7 +1009,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>temporary (for only a part of the day or the week)</english>
+        <english>temporary (lasting for a short time)</english>
         <polish>tymczasowa praca</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
@@ -1027,73 +1039,73 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>lawyer</english>
+        <english>a lawyer</english>
         <polish>prawnik</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>plumber</english>
+        <english>a plumber</english>
         <polish>hydraulik</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>actor / actress</english>
+        <english>an actor / an actress</english>
         <polish>aktor / aktorka</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>conductor</english>
+        <english>a conductor</english>
         <polish>drygent</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>psychologist</english>
+        <english>a psychologist</english>
         <polish>psycholog</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>scientist</english>
+        <english>a scientist</english>
         <polish>naukowiec</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>jurnalist</english>
+        <english>a jurnalist</english>
         <polish>dziennikarz</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>electrician</english>
+        <english>an electrician</english>
         <polish>elektryk</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>librarian</english>
+        <english>a librarian</english>
         <polish>bibliotekarz</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>accountant</english>
+        <english>an accountant</english>
         <polish>księgowy</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>chef</english>
+        <english>a chef</english>
         <polish>szef kuchni, kucharz</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>tailor</english>
+        <english>a tailor</english>
         <polish>krawiec</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
@@ -1112,7 +1124,7 @@
     </word>
     <word>
         <english>I'm in charge of the marketing department.</english>
-        <polish>Jestem zarządzajacym (odpowiedzialnym za) działem marketingu</polish>
+        <polish>Jestem zarządzajacym działem marketingu</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1123,7 +1135,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>responisbe for</english>
+        <english>responsibe for</english>
         <polish>odpowiedzialny za</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
@@ -1135,7 +1147,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>I'm in my third year</english>
+        <english>I'm IN my third year</english>
         <polish>Jestem NA trzecim roku</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
@@ -1166,7 +1178,7 @@
     </word>
     <word>
         <english>get experience</english>
-        <polish>zdobyc doświadczenie</polish>
+        <polish>zdobyć doświadczenie</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1225,6 +1237,18 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>I don't mind not earning a very large salary.</english>
+        <polish>Nie mam nic przeciwko nie zarabianu dużej ilości pieniędzy.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>He applied for a job WITH a food company</english>
+        <polish>On aplikuje do pracy w firmie żywieniowej</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>make (quick) decisions</english>
         <polish>podejmować (szybko) decyzje</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
@@ -1256,13 +1280,13 @@
     </word>
     <word>
         <english>express oneself (I'm good at expressing myself)</english>
-        <polish>wyrażać się (jestem dobry w wyrazaniu siebie)</polish>
+        <polish>wyrażać się (jestem dobry w wyrażaniu siebie)</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>I always try to follow my instincts</english>
-        <polish>Zawsze staram się podązac za moimi instynktami.</polish>
+        <polish>Zawsze staram się podążać za moimi instynktami.</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1292,7 +1316,7 @@
     </word>
     <word>
         <english>be able to do sth</english>
-        <polish>być wstanie coś zrobić</polish>
+        <polish>być w stanie coś zrobić</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1310,7 +1334,7 @@
     </word>
     <word>
         <english>alternatively</english>
-        <polish>zlternatywnie, zmiennie</polish>
+        <polish>alternatywnie, zmiennie</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1321,8 +1345,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>acciuntancy</english>
+        <english>accountancy</english>
         <polish>księgowość</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>boss</english>
+        <polish>szef</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1346,7 +1376,7 @@
     </word>
     <word>
         <english>analytical mind</english>
-        <polish>zmysł nanlityczny</polish>
+        <polish>zmysł analityczny</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>

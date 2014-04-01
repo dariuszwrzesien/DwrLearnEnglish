@@ -6,6 +6,9 @@ parameters:
     database_name: words2
     database_user: root
     database_password: root
+#    database_name: dwr1982_words2
+#    database_user: dwr1982_words2
+#    database_password: 0e9K1hWFiZFg
     mailer_transport: smtp
     mailer_host: 127.0.0.1
     mailer_user: null

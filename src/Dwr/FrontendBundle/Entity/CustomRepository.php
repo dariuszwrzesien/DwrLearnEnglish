@@ -20,7 +20,8 @@ class CustomRepository extends EntityRepository
         $qb->select('p')
                 ->from('DwrFrontendBundle:Part', 'p')
                 ->innerJoin($entity, 'e', 'WITH', 'p.id = e.part')
-                ->groupBy('p.id');
+                ->groupBy('p.id')
+                ->orderBy('p.name');
 
         return $qb->getQuery()->getResult();
     }

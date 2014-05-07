@@ -36,7 +36,17 @@
         </div>
         <br class="clear-both" />
         <div class="restart-block">
-            <p><button type="button" class="btn btn-default btn-sm navbar-btn restart-button">Restart</button></p>
+            <p><button id="js-restart-button" type="button" class="btn btn-default btn-sm navbar-btn restart-button">Restart</button></p>
+        </div>
+        <div id="js-restart-dialog-confirm" title="Do you want to restart?">
+            <p><span class="ui-icon ui-icon-alert" style="float:left; margin:0 7px 20px 0;"></span>Do you really want to restart?</p>
+        </div>
+    </div>
+    {% endif %}
+    {% if(progress) %}
+    <div class="progress">
+        <div class="progress-bar" role="progressbar" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ progress }}%;">
+            {{ progress | round(2, 'floor')  }}%
         </div>
     </div>
     {% endif %}

@@ -45,15 +45,40 @@ class CheckmeController extends Controller
                         'class' => 'btn btn-primary btn-lg navbar-btn next-button'))
                 )
                 ->getForm();
+        
+        $progress = null;
+        if ($part) {
+            $progress = $this->getProgress($request, $part);
+        }
 
         return array(
             'part' => $part,
             'parts' => $parts,
             'word' => $word,
             'form' => $form->createView(),
+            'progress' => $progress,
         );
     }
 
+    protected function getProgress(Request $request, $part){
+        
+        $em = $this->getDoctrine()->getManager();
+        $alreadyDrawn = unserialize($request->cookies->get('words'));
+        $allWordsId = $em->getRepository('DwrFrontendBundle:Word')
+                ->findWordsIdByPart($part);
+        
+        $counter = count($alreadyDrawn);
+        $denominator = count($allWordsId);
+        
+        if($denominator > 0){
+            return $this->calculatePercentage($counter, $denominator);
+        }
+    }
+    
+    protected function calculatePercentage($counter, $denominator){
+        return ($counter * 100)/$denominator;
+    }
+    
     protected function randomWord(Request $request, Part $part)
     {
         $em = $this->getDoctrine()->getManager();

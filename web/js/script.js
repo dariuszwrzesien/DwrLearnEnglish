@@ -58,4 +58,30 @@ $(document).ready(function() {
             $('form[name="form"]').submit();
         }
     });
+    
+    /**
+     * Restart dialog confirm (pop-window)
+     */
+     $(function() {
+        $("#js-restart-dialog-confirm").dialog({
+            autoOpen: false,
+            resizable: false,
+            modal: true,
+            buttons: {
+                "Yes": function(){
+                    $(this).dialog("close");
+                },
+                "No": function(){
+                    $(this).dialog("close");
+                }
+            }
+        });
+    });
+    
+    /**
+     * Click on the restart button
+     */
+    $('#js-restart-button').on('click', function(event) {
+        $("#js-restart-dialog-confirm").dialog("open");
+    });
 });

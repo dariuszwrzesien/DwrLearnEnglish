@@ -20,7 +20,29 @@
         </div>
     </div>
     <div class="float-right">
-        <button id="js-bulb" class="bulb-on" /></button>
+        <button id="js-config-page-button" type="button" class="btn btn-default btn">
+            <span class="glyphicon glyphicon-wrench"></span>
+        </button>
+        <div id="js-config-page-dialog" title="Personalize this page">
+            <label id="js-light-switcher" class="switch-light well">
+                <input type="checkbox">
+                <span>
+                        Light
+                        <span>Off</span>
+                        <span>On</span>
+                </span>
+                <a class="btn btn-primary"></a>
+            </label>
+            <label id="js-progress-bar-switcher" class="switch-light well">
+                <input type="checkbox">
+                <span>
+                        Progress bar
+                        <span>Off</span>
+                        <span>On</span>
+                </span>
+                <a class="btn btn-primary"></a>
+            </label>
+        </div>
     </div>
     {% if(word) and (part) %}
     <div class="center-block checkme-box">
@@ -45,22 +67,35 @@
     {% endif %}
     {% if(progress) %}
     <div class="progress">
-        <div class="progress-bar" role="progressbar" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ progress }}%;">
+        <div id="js-progress-bar" class="progress-bar" role="progressbar" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ progress }}%;">
             {{ progress | round(2, 'floor')  }}%
         </div>
     </div>
     {% endif %}
 </div>
 <script>
-    $(document).ready(function() {
+{#    $(document).ready(function() {
 
         /**
          * Set background color based on cookies value
          */
         if (null !== $.cookie('backgroundColor')) {
             $('body').css('backgroundColor', $.cookie('backgroundColor'));
-            console.log($.cookie('backgroundColor'));
         }
-    });
+        
+        /**
+         * Set background color based on cookies value
+         */
+        if (null !== $.cookie('progressBar')) {
+{#            if($.cookie('progressBar') === 'hide'){
+               $('#js-progress').hide();
+            }
+            if($.cookie('progressBar') === 'show'){
+               $('#js-progress').show();
+            }#}
+{#            console.log($.cookie('progressBar'));
+        }
+        
+    });#}
 </script>
 {% endblock %}

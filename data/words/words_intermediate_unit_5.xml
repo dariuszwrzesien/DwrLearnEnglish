@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
-<!--    <word>
+    <word>
         <english>slow down</english>
         <polish>zwolnij</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
@@ -140,7 +140,13 @@
     </word>
     <word>
         <english>increase sb's salary</english>
-        <polish>podnieść komuś wypłatę</polish>
+        <polish>zwiekszyć komuś wypłatę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>increase (to make something bigger)</english>
+        <polish>zwiększyć</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -151,8 +157,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>promote sth</english>
-        <polish>promować coś</polish>
+        <english>promote sth (to help something to happen or develop, e.g The meeting helped to better relations.)</english>
+        <polish>promować coś, sprzyjać czemuś</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -163,7 +169,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>encourage</english>
+        <english>encourage (Encourage - influence somebody in a positive way)</english>
         <polish>zachęcić</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
@@ -175,13 +181,19 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>protect (to defend somebody or something or keep them safe)</english>
+        <polish>chronić</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>ban smoking in the street</english>
         <polish>zakazać palenia papierosów na ulicy</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>ban</english>
+        <english>ban (to say something is not allowed, often by law e.g We want to ban smoking everywhere)</english>
         <polish>zakazać, zabronić, wykluczyć</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
@@ -290,7 +302,7 @@
     </word>
     <word>
         <english>value sth</english>
-        <polish>wartość czegoś, wycenić coś</polish>
+        <polish>doceniać coś, wartość czegoś, wycenić coś</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -349,6 +361,12 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>extinct</english>
+        <polish>wymarłe</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>discussion</english>
         <polish>dyskusja</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
@@ -403,7 +421,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>similarity</english>
+        <english>similarity ( != dissimilarity)</english>
         <polish>podobieństwo</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
@@ -423,6 +441,12 @@
     <word>
         <english>reduce the speed limit</english>
         <polish>zredukować limit prędkości</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>reduce (to make something smaller)</english>
+        <polish>zredukować, obniżyć</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -561,6 +585,12 @@
     <word>
         <english>absent</english>
         <polish>nieobecny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>play tennis (sporty), play THE piano (instrumenty)</english>
+        <polish>grać w tenisa, grać na pianinie</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
     </word>
@@ -833,7 +863,157 @@
         <polish>zmysł przestrzenny</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>B</subpart>
-    </word>-->
+    </word>
+    <word>
+        <english>wide variety of sth</english>
+        <polish>szeroki wybór czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>massage</english>
+        <polish>masaż</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>body polish</english>
+        <polish>polerowanie ciała</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>smooth</english>
+        <polish>gładki</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hydrate</english>
+        <polish>nawadniać</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cleanse</english>
+        <polish>zabieg oczyszczający</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>facial</english>
+        <polish>zabieg (kosmetyczny) na twarz</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>Generally speaking / In general I think ...</english>
+        <polish>Ogólnie mówiąc / Ogólnie rzecz biorąc myślę ...</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>I think it's more common (for men) (to do sth) (I think it's more common for men to watch football)</english>
+        <polish>Myślę że bardziej powszechne (dla mężczyzn) (robić coś)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>I think (women) tend to (do sth) than (men)</english>
+        <polish>Myślę że (kobiety) mają w zwczaju (robienie cześ) bardziej niż (mężczyźni)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tend</english>
+        <polish>mieć w zywczaju</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>generalize</english>
+        <polish>generalizować</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>talk TO sb about sth</english>
+        <polish>mówić DO kogoś o czymś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>think ABOUT sth / think OF sth (I thought about leaving school / I thought of leaving school)</english>
+        <polish>Sądzić coś na jakiś temat, rozważać (długo) / myśleć przelotnie (krótko, w tej chwili) (Rozważałem (długo i poważnie) ma temat odejścia ze szkoły / Przyszło mi na myśl (krótko, przelotnia) odejście ze szkoły) - ABOUT jest dłuższe niż OF</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wait FOR sth</english>
+        <polish>czekać NA coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>agree WITH sb</english>
+        <polish>zgadzać się Z kimś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>work FOR sb</english>
+        <polish>pracować DLA kogoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>work AS sb (work as a lawyer)</english>
+        <polish>pracować JAKO ktoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>apply FOR (a job)</english>
+        <polish>aplikować DO (pracy)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be good/bad AT sth</english>
+        <polish>być dobry/złym W czymś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be different FROM sb/sth</english>
+        <polish>być innym/różnym/odmiennym OD/niż kogoś/czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be similar TO</english>
+        <polish>być podobnym DO</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be afraid OF sth</english>
+        <polish>obawiać się czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be interested IN sb/sth (be interested in fashio)</english>
+        <polish>być zainteresowanym kimś/czymś (być zainteresowanym modą)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>worried ABOUT sb/sth</english>
+        <polish>martwić się O kogoś/coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>B</subpart>
+    </word>
     <word>
         <english>job swap</english>
         <polish>zmiana pracy</polish>
@@ -861,6 +1041,12 @@
     <word>
         <english>get promoted</english>
         <polish>dostać awans / promocję</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>suit you</english>
+        <polish>pasuje Ci</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
     </word>
@@ -1385,5 +1571,365 @@
         <polish>zmysł przestrzenny</polish>
         <part>New English File 3 Intermediate - Unit 5</part>
         <subpart>C</subpart>
+    </word>
+    <word>
+        <english>live interview</english>
+        <polish>wywiad na żywo</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>do sb's final test</english>
+        <polish>zrobić (rozwiązać) końcowy egzamin (test)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>transform sb/sth</english>
+        <polish>przekształcać kogoś/coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be tough</english>
+        <polish>być twardym</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>eat sb alive</english>
+        <polish>zjeść żywcem</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be terrified og sth</english>
+        <polish>być przerażonym czymś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>vote (in the last elections)</english>
+        <polish>głosować (w ostatnich wyborach)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be successful</english>
+        <polish>być usatysfakcjonowany (szczęśliwy)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stuntman</english>
+        <polish>kaskader</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>challenge (n.)</english>
+        <polish>wyzwanie (rzecz.)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>contestant</english>
+        <polish>zawodnik, rywal, uczestnik</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>competition</english>
+        <polish>zawody</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>MP (member of pariament)</english>
+        <polish>Członek parlamentu</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>abbreviation</english>
+        <polish>skrót, skrócenie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>panel of judges</english>
+        <polish>panel sędziowski</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pretend to do sth</english>
+        <polish>udawać że coś się robi</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>spot sth</english>
+        <polish>zauważyć coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>persuade sb to do sth</english>
+        <polish>perswadować komuś zrobienie czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>turn into sb/sth</english>
+        <polish>zmienić/przeobrazić sie w kogoś/coś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>confident</english>
+        <polish>pewny siebie</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>In my opinion, that's the best way (to do sth)</english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I'm not so sure</english>
+        <polish>Nie jestem taki pewnien</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Actually, I don't agree</english>
+        <polish>Właściwie, Nie zgadzam się</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>a series of (TV and radio interviews)</english>
+        <polish>szereg (seria) (telewizyjnych i radiowych wywiadów)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>tour clubs and summer festivals</english>
+        <polish>tournee po klubach i letnich festiwalach</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>That's a great idea.</english>
+        <polish>To świetny pomysł.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>What's the matter?</english>
+        <polish>Co sie stało</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>It's not a big deal.</english>
+        <polish>To nie jest wielka sprawa.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>You're kidding.</english>
+        <polish>Zartujesz.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I don't know much about sth</english>
+        <polish>Nie wiem dużo o czymś </polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>That's really unfair!</english>
+        <polish>To naprawdę niesprawiedliwe.</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Don't turn round!</english>
+        <polish>Nie obracaj się!</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Let's get out of here</english>
+        <polish>Chodzmy stąd</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>additional information</english>
+        <polish>dodatkowe informacje</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>career history</english>
+        <polish>historia kariery</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>computer skills</english>
+        <polish>umiejętności komuterowe</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>junior physiotherapist</english>
+        <polish>młodszy psychoterapeuta</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>debree in sth</english>
+        <polish>stopień (naukowy) w czymś</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>dedicated people</english>
+        <polish>dedykowani ludzie, grupa docelowa</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>work in different areas</english>
+        <polish>praca w różnych obszarach</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>forthcomming</english>
+        <polish>nadchodzący, przyszły</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>vacancy</english>
+        <polish>wakat, wolna posada</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>medical support</english>
+        <polish>wsparcie medyczne</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>applicant</english>
+        <polish>wnioskodawca, petent</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>appropriately qualified</english>
+        <polish>odpowiednio zakwalifikowany</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>essential</english>
+        <polish>istotny</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>covering letter</english>
+        <polish>pokrycie listu?</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>job application</english>
+        <polish>aplikacja o pracę</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>staff</english>
+        <polish>personel, obsługa</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>have a good level of English</english>
+        <polish>mieć dobry poziom (języka) angielskiego</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>enclose sth (letter)</english>
+        <polish>dołączyć coś, zawierać coś (list)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>attach / attachment (email)</english>
+        <polish>dołączyć / załącznik (do emaila)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>as requested</english>
+        <polish>jak żądano, proszono (?)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>I look forward to hearing from you</english>
+        <polish>Czekam z niecierpliwością na wieści od Ciebie (zwrot na końcu listu)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>Yours faithfully / sincerely</english>
+        <polish>Z poważaniem (zwrot na końcu listu) </polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>signature</english>
+        <polish>podpis</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>contraction (Don't use contractions)</english>
+        <polish>skrót, skurcz (Nie używaj skruceń)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>publicity (She needs more publicity.)</english>
+        <polish>rozgłos (On potrzebuje więcej rozgłosu)</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>fluent (English (fluent))</english>
+        <polish>płynny, biegły (Angielski(płynnie))</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
+    </word>
+    <word>
+        <english>ceiling</english>
+        <polish>sufit</polish>
+        <part>New English File 3 Intermediate - Unit 5</part>
+        <subpart>Revision</subpart>
     </word>
 </words>

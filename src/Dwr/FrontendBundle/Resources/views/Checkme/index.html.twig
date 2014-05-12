@@ -67,10 +67,11 @@
     {% endif %}
     {% if(progress) %}
     <div class="progress">
-        <div id="js-progress-bar" class="progress-bar" role="progressbar" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ progress }}%;">
-            {{ progress | round(2, 'floor')  }}%
+        <div id="js-progress-bar" class="progress-bar" role="progressbar" aria-valuenow="{{ progress.percentage }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ progress.percentage }}%;">
+            {{ progress.percentage | round(2, 'floor')  }}%
         </div>
     </div>
+    <div>{{ progress.alreadyDrawnAmount }}/{{ progress.allWordsAmount }}</div>
     {% endif %}
 </div>
 <script>

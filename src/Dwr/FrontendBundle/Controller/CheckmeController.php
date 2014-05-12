@@ -70,8 +70,13 @@ class CheckmeController extends Controller
         $counter = count($alreadyDrawn);
         $denominator = count($allWordsId);
         
+        $progress = array();
+        $progress['alreadyDrawnAmount'] = count($alreadyDrawn);
+        $progress['allWordsAmount'] = count($allWordsId);
+        
         if($denominator > 0){
-            return $this->calculatePercentage($counter, $denominator);
+            $progress['percentage'] = $this->calculatePercentage($counter, $denominator);
+            return $progress;
         }
     }
     

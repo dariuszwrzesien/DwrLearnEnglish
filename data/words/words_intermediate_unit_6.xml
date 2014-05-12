@@ -1,13 +1,487 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
-<!--    <word>
-        <english></english>
-        <polish></polish>
+    <word>
+        <english>washing powder</english>
+        <polish>proszek do prania</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
-    </word>-->
+    </word>
     <word>
-        <english>literally</english>
+        <english>life story</english>
+        <polish>opowieść o życiu</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fall in love with sb</english>
+        <polish>zakochać się w kimś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>frozen food</english>
+        <polish>mrożonki</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>queue(n., v.)</english>
+        <polish>kolejka (rzecz.), stać w kolejce (czas.)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>It's all over</english>
+        <polish>wszystko skończone</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>See you around!</english>
+        <polish>Do zobaczenia!</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>advertising</english>
+        <polish>reklama</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>You're really my type.</english>
+        <polish>Jesteś naprawdę w moim typie.</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>bar of chocolate</english>
+        <polish>tabliczka czeklady</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>department store</english>
+        <polish>dom towarowy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>street market</english>
+        <polish>bazar uliczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shopping centre/shopping mall</english>
+        <polish>centrum handlowe</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>baker's</english>
+        <polish>piekarnia</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>bookshop</english>
+        <polish>księgarnia</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>chemist's/pharmacy</english>
+        <polish>apteka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>newsagent's</english>
+        <polish>kiosk z gazetami</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>stationery's</english>
+        <polish>papierniczy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>travel agent's</english>
+        <polish>biuro podróży</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shoe shop</english>
+        <polish>obuwniczy, sklep z butami</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>bargain</english>
+        <polish>okazja, towar w promocji</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>basket</english>
+        <polish>koszyk na zakupy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>customer</english>
+        <polish>klient</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>discount</english>
+        <polish>rabat</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>manager</english>
+        <polish>menadżer</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>receipt</english>
+        <polish>rachunek</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>refund</english>
+        <polish>zwrot pieniędzy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sales</english>
+        <polish>wyprzedaże</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shop assistant</english>
+        <polish>sprzedawca</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>trolley</english>
+        <polish>wózek na zakupy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shop window</english>
+        <polish>wystawa sklepowa, witryna sklepowa</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>till</english>
+        <polish>kasa</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>reduction (in price)</english>
+        <polish>redukcja (ceny)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be in charge of sth</english>
+        <polish>być zarządzającym coś, być w zarządzie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>buy sth online / on credit</english>
+        <polish>kupować coś online / na kredyt</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sell sth</english>
+        <polish>sprzedać coś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>complain</english>
+        <polish>narzekać</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>try on</english>
+        <polish>przymierzyć</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>I'm just looking</english>
+        <polish>Tylko oglądam</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pay (15%) VAT / pay tax ON sth</english>
+        <polish>płacić (15%) VAT / płacić podatek OD czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pay for sth over 12 month</english>
+        <polish>płacić za coś przez 12 miesięcy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>shop in supermarkets / online / in the sales</english>
+        <polish>sklepy w supermarkecie / online / sklepy z wyprzedażami</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>find a bargain</english>
+        <polish>znaleźć okazję cenową</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>make a complaint</english>
+        <polish>złożyć skargę</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be worth</english>
+        <polish>być wartym</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>under guarantee</english>
+        <polish>objęte gwarancją</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>charge sb / (I'm) in charge (here)</english>
+        <polish>obciążyć kogoś kosztami / (jestem tutaj) zarządzającym</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>part (a new part for laptop)</english>
+        <polish>część (nowa część do laptopa)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>retailer</english>
+        <polish>detalista</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>staff</english>
+        <polish>personel, pracownicy</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>unhelpful</english>
+        <polish>nie pomocny, nie przydatny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>recordable disc / DVD player</english>
+        <polish>dysk z możliwością nagrania / odtwarzacz DVD</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>compensate sb for sth</english>
+        <polish>zrekompensować stratę (wrównać) komuś za coś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>treat sb like royalty</english>
+        <polish>traktować kogoś po królewsku</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>branch (of a shop)</english>
+        <polish>oddział sklepu, gałąź</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>electrical goods</english>
+        <polish>dobra elektryczne</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>have sth in stock</english>
+        <polish>mieć coś na stanie / na składzie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>delivery</english>
+        <polish>dostawa</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>services</english>
+        <polish>usługi</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>satisfactory</english>
+        <polish>zadowalający, dostateczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>point sth out</english>
+        <polish>zwracać na coś uwagę</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>it comes to compensation</english>
+        <polish>przyjść po odszkodowanie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>compensation</english>
+        <polish>odzkodowanie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take the case of (Mr Thomas)</english>
+        <polish>wziąć sprawę (pana Thomasa)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>unsuccessfully</english>
+        <polish>nieszczęśliwy, niespełniony</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lose patience</english>
+        <polish>stracić cierpliwość</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>out of date</english>
+        <polish>nieaktualny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>letter of complaint</english>
+        <polish>list ze skargą</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>without charge</english>
+        <polish>bez opłaty</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>outstanding</english>
+        <polish>wybitny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>be reasonable</english>
+        <polish>być rozsądnym</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lose sb's (my) temper</english>
+        <polish>stracić panowanie (nad sobą)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sort sth out</english>
+        <polish>segregować coś, porządkować</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>apologise</english>
+        <polish>przeprosiny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>genuine</english>
+        <polish>prawdziwy, autentyczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>effort</english>
+        <polish>wysiłek</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>meet sth halfway</english>
+        <polish>spotkać coś w półdrogi</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>command</english>
+        <polish>komenda</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>make a noise</english>
+        <polish>zrobić hałas</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>get annoyed</english>
+        <polish>zirytować się</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>literally</    english>
         <polish>dosłownie</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -260,7 +734,7 @@
     </word>
     <word>
         <english>on location</english>
-        <polish>na miejscu</polish>
+        <polish>w plenerze, na miejscu</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -437,5 +911,629 @@
         <polish>bronić</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hero</english>
+        <polish>bronić</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hold out for (a hero)</english>
+        <polish>wyczekiwać (bohatera)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hero</english>
+        <polish>bohater</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>capture sb</english>
+        <polish>zdobyć zawładnąć (?)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>poverty, poor</english>
+        <polish>bieda ubustwo, biedny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>suffer FROM sth</english>
+        <polish>ucierpieć OD czegoś, cierpieć Z jakiegoś powodu</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>illness</english>
+        <polish>choroba</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>royalities</english>
+        <polish>tantiema, należności licencyjne</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>make money from sth</english>
+        <polish>robić pieniądze na czymś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>take sb to court</english>
+        <polish>wezwać kogoś do sądu</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>health service</english>
+        <polish>służba zdrowia</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>commercialise</english>
+        <polish>skomercjalizować</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>conform (to sth)</english>
+        <polish>dostosować (do czegoś)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>human being</english>
+        <polish>człowiek</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have an impact on sb/sth</english>
+        <polish>mieć wpływ na kogoś/coś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>enormous</english>
+        <polish>ogromny, olbrzymi</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>inspire sb</english>
+        <polish>inspirować kogoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hero / celebrity status</english>
+        <polish>status bohatera / celebryty</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fight racism / disease</english>
+        <polish>walka z rasizmem / chorobą</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>disease</english>
+        <polish>schorzenie, choroba, dolegliwość</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be insulted by sb</english>
+        <polish>zostać obrażónym przez kogoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>raise money</english>
+        <polish>zdobyć pieniądze</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>sale</english>
+        <polish>wyprzedaż</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bracelet</english>
+        <polish>bransoletka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>major</english>
+        <polish>główny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>majority</english>
+        <polish>większość</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stand up and speak out (against sb/sth)</english>
+        <polish>wstań i przemów (przeciwko komuś/czemuś)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>reconcile sb / sth with sb / sth</english>
+        <polish>pogodzić kogoś / coś z kimś / coś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>modernity</english>
+        <polish>nowoczesność</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>foundation</english>
+        <polish>fundacja</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get vaccinated</english>
+        <polish>zaszczepić, dostać szczepionkę</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>vaccination</english>
+        <polish>szczepionka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>defender</english>
+        <polish>obrońca</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>refugee camp</english>
+        <polish>obóz dla uchodzców</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>approach sb/sth</english>
+        <polish>podejście do kogoś/czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>tirelessly</english>
+        <polish>niestrudzenie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hunger</english>
+        <polish>głód</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>poverty</english>
+        <polish>bieda</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be under house arrest</english>
+        <polish>być objętym aresztem domowym</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>oppose sb</english>
+        <polish>sprzeciwiać się, przeciwstawiać komuś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>military ruler</english>
+        <polish>dowodzący armi (?)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fight for human rights</english>
+        <polish>walczyć o prawa ludzi</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>unbearable</english>
+        <polish>nie do zniesienia</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bearable</english>
+        <polish>znośny, do zniesienia</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>choice</english>
+        <polish>wybór</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>come to the public eye</english>
+        <polish>(?)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>escape</english>
+        <polish>ucieczka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>cofound sth</english>
+        <polish>współzałożyć coś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>be awarded (the Nobel Prize)</english>
+        <polish>zostać odznaczonym (Nagrodą Nobla)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>leader</english>
+        <polish>lider</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>composer</english>
+        <polish>kompozytor</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>designer</english>
+        <polish>projektant</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>footballer</english>
+        <polish>piłkarz</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>painter</english>
+        <polish>malarz</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>photographer</english>
+        <polish>fotograf</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>presenter</english>
+        <polish>prezenter</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>actor / actress</english>
+        <polish>aktor / aktorka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>conductor</english>
+        <polish>drygent</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>director</english>
+        <polish>reżyser</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>inventor</english>
+        <polish>wynalazca</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>sculptor</english>
+        <polish>rzeźbiarz</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>politician</english>
+        <polish>polityk</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>musician</english>
+        <polish>muzyk</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>cyclist</english>
+        <polish>rowerzysta</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>guitarist</english>
+        <polish>gitarzysta</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>physicist</english>
+        <polish>fizyk</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>scientist</english>
+        <polish>naukowiec</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>violinist</english>
+        <polish>skrzypek, skrzypaczka</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>admire sb</english>
+        <polish>podziwiać kogoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>weterynarz</english>
+        <polish>vet</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>You'll never guess</english>
+        <polish>Nigdy nie zgadniesz</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>You're joking</english>
+        <polish>Żartujesz</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>hold hands</english>
+        <polish>trzymać się za ręce</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>It's true, I'm telling you.</english>
+        <polish>To prawda, mówię Ci</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Are you serious?</english>
+        <polish>Czy mówisz poważnie?</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>It was definitely them.</english>
+        <polish>To było definitywnie to.</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>You must come round for a meal one evening</english>
+        <polish>Musisz wpać na (do mnie) coś zjeść jakiegoś wieczora.</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>That would be very nice.</english>
+        <polish>To byłoby bardzo miłe.</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>Didn't you go out at all?</english>
+        <polish>Nie wychodziłeś w ogóle?</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>I felt like (a bit of culture)</english>
+        <polish>(?)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>I didn't see you either</english>
+        <polish>Nie widziałem Cię także</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>review sth</english>
+        <polish>recenzja czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>end up (doing sth)</english>
+        <polish>kończy się (robienie czegoś)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>at the beginning of sth</english>
+        <polish>na początku czegoś</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>funeral</english>
+        <polish>pogrzeb</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>flashback</english>
+        <polish>retrospekcja, wspomnienie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>childhood</english>
+        <polish>dzieciństwo</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english>be crazy abouth sb/sth</english>
+        <polish>szaleć na czymś punkcie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>Practical</subpart>
     </word>
 </words>

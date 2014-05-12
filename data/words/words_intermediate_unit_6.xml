@@ -13,6 +13,30 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>work in advertising</english>
+        <polish>pracować w reklamie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Do you know how many calories there are?</english>
+        <polish>Czy wiesz jak dużo kalorii one mają?</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>ground floor</english>
+        <polish>parter</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>gift shop</english>
+        <polish>sklep z pamiątkami</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>fall in love with sb</english>
         <polish>zakochać się w kimś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
@@ -103,7 +127,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>stationery's</english>
+        <english>stationer's</english>
         <polish>papierniczy</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
@@ -121,8 +145,14 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>butcher's</english>
+        <polish>rzeźnik, sklep mięsny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>bargain</english>
-        <polish>okazja, towar w promocji</polish>
+        <polish>okazja cenowa, towar w promocji</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -272,13 +302,37 @@
     </word>
     <word>
         <english>under guarantee</english>
-        <polish>objęte gwarancją</polish>
+        <polish>objęte gwarancją, na gwarancji</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>guarantee (a written promise from a company that it will repair something if it breaks in a certain period of time)</english>
+        <polish>gwarancja</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>repairer</english>
+        <polish>naprawiacz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>charge sb / (I'm) in charge (here)</english>
         <polish>obciążyć kogoś kosztami / (jestem tutaj) zarządzającym</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>He charged him $45</english>
+        <polish>On obciążył go kosztami $45</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>well-known</english>
+        <polish>dobrze znany</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -290,12 +344,12 @@
     </word>
     <word>
         <english>retailer</english>
-        <polish>detalista</polish>
+        <polish>detalista, sprzedawca detaliczny</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>staff</english>
+        <english>staff (niepoliczalny), employees (policzalny)</english>
         <polish>personel, pracownicy</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
@@ -325,14 +379,20 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>branch (of a shop)</english>
+        <english>branch (of a shop) (a shop or office which is a part of a larger organization)</english>
         <polish>oddział sklepu, gałąź</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>electrical goods</english>
-        <polish>dobra elektryczne</polish>
+        <polish>elektroniczne towary</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>goods (things that are for sale)</english>
+        <polish>towary</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -343,26 +403,62 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>in stock (available in the shop)</english>
+        <polish>na stanie / na składzie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>delivery</english>
         <polish>dostawa</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>services</english>
+        <english>services (things that other people do for you e.g. repair your TV)</english>
         <polish>usługi</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>satisfactory</english>
-        <polish>zadowalający, dostateczny</polish>
+        <polish>satysfakcjonujący, zadowalający, dostateczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>It certain is</english>
+        <polish>To z pewnością jest</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>point sth out</english>
-        <polish>zwracać na coś uwagę</polish>
+        <polish>wskazać, zwracać na coś uwagę</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>particulary</english>
+        <polish>szczególnie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>reserve</english>
+        <polish>zarezerwować</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>collected</english>
+        <polish>kolekcjonować</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>diagnosed</english>
+        <polish>diagnozować</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -373,8 +469,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>compensation</english>
-        <polish>odzkodowanie</polish>
+        <english>compensation (money or things you give somebody becouse you have treated them badly)</english>
+        <polish>odzkodowanie, rekompensata</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -433,8 +529,20 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>temper</english>
+        <polish>panowanie nad sobą</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>sort sth out</english>
-        <polish>segregować coś, porządkować</polish>
+        <polish>rozwiązać, rozpracować, uporządkować</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>keep a record</english>
+        <polish>posiadać dowody/zapiski</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -445,8 +553,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>genuine</english>
-        <polish>prawdziwy, autentyczny</polish>
+        <english>genuine (genuine effort)</english>
+        <polish>prawdziwy, autentyczny (prawdziwy wysiłek)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -457,8 +565,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>meet sth halfway</english>
-        <polish>spotkać coś w półdrogi</polish>
+        <english>meet sth halfway (be prepared to meet it halfway)</english>
+        <polish>iść na kompromis (być przygotowanym na pójście na kompromis)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -481,7 +589,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>literally</    english>
+        <english>literally</english>
         <polish>dosłownie</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -583,7 +691,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>screen</english>
+        <english>screen (the part of a cinema or TV where the image appears)</english>
         <polish>ekran</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -607,7 +715,13 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>soundtrack</english>
+        <english>interpreter</english>
+        <polish>tłumacz symultaniczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>soundtrack (the music from a film)</english>
         <polish>ścieżka dzwiękowa</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -625,13 +739,13 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>cast (of a film)</english>
+        <english>cast (of a film) (all actors in a film)</english>
         <polish>obsada</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>film crew</english>
+        <english>film crew (all the people who make a film)</english>
         <polish>ekipa filmowa</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -733,7 +847,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>on location</english>
+        <english>on location (filmed in the real place, not in a studio)</english>
         <polish>w plenerze, na miejscu</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
@@ -932,7 +1046,7 @@
     </word>
     <word>
         <english>capture sb</english>
-        <polish>zdobyć zawładnąć (?)</polish>
+        <polish>zdobyć, chwycić, zawładnąć, przejąć</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -949,14 +1063,44 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>political radicals</english>
+        <polish>polityczni radykałowie</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>belong, belonged</english>
+        <polish>należeć, należał</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>theme song</english>
+        <polish>główny motyw muzyczny</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>illness</english>
         <polish>choroba</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
+        <english>Otherwise ...</english>
+        <polish>Inaczej ...</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>royalities</english>
         <polish>tantiema, należności licencyjne</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>restore hope</english>
+        <polish>przywrócić nadzieje</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -986,7 +1130,7 @@
     </word>
     <word>
         <english>conform (to sth)</english>
-        <polish>dostosować (do czegoś)</polish>
+        <polish>podporządkować się, dostosować (do czegoś)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1129,6 +1273,12 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>sack (of rice)</english>
+        <polish>worki (z ryżem)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>hunger</english>
         <polish>głód</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
@@ -1154,7 +1304,7 @@
     </word>
     <word>
         <english>military ruler</english>
-        <polish>dowodzący armi (?)</polish>
+        <polish>dowodzący armi</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1184,7 +1334,13 @@
     </word>
     <word>
         <english>come to the public eye</english>
-        <polish>(?)</polish>
+        <polish>przedostać się do opini publicznej</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>public eye</english>
+        <polish>opinia publicznej</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1196,7 +1352,7 @@
     </word>
     <word>
         <english>cofound sth</english>
-        <polish>współzałożyć coś</polish>
+        <polish>współtworzyć/współzałożyć coś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1261,7 +1417,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>director</english>
+        <english>director (the person who makes a film)</english>
         <polish>reżyser</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
@@ -1333,6 +1489,48 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>found(vb), foundation(n)</english>
+        <polish>założyć, ufungować(cz), fundacja(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>modern(adj), modernity(n)</english>
+        <polish>nowoczesny(prz), nowoczesność(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hungry(adj), hunger(n)</english>
+        <polish>głodny(prz), głód(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>poor(adj), povert(n)</english>
+        <polish>biedny(prz), bieda(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>choose(vb), choice(n)</english>
+        <polish>wybierać(cz), wybór(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>operate(vb), operation(n)</english>
+        <polish>działać(cz), działanie(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>sell(vb), sale(n)</english>
+        <polish>sprzedawać(cz), sprzedaż, wyprzedaż(rz)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>You'll never guess</english>
         <polish>Nigdy nie zgadniesz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
@@ -1387,12 +1585,6 @@
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english>I felt like (a bit of culture)</english>
-        <polish>(?)</polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
         <english>I didn't see you either</english>
         <polish>Nie widziałem Cię także</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
@@ -1441,98 +1633,44 @@
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>become friends with sb</english>
+        <polish>zaprzyjaźnić się z kimś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>in the end</english>
+        <polish>na końcu</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>I strongly recommend ...</english>
+        <polish>Mocno polecam (rekomenduje)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>memorable</english>
+        <polish>niezapomniany, pamiętny</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>moving</english>
+        <polish>poruszający, wzruszający</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>tribute to sb</english>
+        <polish>hołd, danina dla kogoś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 6</part>
-        <subpart>Practical</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
+        <english>I felt like (gettING a bit culture) (Feel like doING sth)</english>
+        <polish>Mam ochotę (na zaczerpniecie trochę kultury) (Mieć ochotę robić coś)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>

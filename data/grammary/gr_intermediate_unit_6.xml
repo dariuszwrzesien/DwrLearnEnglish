@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Reported spreech.</title>
+        <content> 
+            direct statements / reported statements
+            
+            I LIKE shopping / He said (that) HE LIKED shopping
+            I'm going TOMMORROW / He told her he was going THE NEXT DAY
+            I'LL always love YOU / He said HE WOULD always love ME
+            I PASSED the exam! / She told him SHE HAD PASSED the exam
+            I'VE FORGOTTEN MY keys / He said HE HAD FORGOTTEN HIS keys
+            I CAN'T come / She said she couldn't come
+            I MAY be late / He said HE MIGHT be late
+            I MUST go / She said she HAD TO go
+            
+            Czasy zmieniają się następująco:
+            Present-> Past;
+            Will -> Would
+            Past Simple/Present Perfect -> Past Perfect
+            
+            Czasowniki modalne:
+            Can -> Could
+            May -> Might
+            Must -> Had to
+            
+            pozostałe czasowniki modlane pozostają takie same:
+            could, might, should itd.
+            
+            Must zmienia się na HAD TO ale Mustn't zostaje takie jak jest.
+            You mustn't touch it. -> She said I mustn't touch it.
+            
+            --------------------------------------------------------------------
+            
+            Zazwyczaj należy zmieniać: I like -> She said SHE liked
+            
+            W mowie zależnej zmieniają się określenia czasu, miejsca itp.
+            here -> there
+            this -> that/the
+            these -> those/the
+            now -> then
+            today -> that day
+            tonight -> that night
+            tomorrow -> the next day / the following day
+            next ... (month) -> the next ... (month) / the following ... (month)
+            
+            yesterday -> the day before / the previous day
+            last ... (month) -> the ... (month) before / the previous ... (month)
+            
+            ... (a month) ago -> ... (a month) before
+            
+            I'll meet you here tommorrow -> He said he'd meet me there the next day
+            
+            --------------------------------------------------------------------
+            
+            direct questions / reported questions
+            
+            ARE YOU married? / She asked him IF HE WAS married.
+            DID she PHONE? / He asked me WHETHER she HAD PHONED.
+            What IS your name? / I asked him WHAT his name WAS.
+            Where DO YOU LIVE? / They asked me WHERE I LIVED.
+            When were you born? / She asked him WHEN HE WAS BORN
+            
+            Jeśli pytanie jest z czasownikiem (a nie ze słówkiem pytającym) dodajemy IF (lub whether)
+            Are you married? -> She asked him IF he was married
+            Did she phone? -> He asked me WHETHER she had phoned
+            
+            Należy także pamiętać że należy zmienić kolejność słów:
+            PODMIOT + CZASOWNIK, nie używać DO/DID.
+            
+            Do you want to dance? He asked me if I wantED to dance.
+            Where's the nearest bank? I asked her where (podmiot) the nearest bank (czasownik) was.
+            
+            --------------------------------------------------------------------
+            
+            Said / told
+            
+            Po said nie używamy me, him, her itd (said sth, say sth to sb)
+            He said he was tired.
+            
+            Po told musimy użyć osobę do kórej mówiono (me, him, her itd) (told sbm tell sb sth)
+            He told me he was tired.
+            
+            --------------------------------------------------------------------
+            
+            Reported speech: commands
+            
+            Imperatives or request - nakazy lub żądania
+            
+            direct speach / reported speach
+            
+            GO away. / She told him TO GO away.
+            DON'T WORRY / The doctor told me NOT TO WORRY.
+            CAN/COULD YOU HELP me? / I asked the shop assistant TO HELP me.
+            
+            W nakazach lub żadaniach w mowie zależnej używamy:
+            TOLD (lub asked) + OSOBA + bezokolicznik z TO
+            
+            Can you bring me the bill, please? He ASKED THE WAITER TO BRING the bill.
+            
+            
+            
+            
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>6A</subpart>
+    </grammary>
+    <grammary>
+        <title>B</title>
+        <content> 
+            asdasd
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>6B</subpart>
+    </grammary>
+    <grammary>
+        <title>C</title>
+        <content> 
+            asdasd
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>6C</subpart>
+    </grammary>
+</grammary_roles>

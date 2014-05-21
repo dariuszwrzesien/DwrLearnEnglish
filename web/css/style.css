@@ -75,3 +75,16 @@
     height: 50px;
     width: 50px;
 }
+.drawn-status{
+    color: gainsboro;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
+.drawn-status .drawn{
+    color: green;
+}
+.drawn-status .all{
+    color: red;
+}

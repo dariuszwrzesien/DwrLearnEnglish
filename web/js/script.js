@@ -1,15 +1,6 @@
 $(document).ready(function() {
 
     /**
-     * Set background color based on cookies value -> moved to check_me view
-     */
-//    if (null !== $.cookie('backgroundColor'))
-//    {
-//        $('body').css('backgroundColor', $.cookie('backgroundColor'));
-//        console.log($.cookie('backgroundColor'));
-//    }
-
-    /**
      * Manage top menu tabs 
      */
     $('#js_topmenu li').removeClass('active');
@@ -21,7 +12,8 @@ $(document).ready(function() {
     /**
      * Click on the light switcher
      */
-    $('#js-light-switcher').on('click', function() {
+    $('#js-light-switcher').on('click', function(event) {
+        event.preventDefault();
         if ($('body').css('backgroundColor') === 'rgb(255, 255, 255)') {
             /**
              * jquery.color.js
@@ -33,34 +25,35 @@ $(document).ready(function() {
              * jquery.cookie.js
              */
             $.cookie('backgroundColor', '#333333', {expires: 7});
+            $(this).find('input[type="checkbox"]').prop('checked', false);
         } else {
             $('body').animate({
                 backgroundColor: '#FFFFFF'
             }, 500);
             $.removeCookie('backgroundColor');
+            $(this).find('input[type="checkbox"]').prop('checked', true);
         };
-//        console.log($('body').css('backgroundColor'));
-//        console.log($.cookie('backgroundColor'));
+
+        // Set background color based on cookies value -> moved to check_me view
     });
-    
+
     /**
      * Click on the progress-bar switcher
      */
-    var i=0
     $('#js-progress-bar-switcher').on('click', function(event) {
         event.preventDefault();
-        $(this).find('input[type="checkbox"]').prop('checked', true);
-        console.log(i);
-        i++;
-//        console.log($('#js-progress-bar').is(':visible'));
-//        if ($('#js-progress-bar').is(':visible')) {
-//            $('#js-progress-bar').hide();
-//            $.cookie('progressBar', 'hidden', {expires: 7});
-//            }
-//        }else {
-//            $('#js-progress-bar').show();
-////            $.cookie('progressBar', 'visible', {expires: 7});
-//        };
+        var progressBarStatus = $(this).find('input[type="checkbox"]').prop('checked');
+        $(this).find('input[type="checkbox"]').prop('checked', !progressBarStatus);
+
+        if (!progressBarStatus) {
+            $('.progress').show();
+            $.cookie('progressBar', 'true', {expires: 7});
+        } else {
+            $('.progress').hide();
+            $.cookie('progressBar', 'false', {expires: 7});
+        };
+
+        // Set progress bar based on cookies value -> moved to check_me view
     });
 
     /**
@@ -74,37 +67,37 @@ $(document).ready(function() {
             $('form[name="form"]').submit();
         }
     });
-    
+
     /**
      * Restart dialog confirm (pop-window)
      */
-     $(function() {
+    $(function() {
         $("#js-restart-dialog-confirm").dialog({
             autoOpen: false,
             resizable: false,
             modal: true,
             buttons: {
-                "Yes": function(){
+                "Yes": function() {
                     $(this).dialog("close");
                 },
-                "No": function(){
+                "No": function() {
                     $(this).dialog("close");
                 }
             }
         });
     });
-    
+
     /**
      * Click on the restart button
      */
     $('#js-restart-button').on('click', function(event) {
         $("#js-restart-dialog-confirm").dialog("open");
     });
-    
+
     /**
      * Config page dialog (pop-window)
      */
-     $(function() {
+    $(function() {
         $("#js-config-page-dialog").dialog({
             autoOpen: false,
             resizable: false,
@@ -112,7 +105,7 @@ $(document).ready(function() {
             width: 350,
         });
     });
-    
+
     /**
      * Click on the config page button
      */

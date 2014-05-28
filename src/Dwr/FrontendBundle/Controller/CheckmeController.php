@@ -6,19 +6,19 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
-use Symfony\Component\HttpFoundation\Cookie;
+use Symfony\Component\HttpFoundation\Session\Session;
 use Dwr\FrontendBundle\Entity\Part;
 
-class CheckmeController extends Controller
-{
+class CheckmeController extends Controller {
+
+    public $session;
 
     /**
      * @Route("/check_me/{part_id}", defaults={"part_id" = null}, name="check_me")
      * @Template()
      */
-    public function indexAction(Request $request, $part_id)
-    {
+    public function indexAction(Request $request, $part_id) {
+        $this->session = $request->getSession();
 
         $em = $this->getDoctrine()->getManager();
         $parts = $em->getRepository('DwrFrontendBundle:Word')
@@ -28,13 +28,12 @@ class CheckmeController extends Controller
 
         $word = null;
         if ($part) {
-            if ($this->randomWord($request, $part)) {
-                $word = $this->randomWord($request, $part);
-            } else {
+            $word = $this->randomWord($this->session, $part);
+            if (null == $word) {
                 return $this->redirect($this->generateUrl('check_me'));
             }
         } else {
-            $this->clearCookie();
+            $this->session->clear();
         }
 
         $form = $this->createFormBuilder()
@@ -45,10 +44,10 @@ class CheckmeController extends Controller
                         'class' => 'btn btn-primary btn-lg navbar-btn next-button'))
                 )
                 ->getForm();
-        
+
         $progress = null;
         if ($part) {
-            $progress = $this->getProgress($request, $part);
+            $progress = $this->getProgress($this->session, $part);
         }
 
         return array(
@@ -60,52 +59,51 @@ class CheckmeController extends Controller
         );
     }
 
-    protected function getProgress(Request $request, $part){
-        
+    protected function getProgress(Session $session, $part) {
+
         $em = $this->getDoctrine()->getManager();
-        $alreadyDrawn = unserialize($request->cookies->get('words'));
+        $alreadyDrawn = unserialize($session->get('words'));
         $allWordsId = $em->getRepository('DwrFrontendBundle:Word')
                 ->findWordsIdByPart($part);
-        
+
         $counter = count($alreadyDrawn);
         $denominator = count($allWordsId);
-        
+
         $progress = array();
         $progress['alreadyDrawnAmount'] = count($alreadyDrawn);
         $progress['allWordsAmount'] = count($allWordsId);
-        
-        if($denominator > 0){
+
+        if ($denominator > 0) {
             $progress['percentage'] = $this->calculatePercentage($counter, $denominator);
             return $progress;
         }
     }
-    
-    protected function calculatePercentage($counter, $denominator){
-        return ($counter * 100)/$denominator;
+
+    protected function calculatePercentage($counter, $denominator) {
+        return ($counter * 100) / $denominator;
     }
-    
-    protected function randomWord(Request $request, Part $part)
-    {
+
+    protected function randomWord(Session $session, Part $part) {
         $em = $this->getDoctrine()->getManager();
 
         $allWordsId = $em->getRepository('DwrFrontendBundle:Word')
                 ->findWordsIdByPart($part);
 
         $randomId = rand(0, count($allWordsId) - 1);
-        $alreadyDrawn = unserialize($request->cookies->get('words'));
+        $alreadyDrawn = unserialize($session->get('words'));
         if ($alreadyDrawn) {
             if (count($alreadyDrawn) < count($allWordsId)) {
                 while (in_array($randomId, $alreadyDrawn)) {
                     $randomId = rand(0, count($allWordsId) - 1);
                 }
                 $alreadyDrawn[] = $randomId;
-                $this->setCookie($alreadyDrawn);
+                $this->setSession($alreadyDrawn);
             } else {
                 return null;
             }
         } else {
             $alreadyDrawn[] = $randomId;
-            $this->setCookie($alreadyDrawn);
+            $this->setSession($alreadyDrawn);
         }
         $word = $em->getRepository('DwrFrontendBundle:Word')
                 ->findOneBy(array('id' => $allWordsId[$randomId]['id']));
@@ -113,22 +111,8 @@ class CheckmeController extends Controller
         return $word;
     }
 
-    protected function setCookie(array $data)
-    {
-
-        $cookie = new Cookie('words', serialize($data), (time() + 3600 * 24 * 7));
-        $response = new Response();
-        $response->headers->setCookie($cookie);
-        $response->sendHeaders();
-    }
-
-    protected function clearCookie()
-    {
-        $data = array();
-        $cookie = new Cookie('words', serialize($data), (time() - 3600));
-        $response = new Response();
-        $response->headers->setCookie($cookie);
-        $response->sendHeaders();
+    protected function setSession(array $data) {
+        $this->session->set('words', serialize($data), (time() + 3600 * 24 * 7));
     }
 
 }

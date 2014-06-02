@@ -37,8 +37,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>fall in love with sb</english>
-        <polish>zakochać się w kimś</polish>
+        <english>fall in love WITH sb</english>
+        <polish>zakochać się W kimś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -56,7 +56,7 @@
     </word>
     <word>
         <english>It's all over</english>
-        <polish>wszystko skończone</polish>
+        <polish>To wszystko skończone</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -271,8 +271,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>pay for sth over 12 month</english>
-        <polish>płacić za coś przez 12 miesięcy</polish>
+        <english>pay for sth OVER 12 month</english>
+        <polish>płacić za coś PRZEZ 12 miesięcy</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -319,7 +319,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>charge sb / (I'm) in charge (here)</english>
+        <english>charge sb / (I'm) in charge of (here)</english>
         <polish>obciążyć kogoś kosztami / (jestem tutaj) zarządzającym</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
@@ -368,7 +368,7 @@
     </word>
     <word>
         <english>compensate sb for sth</english>
-        <polish>zrekompensować stratę (wrównać) komuś za coś</polish>
+        <polish>zrekompensować stratę (wyrównać) komuś za coś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -445,8 +445,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>reserve</english>
-        <polish>zarezerwować</polish>
+        <english>reserve (v.)</english>
+        <polish>zarezerwować (cz.)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -482,7 +482,7 @@
     </word>
     <word>
         <english>unsuccessfully</english>
-        <polish>nieszczęśliwy, niespełniony</polish>
+        <polish>bezskutecznie</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -554,7 +554,7 @@
     </word>
     <word>
         <english>genuine (genuine effort)</english>
-        <polish>prawdziwy, autentyczny (prawdziwy wysiłek)</polish>
+        <polish>oryginalny, prawdziwy, autentyczny (prawdziwy wysiłek)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>A</subpart>
     </word>
@@ -602,7 +602,7 @@
     </word>
     <word>
         <english>be set in (1990s) (The film was set in 19th)</english>
-        <polish>rozgrywa się (Film rozgrywa się w 19 wieku)</polish>
+        <polish>rozgrywa się (Film rozgrywał się w 19 wieku)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -728,7 +728,7 @@
     </word>
     <word>
         <english>move sb (Famous films that moved us)</english>
-        <polish>poruszyć kogoś (wzruszyć) (Sławne filmy które nas wzruszyły/poruszyły)</polish>
+        <polish>poruszyć/wzruszyć kogoś (Sławne filmy które nas wzruszyły/poruszyły)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -992,7 +992,7 @@
     </word>
     <word>
         <english>be directed (It was directed by James Ivory)</english>
-        <polish>został wyreżyserowany (Został wyreżyserowany przez Jamesa Ivory)</polish>
+        <polish>zostać wyreżyserowany (Został wyreżyserowany przez Jamesa Ivory)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -1136,7 +1136,7 @@
     </word>
     <word>
         <english>human being</english>
-        <polish>człowiek</polish>
+        <polish>człowiek (istota ludzka)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1147,14 +1147,20 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>impact (n.) / impact (v.)</english>
+        <polish>wpływ, uderzenie (rz.) / mieć wpływ (cz.)</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>enormous</english>
         <polish>ogromny, olbrzymi</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>inspire sb</english>
-        <polish>inspirować kogoś</polish>
+        <english>inspire sb to do sth</english>
+        <polish>inspirować kogoś do zrobienia czegoś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1178,7 +1184,7 @@
     </word>
     <word>
         <english>be insulted by sb</english>
-        <polish>zostać obrażónym przez kogoś</polish>
+        <polish>zostać obrażonym/znieważonym przez kogoś</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1233,6 +1239,12 @@
     <word>
         <english>foundation</english>
         <polish>fundacja</polish>
+        <part>New English File 3 Intermediate - Unit 6</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>masterpiece</english>
+        <polish>arcydzieło, majstersztyk</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1369,109 +1381,109 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>composer</english>
+        <english>a composer</english>
         <polish>kompozytor</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>designer</english>
+        <english>a designer</english>
         <polish>projektant</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>footballer</english>
+        <english>a footballer</english>
         <polish>piłkarz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>painter</english>
+        <english>a painter</english>
         <polish>malarz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>photographer</english>
+        <english>a photographer</english>
         <polish>fotograf</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>presenter</english>
+        <english>a presenter</english>
         <polish>prezenter</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>actor / actress</english>
+        <english>an actor / an actress</english>
         <polish>aktor / aktorka</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>conductor</english>
+        <english>a conductor</english>
         <polish>drygent</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>director (the person who makes a film)</english>
+        <english>a director (the person who makes a film)</english>
         <polish>reżyser</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>inventor</english>
+        <english>a inventor</english>
         <polish>wynalazca</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>sculptor</english>
+        <english>a sculptor</english>
         <polish>rzeźbiarz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>politician</english>
+        <english>a politician</english>
         <polish>polityk</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>musician</english>
+        <english>a musician</english>
         <polish>muzyk</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>cyclist</english>
+        <english>a cyclist</english>
         <polish>rowerzysta</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>guitarist</english>
+        <english>a guitarist</english>
         <polish>gitarzysta</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>physicist</english>
+        <english>a physicist</english>
         <polish>fizyk</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>scientist</english>
+        <english>a scientist</english>
         <polish>naukowiec</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>violinist</english>
+        <english>a violinist</english>
         <polish>skrzypek, skrzypaczka</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
@@ -1483,14 +1495,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>weterynarz</english>
-        <polish>vet</polish>
+        <english>vet</english>
+        <polish>weterynarz</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>found(vb), foundation(n)</english>
-        <polish>założyć, ufungować(cz), fundacja(rz)</polish>
+        <polish>założyć, ufundować(cz), fundacja(rz)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1525,8 +1537,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>sell(vb), sale(n)</english>
-        <polish>sprzedawać(cz), sprzedaż, wyprzedaż(rz)</polish>
+        <english>sell(vb) / sale(n)</english>
+        <polish>sprzedawać(cz), sprzedaż / wyprzedaż(rz)</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>C</subpart>
     </word>
@@ -1537,8 +1549,8 @@
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english>You're joking</english>
-        <polish>Żartujesz</polish>
+        <english>You're joking.</english>
+        <polish>Żartujesz.</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
@@ -1550,7 +1562,7 @@
     </word>
     <word>
         <english>It's true, I'm telling you.</english>
-        <polish>To prawda, mówię Ci</polish>
+        <polish>To prawda, mówię Ci.</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
@@ -1561,14 +1573,14 @@
         <subpart>Practical</subpart>
     </word>
     <word>
-        <english>It was definitely them.</english>
+        <english>It was definitely this.</english>
         <polish>To było definitywnie to.</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>
     <word>
         <english>You must come round for a meal one evening</english>
-        <polish>Musisz wpać na (do mnie) coś zjeść jakiegoś wieczora.</polish>
+        <polish>Musisz wpać (do mnie) coś zjeść jakiegoś wieczora.</polish>
         <part>New English File 3 Intermediate - Unit 6</part>
         <subpart>Practical</subpart>
     </word>

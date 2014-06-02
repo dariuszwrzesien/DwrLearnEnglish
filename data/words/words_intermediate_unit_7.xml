@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
     <word>
-        <english>make sb's own luck (Can we make our own luck)</english>
-        <polish>sprzyjać czyjemuś szczęściu (Czy my możemy sprzyjać swojemu szczęściu)</polish>
+        <english>make (sb's) own luck (Can we make our own luck)</english>
+        <polish>sprzyjać (czyjemuś) szczęściu (Czy my możemy sprzyjać swojemu szczęściu)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -43,7 +43,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>fiance / fiancee</english>
+        <english>fiancé / fiancée</english>
         <polish>narzeczony / narzeczona</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
@@ -56,7 +56,7 @@
     </word>
     <word>
         <english>rush (v.)</english>
-        <polish>pędzić, gnać (cz.)</polish>
+        <polish>pośpiech, pędzić, gnać (cz.)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -86,13 +86,13 @@
     </word>
     <word>
         <english>cabin crew</english>
-        <polish>zaloga (samolotu)</polish>
+        <polish>załoga (samolotu)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>put out a desperate call to sb</english>
-        <polish>ogłosić desperacki (rozpaczliwy) apel do kogoś</polish>
+        <english>PUT OUT a desperate call to sb</english>
+        <polish>OGŁOSIĆ desperacki (rozpaczliwy) apel do kogoś</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -105,12 +105,6 @@
     <word>
         <english>feel anxious ABOUT sth</english>
         <polish>czuć się zaniepokojonym Z jakiegoś powodu</polish>
-        <part>New English File 3 Intermediate - Unit 7</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -289,8 +283,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>give up (don't give up) / przestać palić papierosy (zaprzestać robienia czegoś)</english>
-        <polish>poddać się (nie poddawaj się) / give up smoking</polish>
+        <english>give up (don't give up) / give up smoking</english>
+        <polish>poddać się (nie poddawaj się) / przestać palić papierosy (zaprzestać robienia czegoś)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -626,7 +620,7 @@
     </word>
     <word>
         <english>confess to sth</english>
-        <polish>wyznać coś, przyznać się do czegoś</polish>
+        <polish>wyznać coś</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -644,6 +638,12 @@
     </word>
     <word>
         <english>witness</english>
+        <polish>świadek</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>victim</english>
         <polish>ofiara</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
@@ -661,7 +661,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>lawyer</english>
+        <english>a lawyer</english>
         <polish>prawnik</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
@@ -697,8 +697,14 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>rub</english>
+        <polish>przecierać, wycierać, trzeć, pocierać</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>marriage</english>
-        <polish>ślub</polish>
+        <polish>małżeństwo, ślub</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -710,7 +716,7 @@
     </word>
     <word>
         <english>elaborate(v.)</english>
-        <polish>szczegółowo</polish>
+        <polish>opracować, podać szczegóły</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -751,7 +757,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>beyond er volition</english>
+        <english>beyond her volition</english>
         <polish>poza jej wolą</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
@@ -817,7 +823,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>film director</english>
+        <english>a film director</english>
         <polish>reżyser filmowy</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
@@ -835,7 +841,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>shopping center</english>
+        <english>shopping center / shopping mall</english>
         <polish>centrum handlowe</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
@@ -875,12 +881,6 @@
         <polish>korek uliczny</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 3 Intermediate - Unit 7</part>
-        <subpart>C</subpart>
     </word>
     <word>
         <english>switch sth off</english>
@@ -1028,7 +1028,7 @@
     </word>
     <word>
         <english>remote control</english>
-        <polish>zdalna sterowanie</polish>
+        <polish>zdalne sterowanie</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1040,7 +1040,7 @@
     </word>
     <word>
         <english>be scheduled for June</english>
-        <polish>byc zaplanowanym na Czerwiec</polish>
+        <polish>być zaplanowanym na Czerwiec</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1052,7 +1052,7 @@
     </word>
     <word>
         <english>spokesman</english>
-        <polish>rzecznik</polish>
+        <polish>rzecznik prasowy</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1123,7 +1123,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>take money out of a cach machine</english>
+        <english>take money out of a cash machine</english>
         <polish>wybrać pieniądzę z bankomatu</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
@@ -1154,7 +1154,7 @@
     </word>
     <word>
         <english>set off (early)</english>
-        <polish>wyruszać (wcześnie)</polish>
+        <polish>wyruszać (wcześnie) w podróż</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1184,7 +1184,7 @@
     </word>
     <word>
         <english>hang up</english>
-        <polish>odłozyć słuchawkę, rozłączyć się</polish>
+        <polish>odłożyć słuchawkę, rozłączyć się</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1202,7 +1202,7 @@
     </word>
     <word>
         <english>give sth up</english>
-        <polish>poddać się,zaprzestać robienia czegoś, zaniechać czegoś </polish>
+        <polish>poddać się, zaprzestać robienia czegoś, zaniechać czegoś </polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1220,7 +1220,7 @@
     </word>
     <word>
         <english>be made into a film (This story was made into a film)</english>
-        <polish>zostać zfilmowanym, zostać przerobionym na film (Ta historia została przerobiona na film)</polish>
+        <polish>zostać przerobionym na film (Ta historia została przerobiona na film)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1399,7 +1399,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>sweep the flor</english>
+        <english>sweep the floor</english>
         <polish>zamiatać podłogę</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
@@ -1495,38 +1495,38 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>I did it without thinking</english>
-        <polish>Zrobiłem to bezmyślinie</polish>
+        <english>I did it without thinking.</english>
+        <polish>Zrobiłem to bezmyślinie.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>It's an easy mistake to make</english>
-        <polish>To łatwy błąd do popełnienia</polish>
+        <english>It's an easy mistake to make.</english>
+        <polish>To łatwy błąd do popełnienia.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>Don't worry (about it)</english>
-        <polish>Nie martw się (o to)</polish>
+        <english>Don't worry (about it).</english>
+        <polish>Nie martw się (o to).</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>It doesn't matter</english>
-        <polish>To nie ma znaczenia</polish>
+        <english>It doesn't matter.</english>
+        <polish>To nie ma znaczenia.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>It was my foult</english>
-        <polish>To moja wina</polish>
+        <english>It was my fault.</english>
+        <polish>To moja wina.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>I haven't been honest with you</english>
-        <polish>Nie byłem z Tobą szczery</polish>
+        <english>I haven't been honest with you.</english>
+        <polish>Nie byłem z Tobą szczery.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
@@ -1549,14 +1549,14 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>It must have been you</english>
-        <polish>To musiałeś być ty</polish>
+        <english>It must have been you.</english>
+        <polish>To musiałeś być ty.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
         <english>You're horrible at (keeping secrets)!</english>
-        <polish>Jesteś beznadziejny w (utrzymywaniu sekretów)</polish>
+        <polish>Jesteś beznadziejny w (utrzymywaniu sekretów)!</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
@@ -1579,14 +1579,14 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>I didn't hear a word you said</english>
-        <polish>nie usłysząłem żadnego słowa które powiedziałaś</polish>
+        <english>I didn't hear a word you said.</english>
+        <polish>Nie usłysząłem żadnego słowa które powiedziałaś.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
         <english>Can you confirm that (in an email)?</english>
-        <polish>Czy możesz potwierdzić (w mailu)</polish>
+        <polish>Czy możesz potwierdzić to (w mailu)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
@@ -1603,26 +1603,20 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>spend time dING something</english>
+        <english>spend time doING something</english>
         <polish>spędzać czas robiąc coś</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
         <english>feel different from sb (Chldren who don't have TV, may feel different from school friends)</english>
-        <polish>czuć różnice miedzy kimś, wyczówać różnice między kimś (Dzieci które nie mają TV, mogą czuć różnicę miedzy rówieśnikami ze szkoły)</polish>
+        <polish>czuć różnice miedzy kimś, wyczuwać różnice między kimś (Dzieci które nie mają TV, mogą czuć różnicę miedzy rówieśnikami ze szkoły)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
     <word>
         <english>There's nothing good on</english>
         <polish>Tam nie ma nic dobrego</polish>
-        <part>New English File 3 Intermediate - Unit 7</part>
-        <subpart>Revision</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>

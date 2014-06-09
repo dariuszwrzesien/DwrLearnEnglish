@@ -344,7 +344,7 @@
     </word>
     <word>
         <english>throw a dice</english>
-        <polish>rzusić kostką</polish>
+        <polish>rzucić kostką</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -410,7 +410,13 @@
     </word>
     <word>
         <english>make an effort to relax = try hard to relax</english>
-        <polish>odejmij wysiłek aby się zrelaksować = staraj się (ciężko) aby się zrelaksować</polish>
+        <polish>podejmij wysiłek aby się zrelaksować = staraj się (ciężko) aby się zrelaksować</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>(try to do sth == make an effort) != (try doing sth == experiment with doing sth - try doing joga)</english>
+        <polish>podejmij wysiłek aby coś zrobić != spróbuj (poeksperymentuj) robienie czegoś</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -529,6 +535,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>power / powerful / powerless</english>
+        <polish>moc / silny, mocny / bezsilny</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>make fun OF sb/sth</english>
         <polish>żartować sobie Z kogoś/czegoś</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
@@ -601,8 +613,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>merchant</english>
-        <polish>kupiec</polish>
+        <english>merchant (merchant cotton)</english>
+        <polish>kupiec (kupiec bawełny)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -615,6 +627,12 @@
     <word>
         <english>scientific (scientific evidence)</english>
         <polish>naukowy (dowód naukowy)</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>science / scientist / scientific</english>
+        <polish>nauka / naukowiec / naukowy, naukowe</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -973,7 +991,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>get better / worse</english>
+        <english>get better / get worse</english>
         <polish>polepszyć / pogorszyć</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
@@ -1123,8 +1141,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>take money out of a cash machine</english>
-        <polish>wybrać pieniądzę z bankomatu</polish>
+        <english>take money out OF a cash machine</english>
+        <polish>wybrać pieniądzę Z bankomatu</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1376,7 +1394,7 @@
     </word>
     <word>
         <english>move back</english>
-        <polish>wrócić, przeprowadzić się spowrotem</polish>
+        <polish>wrócić, przeprowadzić się z powrotem</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1401,6 +1419,12 @@
     <word>
         <english>sweep the floor</english>
         <polish>zamiatać podłogę</polish>
+        <part>New English File 3 Intermediate - Unit 7</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>sweeping</english>
+        <polish>zamiatanie</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1441,7 +1465,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>make sth up (make up games)</english>
+        <english>make sth up (make up games) = invent</english>
         <polish>wynaleźć (wynajdować gry - do zabawy)</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>C</subpart>
@@ -1471,8 +1495,8 @@
         <subpart>Revision</subpart>
     </word>
     <word>
-        <english>give excuses</english>
-        <polish>robić wymówki</polish>
+        <english>give excuses / make an excuse</english>
+        <polish>robić wymówki / </polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>
@@ -1520,7 +1544,7 @@
     </word>
     <word>
         <english>It was my fault.</english>
-        <polish>To moja wina.</polish>
+        <polish>To była moja wina.</polish>
         <part>New English File 3 Intermediate - Unit 7</part>
         <subpart>Revision</subpart>
     </word>

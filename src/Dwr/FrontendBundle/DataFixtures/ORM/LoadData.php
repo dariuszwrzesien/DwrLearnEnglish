@@ -37,7 +37,7 @@ class LoadData implements FixtureInterface
             if (opendir($dataDir)) {
                 $dirHandle = opendir($dataDir);
                 while (false !== ($file = readdir($dirHandle))) {
-                    if ($file != "." && $file != "..") {
+                    if ($file != "." && $file != ".." && $file != "not_public") {
                         $xml = simplexml_load_file($dataDir . '/' . $file);
 
                         $output->writeln($file);

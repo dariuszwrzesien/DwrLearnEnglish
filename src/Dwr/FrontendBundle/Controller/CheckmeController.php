@@ -73,7 +73,13 @@ class CheckmeController extends Controller {
         {
             $params = json_decode($requestContent, true);
         }
-
+        
+        if($params['package_id']){
+            $params['path'] = $this->generateUrl('check_me', array(), true) .
+                              '/' .
+                              $params['package_id'];
+        }
+        
         //Clear session
         $this->session = $request->getSession();
         $this->session->clear();
@@ -83,7 +89,8 @@ class CheckmeController extends Controller {
             array(
                 'code' => 200, 
                 'success' => true,
-                'package_id' => $params['package_id']
+                'package_id' => $params['package_id'],
+                'package_path' => $params['path']
                 )
             ));
         $response->headers->set('Content-Type', 'application/json');

@@ -14,7 +14,8 @@
                 </button>
                 <ul class="dropdown-menu">
                     {% for part in parts %}
-                        <li><a href="{{ path('check_me', {'part_id': part.id})}}">{{part.name}}</a></li>
+{#                        <li><a href="{{ path('check_me', {'part_id': part.id})}}">{{part.name}}</a></li>#}
+                        <li><a href="#" class="js-choose-package" data-ajax-package="{{ part.id }}" data-ajax-route="{{ path('restart') }}">{{part.name}}</a></li>
                         {% endfor %}
                 </ul>
             </div>

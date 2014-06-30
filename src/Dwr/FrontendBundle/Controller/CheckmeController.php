@@ -2,12 +2,13 @@
 
 namespace Dwr\FrontendBundle\Controller;
 
-use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Dwr\FrontendBundle\Entity\Part;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\Session\Session;
-use Dwr\FrontendBundle\Entity\Part;
 
 class CheckmeController extends Controller {
 
@@ -18,6 +19,7 @@ class CheckmeController extends Controller {
      * @Template()
      */
     public function indexAction(Request $request, $part_id) {
+        
         $this->session = $request->getSession();
 
         $em = $this->getDoctrine()->getManager();
@@ -58,7 +60,37 @@ class CheckmeController extends Controller {
             'progress' => $progress,
         );
     }
+    
+    /**
+     * @Route("/restart", name="restart")
+     */
+    public function restartAction(Request $request){
+      
+        //Get params from request
+        $params = array();
+        $requestContent = $request->getContent();
+        if (!empty($requestContent))
+        {
+            $params = json_decode($requestContent, true);
+        }
 
+        //Clear session
+        $this->session = $request->getSession();
+        $this->session->clear();
+
+        //Prepare response
+        $response = new Response(json_encode(
+            array(
+                'code' => 200, 
+                'success' => true,
+                'package_id' => $params['package_id']
+                )
+            ));
+        $response->headers->set('Content-Type', 'application/json');
+
+        return $response;
+    }
+    
     protected function getProgress(Session $session, $part) {
 
         $em = $this->getDoctrine()->getManager();

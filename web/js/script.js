@@ -78,6 +78,19 @@ $(document).ready(function() {
             modal: true,
             buttons: {
                 "Yes": function() {
+//                    e.preventDefault();
+                    $.ajax({
+                        type:"POST",
+                        url:$(this).data('ajax-route'),
+                        data:'{"package_id": "' + $(this).data('ajax-package') + '"}',
+                        dataType:'json',
+                        global:false,
+                        async:false,
+                        success:function(data){
+                            console.log(data);
+                            window.location.replace(data.package_id);
+                        }
+                    });
                     $(this).dialog("close");
                 },
                 "No": function() {

@@ -7,19 +7,19 @@ dwr_frontend:
     resource: "@DwrFrontendBundle/Controller/"
     type:     annotation
     prefix:   /
-    
+
 dwr_apirest_words_all:
     pattern:  /words/{part_id}
     defaults: { _controller: DwrApiRestBundle:Word:all, _format: json }
     requirements:
-        _method: GET
+        _method: POST
         part_id: "\d+"
 
 dwr_apirest_word_get:
     pattern:  /word/{part_id}/{word_id}
     defaults: { _controller: DwrApiRestBundle:Word:get, _format: json }
     requirements:
-        _method: GET
+        _method: POST
         part_id: "\d+"
         word_id: "\d+"
         

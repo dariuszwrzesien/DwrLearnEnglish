@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sentences>
     <sentence>
-        <title>tile tile 1</title>
-        <content>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lobortis 
-            eros non nunc eleifend at aliquam arcu sagittis. Vivamus a risus vitae 
-            nisi rutrum vehicula. Duis at ante purus, sed pellentesque orci. 
-            Cras a mi justo, sit amet sodales tellus. Sed iaculis libero in odio 
-            vulputate hendrerit.
-        </content>
-        <comment>
-            Mauris mauris tortor, semper eu pellentesque nec, ornare eu metus. 
-            Nulla vitae justo vel dui suscipit sagittis. 
-        </comment>
-        <part>Speaking Exam - Britam 2014</part>
-        <subpart></subpart>
-    </sentence>
-    <sentence>
         <title>Unit 1</title>
         <content>
             1. What do you usually eat for breakfast?

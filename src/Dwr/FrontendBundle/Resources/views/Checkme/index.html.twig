@@ -47,8 +47,8 @@
         {% if(word) and (part) %}
             <div class="center-block checkme-box">
                 <div class="question-answer-block">
-                    <div id="question" class="label label-success">{{ word.polish}}</div>
-                    <div id="answer" class="label label-default">{{ word.english}}</div>
+                    <div id="question" class="label label-success">{{ word.polish }}</div>
+                    <div id="answer" class="label label-default">{{ word.english }}</div>
                 </div>
                 <br class="clear-both" />
                 <div class="form-block">
@@ -60,7 +60,7 @@
                 <div class="restart-block">
                     <p><button id="js-restart-button" type="button" class="btn btn-default btn-sm navbar-btn restart-button">Restart</button></p>
                 </div>
-                <div id="js-restart-dialog-confirm" title="Do you want to restart?">
+                <div id="js-restart-dialog-confirm" data-ajax-package="{{ part.id }}" data-ajax-route="{{ path('restart') }}" title="Do you want to restart?">
                     <p><span class="ui-icon ui-icon-alert" style="float:left; margin:0 7px 20px 0;"></span>Do you really want to restart?</p>
                 </div>
             </div>
@@ -82,21 +82,29 @@
              */
             if (null !== $.cookie('backgroundColor')) {
                 $('body').css('backgroundColor', $.cookie('backgroundColor'));
-                if($('body').css('backgroundColor') === '#333333'){
-                $('#js-light-switcher').find('input[type="checkbox"]').prop('checked', false);
-                }
             }
-
+            
+            /**
+             * Set light switcher at ON or OFF based on background color
+             */
+            if($('body').css('backgroundColor') === 'rgb(51, 51, 51)'){
+                $('#js-light-switcher').find('input[type="checkbox"]').prop('checked', false);
+            } else {
+                $('#js-light-switcher').find('input[type="checkbox"]').prop('checked', true);
+            }
+            
             /**
              * Set progress bar based on cookies value
              */
             if (null !== $.cookie('progressBar')) {
                 if ($.cookie('progressBar') === 'false') {
                     $('.progress').hide();
+                    //set progress bar switcher OFF
                     $('#js-progress-bar-switcher').find('input[type="checkbox"]').prop('checked', false);
                 }
                 if ($.cookie('progressBar') === 'true') {
                     $('.progress').show();
+                    //set progress bar switcher ON
                     $('#js-progress-bar-switcher').find('input[type="checkbox"]').prop('checked', true);
                 }
             }

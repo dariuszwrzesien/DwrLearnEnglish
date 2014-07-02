@@ -55,6 +55,23 @@ $(document).ready(function() {
 
         // Set progress bar based on cookies value -> moved to check_me view
     });
+    
+    /**
+     * Choose package from dropdown maenu in check_me and clear session
+     */
+    $('.js-choose-package').on('click', function(event) {
+        $.ajax({
+            type:"POST",
+            url:$(this).data('ajax-route'),
+            data:'{"package_id": "' + $(this).data('ajax-package') + '"}',
+            dataType:'json',
+            global:false,
+            async:false,
+            success:function(data){
+                window.location.replace(data.package_path);
+            }
+        });
+    });
 
     /**
      * Click on the next button
@@ -67,7 +84,20 @@ $(document).ready(function() {
             $('form[name="form"]').submit();
         }
     });
-
+    
+    /**
+     * Press "d" (event.which == 100) for next
+     */
+    $(document).keypress(function(event) {
+        if(event.which === 100){
+            if ($('#answer').css('visibility') === 'hidden') {
+                $('#answer').css('visibility', 'visible');
+            } else {
+                $('form[name="form"]').submit();
+            }
+        }
+    });
+    
     /**
      * Restart dialog confirm (pop-window)
      */
@@ -78,6 +108,17 @@ $(document).ready(function() {
             modal: true,
             buttons: {
                 "Yes": function() {
+                    $.ajax({
+                        type:"POST",
+                        url:$(this).data('ajax-route'),
+                        data:'{"package_id": "' + $(this).data('ajax-package') + '"}',
+                        dataType:'json',
+                        global:false,
+                        async:false,
+                        success:function(data){
+                            window.location.replace(data.package_path);
+                        }
+                    });
                     $(this).dialog("close");
                 },
                 "No": function() {

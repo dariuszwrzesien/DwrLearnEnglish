@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="ApiRest tests">
+            <directory>./src/Dwr/ApiRestBundle/Tests</directory>
+        </testsuite>
+        <testsuite name="FrontEnd tests">
+            <directory>./src/Dwr/FrontendBundle/Tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

@@ -84,6 +84,19 @@ $(document).ready(function() {
             $('form[name="form"]').submit();
         }
     });
+    /**
+     * Press "d" (event.which == 100) for next
+     */
+
+    $(document).keypress(function(event) {
+        if(event.which === 100){
+            if ($('#answer').css('visibility') === 'hidden') {
+                $('#answer').css('visibility', 'visible');
+            } else {
+                $('form[name="form"]').submit();
+            }
+        }
+    });
     
     /**
      * Restart dialog confirm (pop-window)

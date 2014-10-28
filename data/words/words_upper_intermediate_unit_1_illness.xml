@@ -13,8 +13,8 @@
         <subpart>Illness</subpart>
     </word>
     <word>
-        <english>headache, earache, stomach ache, etc.</english>
-        <polish>ból głowy, ból ucha, ból brzucha</polish>
+        <english>headache, earache, stomach ache etc.</english>
+        <polish>ból głowy, ból ucha, ból brzucha itd</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
     </word>
@@ -109,8 +109,14 @@
         <subpart>Illness</subpart>
     </word>
     <word>
-        <english>fainted</english>
+        <english>faint</english>
         <polish>zemdleć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
+        <subpart>Illness</subpart>
+    </word>
+    <word>
+        <english>injure</english>
+        <polish>ranić, kaleczyć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
     </word>
@@ -199,7 +205,7 @@
         <subpart>Illness</subpart>
     </word>
     <word>
-        <english>a bruise, blue mark</english>
+        <english>bruise, blue mark</english>
         <polish>siniak</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
@@ -271,7 +277,7 @@
         <subpart>Illness</subpart>
     </word>
     <word>
-        <english>antibiotcs</english>
+        <english>antibiotics</english>
         <polish>antybiotyki</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
@@ -326,7 +332,7 @@
     </word>
     <word>
         <english>scan</english>
-        <polish>skanowanie</polish>
+        <polish>prześwietlenie, skanowanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
     </word>
@@ -373,7 +379,7 @@
         <subpart>Illness</subpart>
     </word>
     <word>
-        <english>allergic reation</english>
+        <english>allergic reaction</english>
         <polish>reakcja alergiczna</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
@@ -411,6 +417,18 @@
     <word>
         <english>upwards</english>
         <polish>w górę</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
+        <subpart>Illness</subpart>
+    </word>
+    <word>
+        <english>check-up</english>
+        <polish>badanie ogólne</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
+        <subpart>Illness</subpart>
+    </word>
+    <word>
+        <english>GP (General Practitioner)</english>
+        <polish>lekarz ogólny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1 Illness and treatment</part>
         <subpart>Illness</subpart>
     </word>

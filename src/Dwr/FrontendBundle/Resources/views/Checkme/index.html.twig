@@ -96,7 +96,7 @@
             /**
              * Set progress bar based on cookies value
              */
-            if (null !== $.cookie('progressBar')) {
+            if ($.cookie('progressBar')) {
                 if ($.cookie('progressBar') === 'false') {
                     $('.progress').hide();
                     //set progress bar switcher OFF
@@ -107,8 +107,11 @@
                     //set progress bar switcher ON
                     $('#js-progress-bar-switcher').find('input[type="checkbox"]').prop('checked', true);
                 }
+            } else {
+                $('.progress').show();
+                //set progress bar switcher ON
+                $('#js-progress-bar-switcher').find('input[type="checkbox"]').prop('checked', true);
             }
-            
         });
     </script>
 {% endblock %}

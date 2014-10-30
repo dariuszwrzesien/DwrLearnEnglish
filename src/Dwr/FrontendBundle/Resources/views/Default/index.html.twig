@@ -1,7 +1,31 @@
 {% extends "::layout.html.twig" %}
 
 {% block content %}
-<div id="js_home" class="margin-top-75 subcontainer">
-    <img src="{{ asset('img/words_desat.jpg')}}" alt="words words words">
+<div id="js_home" class="margin-top-150 subcontainer">
+    <div id="wordcloud" class="wordcloud"> 
+        <span data-weight="95">english</span>
+        {% for word in words %}
+            <span data-weight="{{ random(range(10,70)) }}">{{ word.english }}</span>
+        {% endfor %}
+    </div>
+    <hr />
 </div>
+<script>
+    $(document).ready(function(){
+        $(document).ready(function(){
+            $("#wordcloud").awesomeCloud({
+                "size" : {
+                    "grid" : 11,
+                    "factor" : 1
+                },
+                "options" : {
+                    "color" : "random-dark",
+                    "rotationRatio" : 0.35
+                },
+                "font" : "'Arial', sans-serif",
+                "shape" : "circle"
+            });
+        });
+    });
+</script>
 {% endblock %}

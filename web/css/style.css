@@ -88,3 +88,12 @@
 .drawn-status .all{
     color: red;
 }
+.wordcloud {
+    height: 400px;
+    width: 900px;
+    margin: 5px auto;
+    padding: 0;
+    page-break-after: always;
+    page-break-inside: avoid;
+    
+}

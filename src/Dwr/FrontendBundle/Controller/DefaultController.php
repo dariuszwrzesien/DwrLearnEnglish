@@ -14,6 +14,16 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return array();
+        $words = $this->getRandomWords(120);
+
+        return array('words' => $words);
+    }
+    
+    private function getRandomWords($number)
+    {
+        $em = $this->getDoctrine()->getManager();
+        $words = $em->getRepository('DwrFrontendBundle:Word')->findRandomWords($number);
+        
+        return $words;
     }
 }

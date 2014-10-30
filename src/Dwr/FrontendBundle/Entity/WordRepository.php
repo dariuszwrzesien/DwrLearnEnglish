@@ -23,4 +23,32 @@ class WordRepository extends CustomRepository
 
         return $qb->getResult();
     }
+    
+    public function findRandomWords($number)
+    {
+        $wordsQuery = $this->createQueryBuilder('w');
+        $query = $wordsQuery->select('w.english')
+            ->add('where', $wordsQuery->expr()->in('w.id', '?1'))
+            ->setParameter(1, $this->getRandomWordsId($number))
+            ->getQuery();
+
+        return $query->getResult();
+    }
+    
+    private function getRandomWordsId($number)
+    {
+        $ids = $this->createQueryBuilder('w')
+                ->select('w.id')
+                ->getQuery()->getResult();
+        
+        shuffle($ids);
+        $randomIds = array_slice($ids, 0, $number);
+        
+        $randomWordsId = array();
+        foreach ($randomIds as $id) {
+            $randomWordsId[] = $id['id'];
+        }
+        
+        return $randomWordsId;
+    }
 }

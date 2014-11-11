@@ -31,20 +31,20 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>be proud about sth</english>
-        <polish>być dumnym z czegoś</polish>
-        <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>insecure</english>
-        <polish>niebezpieczny</polish>
+        <english>be proud ABOUT sth</english>
+        <polish>być dumnym Z czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>daily life</english>
         <polish>codzienne życie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>niebezpieczny</english>
+        <polish>dangerous</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -481,7 +481,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>trick</english>
+        <english>tricks</english>
         <polish>sztuczki</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
@@ -674,7 +674,7 @@
     </word>
     <word>
         <english>reserved</english>
-        <polish>skryty</polish>
+        <polish>skryty, powściągliwy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -728,7 +728,7 @@
     </word>
     <word>
         <english>deduce</english>
-        <polish>wnioskować</polish>
+        <polish>wnioskować, dedukować</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -758,7 +758,7 @@
     </word>
     <word>
         <english>secretive</english>
-        <polish>skryty</polish>
+        <polish>tajemniczy, skryty</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -818,7 +818,7 @@
     </word>
     <word>
         <english>companion</english>
-        <polish>towarzysz</polish>
+        <polish>towarzysz. kompan</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -902,7 +902,7 @@
     </word>
     <word>
         <english>imply</english>
-        <polish>sugerować</polish>
+        <polish>insynuować, sugerować</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -998,7 +998,7 @@
     </word>
     <word>
         <english>powerful</english>
-        <polish>silny</polish>
+        <polish>silny, potężny, wszechmocny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1118,7 +1118,7 @@
     </word>
     <word>
         <english>unambitious</english>
-        <polish>nieambinty</polish>
+        <polish>nieambitny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1303,12 +1303,6 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>injection</english>
-        <polish>zastrzyk</polish>
-        <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
         <english>injury</english>
         <polish>uraz, kontuzja</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
@@ -1382,7 +1376,7 @@
     </word>
     <word>
         <english>sprained</english>
-        <polish>zwichnąc</polish>
+        <polish>zwichnąć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1472,7 +1466,7 @@
     </word>
     <word>
         <english>damage</english>
-        <polish>szkodzić</polish>
+        <polish>uszkodzić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1562,7 +1556,7 @@
     </word>
     <word>
         <english>claim</english>
-        <polish>twieerdzić</polish>
+        <polish>twierdzić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1765,7 +1759,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>ruch over</english>
+        <english>rush over</english>
         <polish>pospieszyć (z pomocą)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
@@ -1838,7 +1832,7 @@
     </word>
     <word>
         <english>be faced with sth</english>
-        <polish>stanąć twarzą w twarz z kimś</polish>
+        <polish>stanąć twarzą w twarz z czymś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1886,7 +1880,7 @@
     </word>
     <word>
         <english>flatmate</english>
-        <polish>współlokator</polish>
+        <polish>współ-lokator</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -2095,7 +2089,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>have a seriouse allergic reaction</english>
+        <english>have a serious allergic reaction</english>
         <polish>mieć poważną reakcję alegiczną</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
@@ -2138,7 +2132,7 @@
     </word>
     <word>
         <english>a bandage put on</english>
-        <polish>załozyć bangaż</polish>
+        <polish>założyć bangaż</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -2150,7 +2144,7 @@
     </word>
     <word>
         <english>warn sb ABOUT sth</english>
-        <polish>ostrzegac kogoś PRZED kimś</polish>
+        <polish>ostrzegać kogoś PRZED czymś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -2162,7 +2156,7 @@
     </word>
     <word>
         <english>use / fallow the instruction manual</english>
-        <polish>używać / podązać za instrukcjami z podręcznika</polish>
+        <polish>używać / podążać za instrukcjami z podręcznika</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -2240,13 +2234,13 @@
     </word>
     <word>
         <english>sightseeing</english>
-        <polish>zwiedznanie</polish>
+        <polish>zwiedzanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>wait FOR sb</english>
-        <polish>czegać NA kogoś</polish>
+        <polish>czekać NA kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>

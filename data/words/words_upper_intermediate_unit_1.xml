@@ -61,8 +61,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>dislike</english>
-        <polish>nielubić</polish>
+        <english>like != dislike</english>
+        <polish>lubić != nielubić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -129,12 +129,6 @@
     <word>
         <english>have a date</english>
         <polish>mieć randkę</polish>
-        <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>partner</english>
-        <polish>partner</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -217,8 +211,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>deafening</english>
-        <polish>ogłuszający</polish>
+        <english>deafening (deafening music)</english>
+        <polish>ogłuszający (ogłuszająca muzyka)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -397,6 +391,12 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>awake</english>
+        <polish>obudzony</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>possesion</english>
         <polish>własność, dobytek</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
@@ -421,8 +421,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>prospective</english>
-        <polish>potencjalny</polish>
+        <english>prospective (prospective partner)</english>
+        <polish>potencjalny (potencjalny partner)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -475,8 +475,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>treasured</english>
-        <polish>wartościowy, cenny</polish>
+        <english>treasured (What's your most treasured possesion ?)</english>
+        <polish>wartościowy, cenny (Co najbardziej wartościowego posiadasz ?)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -507,6 +507,36 @@
     <word>
         <english>watchful</english>
         <polish>uważny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>Who would play you in the film of your life?</english>
+        <polish>kto zagrałby Ciebie w filmie o Twoim życiu?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>immediately</english>
+        <polish>natychmiast</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>go along</english>
+        <polish>iść naprzód</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pretend</english>
+        <polish>udawać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pleased (They were pleased)</english>
+        <polish>zadowolony (Oni byli zadowoleni)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -1033,6 +1063,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>worldwide</english>
+        <polish>na całym świecie, na świecie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>scar</english>
         <polish>blizna</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
@@ -1132,1128 +1168,1128 @@
         <english>A&amp;E (Accident and Emergency)</english>
         <polish>ostry dyżur</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>ache</english>
         <polish>ból</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>allergic</english>
         <polish>alergiczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>ankle</english>
         <polish>kostka (u nogi)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>antibiotic</english>
         <polish>antybiotyk</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>athma (ezma)</english>
         <polish>astma</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>bandage</english>
         <polish>bandaż</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be sick</english>
         <polish>wymiotować</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>bleed</english>
         <polish>krwawić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>blister</english>
         <polish>bąbel, pęcherz (po oparzeniu)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>bruise (blue mark)</english>
         <polish>siniak</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>burn</english>
         <polish>parzyć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>catch cold</english>
         <polish>złapać przeziebienie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>cough [kaf]</english>
         <polish>kaszel</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>deep cut</english>
         <polish>głębokie skaleczenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>diarrhoea (dajorija)</english>
         <polish>biegunka</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>dizzy</english>
         <polish>cierpiący na zawroty głowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>drug</english>
         <polish>lek</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>earache</english>
         <polish>ból ucha</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>faint</english>
         <polish>mdleć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>feel sick</english>
         <polish>czuć się chorym</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>flu</english>
         <polish>grypa</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>food poisoning</english>
         <polish>zatrucie pokarmowe</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>GP (General Practitioner)</english>
         <polish>lekarz rodzinny, ogólny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>headache</english>
         <polish>ból głowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>heart attack</english>
         <polish>zawał serca</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>high (low) bllod pressure</english>
         <polish>wysokie (niskie) ciśnienie krwi</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>hurt</english>
         <polish>boleć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>illness</english>
         <polish>choroba</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>injury</english>
         <polish>uraz, kontuzja</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>medicine</english>
         <polish>lekarstwo</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>needle</english>
         <polish>igła</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>operation</english>
         <polish>operacja</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>pain (in his chest)</english>
         <polish>ból (w jego klatce piersiowej)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>painkiller</english>
         <polish>środek przeciwbólowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>rash</english>
         <polish>wysypka</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>rest</english>
         <polish>odpoczynek</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>scan</english>
         <polish>prześwietlenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>sneeze</english>
         <polish>kichać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>sore throat</english>
         <polish>ból gardła</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>specialist</english>
         <polish>specjalista</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>sprained</english>
         <polish>zwichnąć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>stitch / stitches</english>
         <polish>szew / szwy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>stomach ache</english>
         <polish>ból żołądka</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>stroke</english>
         <polish>udar, wylew do mózgu</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>swollen</english>
         <polish>spuchnięty</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>symptom</english>
         <polish>symptom</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>temperature</english>
         <polish>temperatura</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>treatment</english>
         <polish>leczenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>twist, twisted (ankle)</english>
         <polish>skręcać, skręcona (kostka)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>unconscious [ankonczys]</english>
         <polish>nieprzytomny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>wound</english>
         <polish>rana</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>X-ray</english>
         <polish>rentgen, prześwietlenie rentgenowski</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>breathe</english>
         <polish>oddychać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>cell</english>
         <polish>komórka</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>choke</english>
         <polish>dławić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>damage</english>
         <polish>uszkodzić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>long-term</english>
         <polish>długofalowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>panic</english>
         <polish>panikować</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>sting (stung, stung)</english>
         <polish>żądlić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>strengthen</english>
         <polish>wzmacniać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>stuck</english>
         <polish>utknąć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>swallow</english>
         <polish>połykać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>achievement</english>
         <polish>osiągnięcie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>anti-ageing</english>
         <polish>przeciw efektom starzenia</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>antiseptic</english>
         <polish>antybakteryjny, środek odkażający</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>appointment</english>
         <polish>umówiona wizyta</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>arthritis</english>
         <polish>artretyzm</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>beneficial</english>
         <polish>korzystny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>burn</english>
         <polish>oparzenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>check-up</english>
         <polish>badanie kontrolne</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>claim</english>
         <polish>twierdzić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>cherry</english>
         <polish>wiśnia, czereśnia</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>chronic</english>
         <polish>chroniczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>consciousness [konszysness]</english>
         <polish>przytomność</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>couch</english>
         <polish>kanapa</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>deadline</english>
         <polish>ostateczny termin</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>disease</english>
         <polish>choroba</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>exhausted</english>
         <polish>wyczerpany, wykończony</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>glad</english>
         <polish>zadowolony</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>giggle</english>
         <polish>chichotać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>gradually</english>
         <polish>stopniowo, powoli</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>harmful</english>
         <polish>szkodliwy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>hug</english>
         <polish>objęcie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>infection</english>
         <polish>infekcja</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>inwards</english>
         <polish>do wewnątrz</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>upwards</english>
         <polish>w górę</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>manoeuvre</english>
         <polish>manewr</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>manual (n)</english>
         <polish>podręcznik (rz.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>mechanism</english>
         <polish>mechanizm</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>memeber</english>
         <polish>członek</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>moderate (adj)</english>
         <polish>umiarkowany, średni, o umiarkowanych poglądach</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>nosebleed</english>
         <polish>krwotok z nosa</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>patient (n)</english>
         <polish>pacjent (rz.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>pinch</english>
         <polish>szczypać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>plaster</english>
         <polish>plaster</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>poisoning</english>
         <polish>zatrucie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>pressure</english>
         <polish>ciśnienie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>process</english>
         <polish>proces</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>protein</english>
         <polish>białko, proteina</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>puppy</english>
         <polish>szczeniak</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>reach</english>
         <polish>osiągnać cel</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>reaction</english>
         <polish>reakcja</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>remain</english>
         <polish>pozostawać, nie zmieniać się</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>response</english>
         <polish>odpowiedź</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>rush over</english>
         <polish>pospieszyć (z pomocą)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>self-repair</english>
         <polish>samogojenie, samonaprawa</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>short-term</english>
         <polish>krótkoterminowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>staff</english>
         <polish>zespół pracowników</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>switch on</english>
         <polish>włączyć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>treat (badly)</english>
         <polish>traktować (źle)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>waist</english>
         <polish>talia w pasie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>wasp</english>
         <polish>osa</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>contain</english>
         <polish>zawierać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>legibility</english>
         <polish>czytelność</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>objective (n)</english>
         <polish>cel (rz.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>descending != rising</english>
         <polish>opadający != wznoszący</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be faced with sth</english>
         <polish>stanąć twarzą w twarz z czymś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>go through a phase</english>
         <polish>przejść fazę</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>have a hight opinion of sb</english>
         <polish>mieć wysokie mniemanie o kimś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>look forward to sth</english>
         <polish>nie móc się doczekać czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>talkative</english>
         <polish>gadatliwy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>dishonest</english>
         <polish>nieszczery</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>imaginative</english>
         <polish>obdarzony wyobraźnią</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>considerate</english>
         <polish>taktowny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>flatmate</english>
         <polish>współ-lokator</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>unusual</english>
         <polish>niezwykły, niezwyczajny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>express sb's ideas</english>
         <polish>wyrażać czyjeś idee</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be in a good mood</english>
         <polish>być w dobrym humorze</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be good at sth</english>
         <polish>być w czymś dobrym</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>support sb</english>
         <polish>wspierać kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>keep sb's head (in crisis)</english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>share</english>
         <polish>dzielić się</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>have a great sense of humour</english>
         <polish>mieć wspaniałe poczucie humoru</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>responsible</english>
         <polish>odpowiedzialny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>helpful</english>
         <polish>pomocny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>practical</english>
         <polish>praktyczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>critical</english>
         <polish>krytyczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>ironic</english>
         <polish>ironiczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>annoy sb</english>
         <polish>denerwować kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>generous</english>
         <polish>hojny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>show sympathy / fear</english>
         <polish>okazywać sympatie / strach</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>have special powers</english>
         <polish>mieć specjalnie moce</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be sceptical</english>
         <polish>być sceptycznycm</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>key event</english>
         <polish>kluczowe wydarzenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>predict sth</english>
         <polish>przewidzieć coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>above average</english>
         <polish>powyżej średniej</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>convince sb</english>
         <polish>przekonać kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>flattering statement</english>
         <polish>pochlebne oświadczenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>common medical / health problem</english>
         <polish>wspólny problem medyczny / problem ze zdrowiem</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>work sth out</english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>frequent</english>
         <polish>częsty</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>auxiliary</english>
         <polish>pomocniczy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>add emphasis</english>
         <polish>dodać nacisk</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>avoid doing sth</english>
         <polish>unikać robienia czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>respond to sth</english>
         <polish>odpowiedź na coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>excitement</english>
         <polish>podekscytowanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>pick sth up</english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>accidentally</english>
         <polish>przypadkowo</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>break a blister</english>
         <polish>przekuć pęcherz (bąbel)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>have a serious allergic reaction</english>
         <polish>mieć poważną reakcję alegiczną</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be stug (by a wasp)</english>
         <polish>być ukąszonym przez osę</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>give sb first aid</english>
         <polish>udzielić komuś pierwszej pomocy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>a sort of / kind of</english>
         <polish>rodzaj</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>deserted</english>
         <polish>opustoszały</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>remain stuck</english>
         <polish>pozostać zatrzymanym</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>get stuck</english>
         <polish>utknąć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>a bandage put on</english>
         <polish>założyć bangaż</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>toe</english>
         <polish>palec u nogi</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>warn sb ABOUT sth</english>
         <polish>ostrzegać kogoś PRZED czymś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>cut down</english>
         <polish>obniżyć</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>use / fallow the instruction manual</english>
         <polish>używać / podążać za instrukcjami z podręcznika</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>react quickly and efficiently</english>
         <polish>reagować szybko i sprawnie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>suffer FROM sth</english>
         <polish>cierpieć Z jakiegoś powodu</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>certain amount OF sth</english>
         <polish>pewna ilość czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>break up with</english>
         <polish>zerwać z kimś (znajomość)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>call sb back</english>
         <polish>oddzwonić do kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>chat up sb</english>
         <polish>zagadywać kogoś (flirtować)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>give up</english>
         <polish>poddać się, zaprzestać robienia czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>slow down</english>
         <polish>zwolnić</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>be in touch with sb</english>
         <polish>być z kimś w kontakcie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>get flu</english>
         <polish>złapać grypę</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>catch up on sth</english>
         <polish>nadrabiać zaległości</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>apart from</english>
         <polish>oprócz</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>sightseeing</english>
         <polish>zwiedzanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>wait FOR sb</english>
         <polish>czekać NA kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english>superior</english>
         <polish>lepszy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
-        <english>tie sth (round sth)</english>
-        <polish></polish>
+        <english>tie sth</english>
+        <polish>związać coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
 </words>

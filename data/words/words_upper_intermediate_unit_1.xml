@@ -691,8 +691,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>reliable</english>
-        <polish>godny zaufania, niezawodny</polish>
+        <english>reliable != unreliable</english>
+        <polish>godny zaufania, niezawodny != nie godny zaufania, zawodny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -777,6 +777,12 @@
     <word>
         <english>initials</english>
         <polish>inicjały</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>either ... or ...</english>
+        <polish>albo ... albo ...</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -901,14 +907,20 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>flattering</english>
-        <polish>schlebiający, pochlebny</polish>
+        <english>refuse</english>
+        <polish>odmawiać, nie zgadzać się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>flatter / flattering</english>
+        <polish>schelbianie / schlebiający, pochlebny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>geniune</english>
-        <polish>autentyczny, oryginalny</polish>
+        <polish>autentyczny, prawdziwy, oryginalny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1003,8 +1015,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>overcome</english>
-        <polish>przezwyciężać</polish>
+        <english>overcome (overcome problems)</english>
+        <polish>przezwyciężać, pokonywać (pokonywać problemy)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1082,7 +1094,7 @@
     </word>
     <word>
         <english>self-esteem</english>
-        <polish>poczucie własnej wartości</polish>
+        <polish>samoocena, poczucie własnej wartości</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1143,6 +1155,12 @@
     <word>
         <english>tendency</english>
         <polish>tendencja</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tend</english>
+        <polish>wykazywać tendencję</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1597,6 +1615,12 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>in fact (In fact, it may help)</english>
+        <polish>właściwie, faktycznie (Właściwie, to może pomóc)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>cherry</english>
         <polish>wiśnia, czereśnia</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
@@ -1657,8 +1681,20 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>harmful</english>
-        <polish>szkodliwy</polish>
+        <english>especially</english>
+        <polish>zwłaszcza, szczególnie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>harmful (harmful chemicals)</english>
+        <polish>szkodliwy (szkodliwe chemikalia)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>cause</english>
+        <polish>przyczyna</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1676,13 +1712,19 @@
     </word>
     <word>
         <english>inwards</english>
-        <polish>do wewnątrz</polish>
+        <polish>do wewnątrz, do środka</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>upwards</english>
         <polish>w górę</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>throat</english>
+        <polish>gardło</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1862,7 +1904,7 @@
     </word>
     <word>
         <english>descending != rising</english>
-        <polish>opadający != wznoszący</polish>
+        <polish>opadający, malejący != wznoszący, rosnący</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1975,8 +2017,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>helpful</english>
-        <polish>pomocny</polish>
+        <english>helpful != unhelpful</english>
+        <polish>pomocny != nieskory do pomocy, mało pomocny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2071,8 +2113,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>frequent</english>
-        <polish>częsty</polish>
+        <english>frequent, frequently</english>
+        <polish>częsty, często</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2282,13 +2324,19 @@
     </word>
     <word>
         <english>superior</english>
-        <polish>lepszy</polish>
+        <polish>ponadprzeciętny, wybitny, lepszy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>tie sth</english>
-        <polish>związać coś</polish>
+        <english>tie sth (tie round a part of body)</english>
+        <polish>związać coś (obwiązać część ciała)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chemist</english>
+        <polish>chemik</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>

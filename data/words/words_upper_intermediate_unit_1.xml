@@ -842,7 +842,7 @@
     </word>
     <word>
         <english>angle</english>
-        <polish>kąt</polish>
+        <polish>punkt widzenia</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1279,8 +1279,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>dizzy</english>
-        <polish>cierpiący na zawroty głowy</polish>
+        <english>feel dizzy</english>
+        <polish>zawroty głowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1543,7 +1543,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>strengthen</english>
+        <english>strengthen (to make sth stronger)</english>
         <polish>wzmacniać</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
@@ -1837,7 +1837,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>rush over</english>
+        <english>rush over (to help)</english>
         <polish>pospieszyć (z pomocą)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
@@ -2113,8 +2113,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>frequent, frequently</english>
-        <polish>częsty, często</polish>
+        <english>frequent, frequently (frequent strategy)</english>
+        <polish>częsty, często (częsta strategia)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pour water</english>
+        <polish>nalać wody</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2337,6 +2343,30 @@
     <word>
         <english>chemist</english>
         <polish>chemik</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ward</english>
+        <polish>oddział (szpitalny)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get over</english>
+        <polish>oprzeboleć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>opperation theatre</english>
+        <polish>sala operacyjna</polish>
+        <part>New English File 4 Upper Intermediate - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>side effects</english>
+        <polish>efekty uboczne</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>

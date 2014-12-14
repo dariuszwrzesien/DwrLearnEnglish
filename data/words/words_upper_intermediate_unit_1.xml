@@ -31,7 +31,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>be proud ABOUT sth</english>
+        <english>be proud OF/ABOUT sth</english>
         <polish>być dumnym Z czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
@@ -85,8 +85,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>disastrous</english>
-        <polish>katastrofalna</polish>
+        <english>disastrous (have a disastrous date)</english>
+        <polish>fatalny, katastrofalny (mieć fatalną randkę)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -133,8 +133,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>raise</english>
-        <polish>podnosić</polish>
+        <english>raise (we raised our eyebrows)</english>
+        <polish>wznosić, unosić (unieśliśmy brwi)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>A</subpart>
     </word>
@@ -589,7 +589,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>consientious [konszyjenszys]</english>
+        <english>conscientious [konszyjenszys]</english>
         <polish>sumienny, skrypulatny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
@@ -674,7 +674,7 @@
     </word>
     <word>
         <english>pain in the neck</english>
-        <polish>nie do wytrzymania</polish>
+        <polish>nie do wytrzymania, irytujący (idiom)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -716,7 +716,7 @@
     </word>
     <word>
         <english>sensible</english>
-        <polish>rozsądny</polish>
+        <polish>rozsądny, sensowny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -842,7 +842,7 @@
     </word>
     <word>
         <english>angle</english>
-        <polish>punkt widzenia</polish>
+        <polish>kąt (pomiędzy czymś a czymś)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -854,7 +854,7 @@
     </word>
     <word>
         <english>companion</english>
-        <polish>towarzysz. kompan</polish>
+        <polish>towarzysz, kompan</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -896,13 +896,7 @@
     </word>
     <word>
         <english>evidence</english>
-        <polish>dowód</polish>
-        <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english>face (with)</english>
-        <polish>skonfrontowany z (postawiony twarzą w twarz)</polish>
+        <polish>materiał dowodowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -931,8 +925,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>horizontal</english>
-        <polish>poziomy</polish>
+        <english>horizontal / vertical</english>
+        <polish>poziomy / pionowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -991,8 +985,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>low</english>
-        <polish>niski</polish>
+        <english>low (level)</english>
+        <polish>niski (poziom)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1015,8 +1009,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>overcome (overcome problems)</english>
-        <polish>przezwyciężać, pokonywać (pokonywać problemy)</polish>
+        <english>overcome (overcome sb's fears, overcome problems)</english>
+        <polish>przezwyciężać, pokonywać (pokonywać czyjeś lęki, pokonywać problemy)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1045,8 +1039,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>preferably</english>
-        <polish>najlepiej</polish>
+        <english>preferably (expect preferably something positive)</english>
+        <polish>najchętniej, raczej, najlepiej (oczekiwać najchętniej czegoś pozytywnego)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1076,7 +1070,7 @@
     </word>
     <word>
         <english>worldwide</english>
-        <polish>na całym świecie, na świecie</polish>
+        <polish>ogólnoświatowy, na całym świecie, na świecie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>B</subpart>
     </word>
@@ -1249,12 +1243,6 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>burn</english>
-        <polish>parzyć</polish>
-        <part>New English File 4 Upper Intermediate - Unit 1</part>
-        <subpart>C</subpart>
-    </word>
-    <word>
         <english>catch cold</english>
         <polish>złapać przeziebienie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
@@ -1339,7 +1327,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>high (low) bllod pressure</english>
+        <english>high (low) blood pressure</english>
         <polish>wysokie (niskie) ciśnienie krwi</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
@@ -1429,8 +1417,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>sprained</english>
-        <polish>zwichnąć</polish>
+        <english>sprain / sprained</english>
+        <polish>zwichnąć / zwichnięta</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1598,7 +1586,7 @@
     </word>
     <word>
         <english>burn</english>
-        <polish>oparzenie</polish>
+        <polish>oparzenie, poparzeyć się</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1694,7 +1682,7 @@
     </word>
     <word>
         <english>cause</english>
-        <polish>przyczyna</polish>
+        <polish>spowodować, wywołać (v.), przyczyna (n.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1909,8 +1897,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>be faced with sth</english>
-        <polish>stanąć twarzą w twarz z czymś</polish>
+        <english>be faced with sth (faced with problems) (when faced with problems, will work to overcome them)</english>
+        <polish>stanąć twarzą w twarz z czymś (stanąć przed problemami) (gdy staniesz przed problemami, będziesz pracował nad przezwyciężeniem ich)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1921,7 +1909,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>have a hight opinion of sb</english>
+        <english>have a high opinion of sb</english>
         <polish>mieć wysokie mniemanie o kimś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
@@ -1981,8 +1969,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>be good at sth</english>
-        <polish>być w czymś dobrym</polish>
+        <english>be good AT sth</english>
+        <polish>być W czymś dobrym</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1993,14 +1981,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>keep sb's head (in crisis)</english>
-        <polish></polish>
+        <english>keep sb's head in crisis = calm</english>
+        <polish>zachowujący spokój w kryzysie = spokojny</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>share</english>
-        <polish>dzielić się</polish>
+        <english>share (share some general characteristics)</english>
+        <polish>dzielić się czymś (dzielić jakieś ogólne cechy charakterystyczne)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2108,7 +2096,7 @@
     </word>
     <word>
         <english>work sth out (working out meaning from context)</english>
-        <polish>zrozumieć (British English), obmyślać, opracować(zrozumieć znaczene z kontekstu)</polish>
+        <polish>zrozumieć (British English), obmyślać, opracować (zrozumieć znaczene z kontekstu)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2156,7 +2144,7 @@
     </word>
     <word>
         <english>pick sth up</english>
-        <polish></polish>
+        <polish>podnosić coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2203,8 +2191,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>remain stuck</english>
-        <polish>pozostać zatrzymanym</polish>
+        <english>remain stuck (steak remained stuck in her throat)</english>
+        <polish>pozostać utkniętym (stek pozostał (utknięty) w jej gardle)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2288,7 +2276,7 @@
     </word>
     <word>
         <english>slow down</english>
-        <polish>zwolnić</polish>
+        <polish>zwolnić, obniżyć prędkość</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2305,8 +2293,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>catch up on sth</english>
-        <polish>nadrabiać zaległości</polish>
+        <english>catch up on sth (I've been catching up on my emails)</english>
+        <polish>nadrabiać zaległości (Nadrabiałem zaległości w (czytanych) mailach)</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -2354,7 +2342,7 @@
     </word>
     <word>
         <english>get over</english>
-        <polish>oprzeboleć</polish>
+        <polish>wyzdrowieć, przeboleć, dochodzić do siebie</polish>
         <part>New English File 4 Upper Intermediate - Unit 1</part>
         <subpart>C</subpart>
     </word>

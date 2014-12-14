@@ -247,7 +247,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>be alike</english>
+        <english>be alike = similar</english>
         <polish>być podobnie, zarówno</polish>
         <part>New English File 4 Upper Intermediate - Unit 2</part>
         <subpart>A</subpart>
@@ -267,6 +267,12 @@
     <word>
         <english>residential home</english>
         <polish>dom mieszkalny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>defining characteristics</english>
+        <polish>cechy odróżniające</polish>
         <part>New English File 4 Upper Intermediate - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -963,6 +969,12 @@
     <word>
         <english>customs</english>
         <polish>urząd celny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>major problem</english>
+        <polish>główny problem</polish>
         <part>New English File 4 Upper Intermediate - Unit 2</part>
         <subpart>B</subpart>
     </word>
@@ -1874,7 +1886,7 @@
     </word>
     <word>
         <english>threaten</english>
-        <polish>grozić</polish>
+        <polish>grozić, straszyć</polish>
         <part>New English File 4 Upper Intermediate - Unit 2</part>
         <subpart>C</subpart>
     </word>

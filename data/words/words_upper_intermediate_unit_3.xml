@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
-    <word>
+<!--    <word>
         <english>burglary</english>
         <polish>włamanie do domu</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
@@ -899,5 +899,557 @@
         <polish>proces (w sądzie)</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>A</subpart>
+    </word>-->
+    <word>
+        <english>stormy weather</english>
+        <polish>burzowa pogoda</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>extract</english>
+        <polish>ekstrakt, esencja</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>unbelievable</english>
+        <polish>nieprawdopodobny, niewiarygodny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>warn sb</english>
+        <polish>ostrzec kogoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>visualise sth</english>
+        <polish>wyobrażać sobie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hurricane-force wind</english>
+        <polish>huraganowy wiatr</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rip treees out of the soil</english>
+        <polish>wyrywać drzewa z ziemi</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rip out</english>
+        <polish>wyrwać z</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>soil</english>
+        <polish>ziemia, grunt</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>stay indoors</english>
+        <polish>pozostać w domu / w budynku</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>grab hold of sth</english>
+        <polish>chwycić i przytrzymać się czegoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>get blown over</english>
+        <polish>przewrócić pod naporem wiatru</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>go backwards</english>
+        <polish>iść do tyłu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pile</english>
+        <polish>sterta, stos</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>What a mess!</english>
+        <polish>Co za bałagan!</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>scorching</english>
+        <polish>upalny, skwarny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>heat</english>
+        <polish>ciepło, upał, gorąco</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>melt</english>
+        <polish>topić, roztapiać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>oven</english>
+        <polish>piekarnik</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sweat</english>
+        <polish>pocić się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be equipped with (a large fan)</english>
+        <polish>być wyposażony w (duży wiatrak)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>make a snowman</english>
+        <polish>robić bałwana</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>in the yard</english>
+        <polish>na podwórku</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cranberry</english>
+        <polish>żurawina</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>awesome</english>
+        <polish>niesamowite</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>stare</english>
+        <polish>gapić się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>set decorator</english>
+        <polish>scenograf</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>French window</english>
+        <polish>okno umożliwiające wyjście na podwórko</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hight-budget movie</english>
+        <polish>wysoko-budżetowy film</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>chaos</english>
+        <polish>chaos</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>load of sth</english>
+        <polish>pożyczka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be stuck in sth</english>
+        <polish>utknąć w czymś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>citrus tree</english>
+        <polish>drzewo cytrusowe</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>thaw</english>
+        <polish>odwilż</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>damage (n.)</english>
+        <polish>uszkodzenie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>below zero</english>
+        <polish>poniżej zera</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>breeze</english>
+        <polish>bryza, wiaterek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>chilly</english>
+        <polish>zminy, nieprzyjemnie chłodny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cool</english>
+        <polish>chłodno, przyjemnie chłodno</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>damp</english>
+        <polish>wilgotny, wilgoć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>drizzling</english>
+        <polish>mrzawka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>freezing</english>
+        <polish>przeraźliwie zimno, lodowato</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>gale-force</english>
+        <polish>z prędkością wichury</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mild</english>
+        <polish>łagodny, umiarkowany</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pour (with rain)</english>
+        <polish>ulewny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>shower</english>
+        <polish>przelotny deszcz</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>warm</english>
+        <polish>ciepły, ciepło</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>unpleasantly</english>
+        <polish>nieprzyjemnie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>boiling</english>
+        <polish>upalny, gotujący</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>short periods of rain</english>
+        <polish>krótkie okresy deszczu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>blizzard</english>
+        <polish>zamieć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>drought</english>
+        <polish>susza</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>flood</english>
+        <polish>powódź</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hailstorm</english>
+        <polish>gradobicie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hail</english>
+        <polish>grad</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>heatwave</english>
+        <polish>fala upałów</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>huriccane</english>
+        <polish>huragan</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>lightning</english>
+        <polish>błyskawica, piorun</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>thunder</english>
+        <polish>grzmot</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>monsoon (wind in the region of South and Southeast Asia)</english>
+        <polish>monsun</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tornado</english>
+        <polish>tornado</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>flash of light</english>
+        <polish>błysk światła</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>violent storm</english>
+        <polish>gwałtowna burza</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mist - misty</english>
+        <polish>mgła - mgliście (lekka mgła - na obszarach niezaludnionych, widoczność większa niż 1km)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fog - foggy</english>
+        <polish>mgła - mgliście (mocna mgła - na obszarach zamieszkałych, ogranicza widoczność poniżej 1km)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bright sunshine</english>
+        <polish>jasne światło słoneczne</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>changeable weather</english>
+        <polish>zmienna pogoda</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>clear sky</english>
+        <polish>czyste (bezchmurne) niebo</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>heavy / light rain</english>
+        <polish>silny / słaby deszcz</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>icy road</english>
+        <polish>oblodzona droga</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>settled (the weather will become settled)</english>
+        <polish>stabilna, trwała (pogoda stanie się stabilna)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>strong / light wind</english>
+        <polish>silny / słaby wiatr</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sunny</english>
+        <polish>słoneczny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>thick fog</english>
+        <polish>gęsta mgła</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hill</english>
+        <polish>wzgórze, pagórek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>coast</english>
+        <polish>wybrzeże</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>slippery</english>
+        <polish>śliski</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>shiver</english>
+        <polish>dreszcz</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>get soaked</english>
+        <polish>zmoknąć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>humid</english>
+        <polish>wilgotny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>humidity</english>
+        <polish>wilgotność</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>get sunburnt</english>
+        <polish>poparzyć się od słońca</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>muggy (of the weather - unpleasantly warm and humid)</english>
+        <polish>parno, duszno</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be at risk</english>
+        <polish>być zagrożonym</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>water level</english>
+        <polish>poziom wody</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rise</english>
+        <polish>wzrastać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>break down</english>
+        <polish>popsuć się, zepsuć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be seriously damaged</english>
+        <polish>być poważnie uszkodzonym</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>very cold / absolutely freezing</english>
+        <polish>bardzo zimno / absolutnie lodowato</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>unbearably cold</english>
+        <polish>zimno nie do zniesienia</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bear (v.)</english>
+        <polish>znieść (cz.)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
     </word>
 </words>

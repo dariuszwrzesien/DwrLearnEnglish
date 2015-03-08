@@ -1585,57 +1585,777 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>certain</english>
+        <polish>pewny, pewnien</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
+    </word>
+    <word>
+        <english>character</english>
+        <polish>charakter, usposobienie, postać (w książce, w filmie) ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>massacre</english>
+        <polish>masakra, rzeź</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>betray</english>
+        <polish>zdradzić</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>let sb out</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>beg sb to do sth</english>
+        <polish>błagać kogoś o zrobienie czegoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tell sb out</english>
+        <polish>zganić kogoś ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>lean</english>
+        <polish>przechylić się, odchylić</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hard != soft</english>
+        <polish>twardy != miękki</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>loose != tight</english>
+        <polish>luźny != obcisły</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>rough != smooth</english>
+        <polish>szorstki != gładki</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sour / bitter != sweet</english>
+        <polish>kwaśny / gożki != słodki</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>strong != week</english>
+        <polish>silny != słaby</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>feel / smell / taste (sweet) like sth</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>ashtray</english>
+        <polish>popielniczka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>marble statue</english>
+        <polish>marmurowy pomnik</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>silk scarf</english>
+        <polish>jedwabny szalik</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>contestant</english>
+        <polish>zawodnik, uczestnik zawodów</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mystery (object)</english>
+        <polish>tejemniczy (objekt)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>a bit (sour)</english>
+        <polish>trochę (kwaśny)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cheek</english>
+        <polish>policzek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chin</english>
+        <polish>podbródek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>eyebrow</english>
+        <polish>brew</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>eyelash</english>
+        <polish>rzęsa</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>forehead</english>
+        <polish>czoło</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>lip</english>
+        <polish>warga</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>neck</english>
+        <polish>szyja</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>wrinkle</english>
+        <polish>zmarszczka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>belt</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>twist an ankle</english>
+        <polish>skręcić kostkę</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>breathe</english>
+        <polish>oddychać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>memorise = learn by hard</english>
+        <polish>uczyć się na pamięć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>cause embarrassment</english>
+        <polish>przyczyna zażenowania ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>calf</english>
+        <polish>łydka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>wrist</english>
+        <polish>nadgarstek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>palm</english>
+        <polish>dłoń</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>comb</english>
+        <polish>grzebień</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>kneel</english>
+        <polish>klęczeć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>thumb</english>
+        <polish>kciuk</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>asthma</english>
+        <polish>astma</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>doubt</english>
+        <polish>wątpliwość, wątpić</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>receipt</english>
+        <polish>paragon</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>feel defensive</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>feel superior</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>think hard</english>
+        <polish>skupić się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ankle</english>
+        <polish>kostka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>calf - calves</english>
+        <polish>łydka - łydki</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>heel</english>
+        <polish>pięta</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>elbow</english>
+        <polish>łokieć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>wrist</english>
+        <polish>nadgarstek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>nail</english>
+        <polish>paznokieć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>palm</english>
+        <polish>dłoń</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chest</english>
+        <polish>klatka piersiowa</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>waist</english>
+        <polish>talia</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hip</english>
+        <polish>biodro</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>thigh</english>
+        <polish>udo</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>brain</english>
+        <polish>mózg</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>kidney</english>
+        <polish>nerka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>liver</english>
+        <polish>wątroba</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>lung</english>
+        <polish>płuco</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bite sb's nails</english>
+        <polish>obgryzać paznokcie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>blow sb's nose</english>
+        <polish>wydmuchiwać nos</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>brush sb's teeth / hair</english>
+        <polish>szorować, myć zęby / włosy</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>clap sb's hands</english>
+        <polish>klaskać w dłonie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>comb sb's hair</english>
+        <polish>czesać włosy</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fold arm</english>
+        <polish>zakładać ręce na ręce</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hold sb's hand</english>
+        <polish>trzymać czyjąś rękę</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>nod head</english>
+        <polish>pokiwać głową, skinąć głową</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>shake sb's head</english>
+        <polish>potrząsnąć głową</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>shrug sb's shoulders</english>
+        <polish>wzruszyć ramionami</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>wink at sb</english>
+        <polish>mrugnąć do kogoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chew</english>
+        <polish>żuć, przeżuwać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>tough steak</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hug</english>
+        <polish>przytulać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>scratch</english>
+        <polish>drapać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>mosquito bite</english>
+        <polish>ukąszenie komara</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>wave goodbye to sb</english>
+        <polish>pomachac na dowidzenia</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>kneel down</english>
+        <polish>uklęknąć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>frown</english>
+        <polish>zmarszczyć brwi</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stare at sb/sth</english>
+        <polish>gapić się na kogoś/coś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>yawn</english>
+        <polish>ziewać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stretch</english>
+        <polish>rozciągać się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>point at sth</english>
+        <polish>wskazać coś?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>give sb a hand</english>
+        <polish>pomóc komuś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>put sb's foot in it</english>
+        <polish>popełnić gafę, chlapnąć (coś), wyskoczyć z czymś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pull sb's leg</english>
+        <polish>nabierać kogoś, nabijać się z kogoś, robić kogoś w konia</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>on the tip of sb's tongue</english>
+        <polish>na czubku języka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get cold feet</english>
+        <polish>stchórzyć, przestraszyć się, mieć pietra</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>have (got) butterflies in sb's stomach</english>
+        <polish>mieć motylki w brzuchu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>break sb's heart</english>
+        <polish>złamać komuś serce</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get sth off sb's chest / I got it off my chest</english>
+        <polish>wyrzucić coś z siebie / Wyrzuciłem to z siebie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>convey</english>
+        <polish>przekazywać ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>classic gesture</english>
+        <polish>klasyczny gest</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>deliberate</english>
+        <polish>celowy, zamierzony</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>occur</english>
+        <polish>wystąpić, wydarzyć się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>unconsciously</english>
+        <polish>nieśwadomie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>extend</english>
+        <polish>przedłużać, rozciągać sie (na jakiś obszar)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>at chest height</english>
+        <polish>?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
     </word>
     <word>
         <english></english>
         <polish></polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
     </word>
 </words>

@@ -878,7 +878,7 @@
     </word>
     <word>
         <english>occur to sb</english>
-        <polish>przyjść komuś do głowy?</polish>
+        <polish>przyjść komuś do głowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -920,7 +920,7 @@
     </word>
     <word>
         <english>props</english>
-        <polish>rekwizyty ?</polish>
+        <polish>rekwizyty (sceniczne, teatralne)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -962,7 +962,7 @@
     </word>
     <word>
         <english>fuel (v.)</english>
-        <polish>tankować paliwo (cz.)</polish>
+        <polish>wzmocnić coś, tankować paliwo (cz.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -974,7 +974,7 @@
     </word>
     <word>
         <english>be up to sth</english>
-        <polish>robić coś, porabiać coś ?</polish>
+        <polish>robić coś (w sekrecie), porabiać coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -997,6 +997,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>join the hunt (i.e keys)</english>
+        <polish>dolączyć do poszukiwać (np. kluczy)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>tirade</english>
         <polish>tyrada</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
@@ -1010,25 +1016,25 @@
     </word>
     <word>
         <english>rant</english>
-        <polish>napuszona mowa, ?</polish>
+        <polish>napuszona mowa</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>do the trick</english>
-        <polish>załatwić sprawę (być odpowiednim rozwiązaniem)</polish>
+        <english>do the trick (success)</english>
+        <polish>załatwić sprawę (być odpowiednim rozwiązaniem), osiągnięcie celu</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>pace (v.)</english>
-        <polish>przemierzać (np. korytarz)</polish>
+        <english>pace (v.) (He paces behind me)</english>
+        <polish>dreptać (cz.) (On drepta za mną)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>stomp</english>
-        <polish>tupać</polish>
+        <polish>człapać, tupać</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1045,8 +1051,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>full-blown drama</english>
-        <polish>pełnowymiarowy dramat</polish>
+        <english>full-blown drama (full-blow)</english>
+        <polish>pełnowymiarowy dramat (dopracowany w najmniejszym szczególe)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1076,13 +1082,25 @@
     </word>
     <word>
         <english>rapt</english>
-        <polish>wniebowzięty ?</polish>
+        <polish>w pełni zaangażowany</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>teach - taught - taught</english>
+        <polish>uczyć (kogoś) III formy</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>flip</english>
-        <polish>gwałtownie coś otworzyć?</polish>
+        <polish>skok z obrotem w powietrzu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>nag / nagging</english>
+        <polish>narzekać</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1135,8 +1153,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>leggy</english>
-        <polish>długonogi</polish>
+        <english>leggy (leggy bird)</english>
+        <polish>długonogi (długonogi ptak)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1153,20 +1171,20 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>crane</english>
-        <polish>żuraw</polish>
+        <english>crane (crested crane)</english>
+        <polish>żuraw (grzywiasty żuraw)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>undesirable</english>
-        <polish>osoba niepożądana</polish>
+        <polish>niepożądany, osoba niepożądana</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>alight</english>
-        <polish>wysiadać z autobusy ?</polish>
+        <polish>osiąść, wylądować</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1178,13 +1196,13 @@
     </word>
     <word>
         <english>keep sb from doing sth</english>
-        <polish>trzymać kogoś z daleka od robienia czegoś ?</polish>
+        <polish>trzymać kogoś z daleka od robienia czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>crowd sb</english>
-        <polish>tłoczyć się ?</polish>
+        <polish>tłoczyć się, robić tłum</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1201,14 +1219,20 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>grate</english>
-        <polish>ruszt</polish>
+        <english>grate cheese</english>
+        <polish>zetrzeć ser na tarce</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>hover</english>
-        <polish>wisieć w powietrzu, unosić się ?</polish>
+        <english>hover (Scott hovering around me while I cooked)</english>
+        <polish>wisieć (Scott wisi nademną gdy gotuje)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>I LEARN THAT I need braces</english>
+        <polish>OKAZAŁO SIĘ że potrzebuje aparat ortodontyczny</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1232,7 +1256,7 @@
     </word>
     <word>
         <english>for a few beats</english>
-        <polish>przez kilka uderzeń ?</polish>
+        <polish>przez kilka uderzeń</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1334,13 +1358,13 @@
     </word>
     <word>
         <english>refuse to do sth</english>
-        <polish>odmawiać robeinia czegoś</polish>
+        <polish>odmawiać robienia czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>relevant to sth</english>
-        <polish>odnoszący sie do tematu ?</polish>
+        <polish>odnoszący sie do tematu</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1369,6 +1393,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>keep things under control</english>
+        <polish>trzymać rzeczy pod kontrolą</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>admit sth</english>
         <polish>przyznać coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
@@ -1388,7 +1418,7 @@
     </word>
     <word>
         <english>lose sb's temper</english>
-        <polish>stracić panowanie</polish>
+        <polish>tracić panowanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1411,6 +1441,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>ring road</english>
+        <polish>obwodnica</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>deal with conflict</english>
         <polish>radzić sobie z konfliktem</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
@@ -1418,7 +1454,7 @@
     </word>
     <word>
         <english>notice / realise</english>
-        <polish>zauwazyć / uświadomić sobie</polish>
+        <polish>spostrzec / uświadomić sobie</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1435,14 +1471,20 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>avoid / prevent</english>
+        <english>avoid (when stop YOURSELF) / prevent (when stops SB/STH)</english>
         <polish>unikać czegoś / zapobiegać czemuś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>remember / remind</english>
-        <polish>?</polish>
+        <english>relevant != irrelevant</english>
+        <polish>związany z tematem != niezwiązany z tematem</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>remember (I remember - przypomnieć sobie) / remind</english>
+        <polish>zapamiętaj / przypomnij</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1454,7 +1496,7 @@
     </word>
     <word>
         <english>mind / matter</english>
-        <polish>?</polish>
+        <polish>mieć coś przeciwko / mieć znaczenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1543,8 +1585,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>do the talking</english>
-        <polish>?</polish>
+        <english>do the talking (Let your body do the talking)</english>
+        <polish>przemówić (Niech twoje ciało przemówi)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1555,20 +1597,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>look in pain / depressed / angry</english>
-        <polish>?</polish>
-        <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
         <english>look like</english>
         <polish>wyglądać jak</polish>
-        <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english>look as if</english>
-        <polish>?</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1592,7 +1622,7 @@
     </word>
     <word>
         <english>character</english>
-        <polish>charakter, usposobienie, postać (w książce, w filmie) ?</polish>
+        <polish>postać (w książce, w filmie)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1609,8 +1639,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>let sb out</english>
-        <polish>?</polish>
+        <english>let sb out (to let water come out)</english>
+        <polish>pozwolić opuścić (pozwolić wodzie wypłynąć)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1621,14 +1651,20 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>tell sb out</english>
-        <polish>zganić kogoś ?</polish>
+        <english>lean on the door</english>
+        <polish>oprzeć się o drzwi</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
     <word>
-        <english>lean</english>
-        <polish>przechylić się, odchylić</polish>
+        <english>cabbage</english>
+        <polish>kapusta</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>whole</english>
+        <polish>cały</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1659,12 +1695,6 @@
     <word>
         <english>strong != week</english>
         <polish>silny != słaby</polish>
-        <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english>feel / smell / taste (sweet) like sth</english>
-        <polish>?</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>B</subpart>
     </word>
@@ -1754,7 +1784,7 @@
     </word>
     <word>
         <english>belt</english>
-        <polish>?</polish>
+        <polish>pas, pasek</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -1778,7 +1808,7 @@
     </word>
     <word>
         <english>cause embarrassment</english>
-        <polish>przyczyna zażenowania ?</polish>
+        <polish>przyczyna zażenowania</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -1838,13 +1868,19 @@
     </word>
     <word>
         <english>feel defensive</english>
-        <polish>?</polish>
+        <polish>bronić się</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>feel superior</english>
-        <polish>?</polish>
+        <polish>czuć się ważniejszym niż ktoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>feel attracted</english>
+        <polish>czuć się pociągającym</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -2017,12 +2053,6 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>tough steak</english>
-        <polish>?</polish>
-        <part>New English File 4 Upper Intermediate - Unit 4</part>
-        <subpart>C</subpart>
-    </word>
-    <word>
         <english>hug</english>
         <polish>przytulać</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
@@ -2078,7 +2108,7 @@
     </word>
     <word>
         <english>point at sth</english>
-        <polish>wskazać coś?</polish>
+        <polish>wskazać na coś (palcem)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -2132,7 +2162,7 @@
     </word>
     <word>
         <english>convey</english>
-        <polish>przekazywać ?</polish>
+        <polish>przenosić</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -2144,7 +2174,7 @@
     </word>
     <word>
         <english>deliberate</english>
-        <polish>celowy, zamierzony</polish>
+        <polish>celowy, zamierzony, umyślny</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
@@ -2168,193 +2198,313 @@
     </word>
     <word>
         <english>at chest height</english>
-        <polish>?</polish>
+        <polish>unosić wysoko klatkę piersiową</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>indicate</english>
+        <polish>sygnalizować, włączyć kierunkowskaz</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>emphasise</english>
+        <polish>podkreślać, uwypuklać, eksponować/polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>openness</english>
+        <polish>otwartość, jawność</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>honesty</english>
+        <polish>szczerość</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>commit a foul</english>
+        <polish>popełnić faul</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>convince</english>
+        <polish>przekonywać</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>referee</english>
+        <polish>sędzia sportowy</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>nervousness</english>
+        <polish>nerwowość, zdenerwowanie</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>put a hand to sb's mounth</english>
+        <polish>wkładać rękę do buzi</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>fidget with sb's hands</english>
+        <polish>nerwowo robić coś rękami</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>fidget</english>
+        <polish>wiercić się, kręcić</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>tap the table with sb's finger</english>
+        <polish>uderzać palcami o stół</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>appear (relaxed)</english>
+        <polish>wyglądać na (zrelaksowanego)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>with sb's hands clasped (behind head)</english>
+        <polish>z zaciśniętymi rękami (za głową)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>clasped</english>
+        <polish>zaciśnięty</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>typical of sb</english>
+        <polish>typowe dla kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>lawyer</english>
+        <polish>adwokat</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>accountant</english>
+        <polish>księgowa</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>superiority</english>
+        <polish>wyższość, przewaga (nad kimś, czymś)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>protrude (thumbs protruding)</english>
+        <polish>wystawać, sterczeć (odstający kciuk)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>defensiveness</english>
+        <polish>obronność</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>insecure != self-confident</english>
+        <polish>niepewny != pewny siebie</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>index finger</english>
+        <polish>palec wskazujący</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>think deeply</english>
+        <polish>myśleć głeboko</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>stroke (v.) (someone strokes his chin)</english>
+        <polish>głaskać (cz.) (ktoś głaskał jego policzek)</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>make a decision</english>
+        <polish>podjąć decyzję</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>be attracted to sb</english>
+        <polish>czuć pociąg do kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>play with sb's earlobe / lock of hair</english>
+        <polish>bawić sie opuszkiem ucha / lokiem włosów</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>tuck sb's hair behind sb's ears</english>
+        <polish>zakładać włosy za uszy</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>tuck sth into sth (tuck t-shirt into trouser)</english>
+        <polish>wkładać koszukkę do spodni</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>in order to</english>
+        <polish>żeby, aby, wcelu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>rub sb's eyes</english>
+        <polish>pocerać oczy</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>pull at sb's collar</english>
+        <polish>pociągnąć za kołnierzyk</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>in the background / foreground</english>
+        <polish>w tle / na pierwszym planie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>speculate</english>
+        <polish>spekulować, rozważać teoretycznie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get out of sth</english>
+        <polish>opuścić jakieś miejsce</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>set off</english>
+        <polish>wyruszać w podróż</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>calm down</english>
+        <polish>uspokój się</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hold on to sb/sth</english>
+        <polish>trzymać się kogoś/czegoś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>tell sb off</english>
+        <polish>zganić kogoś, upomnieć, udzielić nagany</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>look after</english>
+        <polish>opiekować się kimś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>niece</english>
+        <polish>siostrzenica, bratanica</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>nephew</english>
+        <polish>siostrzeniec, bratanek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>go away for short break</english>
+        <polish>wyjść na krótką przerwę</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>spare (bedroom)</english>
+        <polish>zapasowa (sypialnia)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>in case (po in case ZAWSZE czas teraźniejszy)</english>
+        <polish>na wypadek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>so that (po so that zazwyczaj zdanie z MODALNYM - so that I COULD)</english>
+        <polish>żeby</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>washbasin</english>
+        <polish>umywalka</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>drawer</english>
+        <polish>szuflada</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>cleaning liquid</english>
+        <polish>płyn czyszczący</polish>
+        <part>New English File 4 Upper Intermediate - Unit 4</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>break down</english>
+        <polish>zepsuć się</polish>
         <part>New English File 4 Upper Intermediate - Unit 4</part>
         <subpart>C</subpart>
     </word>

@@ -901,6 +901,12 @@
         <subpart>A</subpart>
     </word>-->
     <word>
+        <english>unbelievable</english>
+        <polish>nieprawdopodobny, niewiarygodny</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>stormy weather</english>
         <polish>burzowa pogoda</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
@@ -1021,8 +1027,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>heat</english>
-        <polish>ciepło, upał, gorąco</polish>
+        <english>heat (n.) / hot (adj.)</english>
+        <polish>ciepło, upał, gorąco (rz.) / gorący (przym.)</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -1142,7 +1148,7 @@
     </word>
     <word>
         <english>thaw</english>
-        <polish>odwilż, ocieplenie</polish>
+        <polish>odtajać, odmrozić, odwilż, ocieplenie</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -1249,8 +1255,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>unpleasantly</english>
-        <polish>nieprzyjemnie</polish>
+        <english>unpleasantly (unpleasantly cold = chilly)</english>
+        <polish>nieprzyjemnie (nieprzyjemnie zimno)</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -1365,6 +1371,12 @@
     <word>
         <english>fog - foggy</english>
         <polish>mgła - mgliście (mocna mgła - na obszarach zamieszkałych, ogranicza widoczność poniżej 1km)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>occur (often occurs in the mountains)</english>
+        <polish>wystąpić, pojawić się, wydarzyć (najczęściej występuje w górach)</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -2395,6 +2407,12 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>germ</english>
+        <polish>bakteria, zarazek</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>baby buggies</english>
         <polish>wózki dziecięce</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
@@ -2413,14 +2431,26 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>inflatable</english>
-        <polish>nadmuchiwane</polish>
+        <english>inflatable (inflatable toy)</english>
+        <polish>nadmuchiwane (nadmuchiwana zabawka)</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>sue</english>
         <polish>zaskarżyć, pozwać do sądu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>survey</english>
+        <polish>ankieta, przeprowadzać sondaż</polish>
+        <part>New English File 4 Upper Intermediate - Unit 3</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>recent</english>
+        <polish>najnowszy, niedawny</polish>
         <part>New English File 4 Upper Intermediate - Unit 3</part>
         <subpart>C</subpart>
     </word>

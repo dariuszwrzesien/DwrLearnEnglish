@@ -10,7 +10,8 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\Session\Session;
 
-class CheckmeController extends Controller {
+class CheckmeController extends Controller
+{
 
     public $session;
 
@@ -18,7 +19,8 @@ class CheckmeController extends Controller {
      * @Route("/check_me/{part_id}", defaults={"part_id" = null}, name="check_me")
      * @Template()
      */
-    public function indexAction(Request $request, $part_id) {
+    public function indexAction(Request $request, $part_id)
+    {
         
         $this->session = $request->getSession();
 
@@ -41,9 +43,13 @@ class CheckmeController extends Controller {
         $form = $this->createFormBuilder()
                 ->add('part_id', 'hidden')
                 ->add('word_id', 'hidden')
-                ->add('next', 'submit', array(
-                    'attr' => array(
-                        'class' => 'btn btn-primary btn-lg navbar-btn next-button'))
+                ->add(
+                    'next',
+                    'submit',
+                    array(
+                        'attr' => array(
+                            'class' => 'btn btn-primary btn-lg navbar-btn next-button')
+                        )
                 )
                 ->getForm();
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
     <word>
-        <english>preview</english>
-        <polish>informacje o programie</polish>
+        <english>preview (preview OF the series)</english>
+        <polish>informacje o programie (informację O serialu)</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -55,8 +55,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>entertainment</english>
-        <polish>rozrywka</polish>
+        <english>entertainment (entertainment capital)</english>
+        <polish>rozrywka (stolica rozrywki)</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -69,6 +69,12 @@
     <word>
         <english>grow sb's own food</english>
         <polish>hodować własne jedzenie</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>make sb's own clothes</english>
+        <polish>wytwarzać własne ubrania</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -103,8 +109,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>society</english>
-        <polish>społeczeństwo</polish>
+        <english>society (modern society)</english>
+        <polish>społeczeństwo (nowoczesne społeczeństwo)</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -171,6 +177,12 @@
     <word>
         <english>episode</english>
         <polish>epizod</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>remain (remain seated)</english>
+        <polish>pozostać (np. w pozycji siedzącej)</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>
@@ -277,8 +289,50 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>pleasantly</english>
+        <polish>miłe, przyjemne</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>darkness</english>
         <polish>ciemność, mrok</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>reviewer</english>
+        <polish>recenzent, krytyk</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>freedom OF choice</english>
+        <polish>wolność wyboru</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>amazed</english>
+        <polish>zdumiony</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>amused</english>
+        <polish>rozbawiony</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>temporarily</english>
+        <polish>chwilowo, przejściowo, tymczasowo</polish>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>accomodate</english>
+        <polish>zakwaterować, pomieścić</polish>
         <part>New English File 4 Upper Intermediate - Unit 6</part>
         <subpart>B</subpart>
     </word>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Articles A/AN THE (Przedimki)</title>
+        <content>   
+            1. Używamy a/an kiedy wspominamy coś/kogoś po raz pierwszy.
+
+            My neighbour has bought A dog.
+            THE dog is AN Alsatian.
+
+            2. NIE używamy przedimków gdy mówimy ogólnie w liczbie mnogiej / niepoliczalne rzeczowniki lub w wyrażeniach:
+            at home / work, go home / to bed, next / last (week), etc.
+
+            MEN are better at parking than WOMEN.
+            I don't like SPORT or CLASSICAL MUSIC.
+            I stayed at HOME LAST weekend.
+
+            3. Instytucje
+
+            Bez przedimków
+            My father's IN HOSPITAL. - Jest w szpitalu (jako instytucji), jest tam leczony.
+            Z przedimkiem
+            They are building A NEW HOSPITAL in my town. - A hospital - jako budynek
+
+            Prison, church, school, hospital , university ...
+            w powyższych słówkach używamy przedimków gdy mówimy o instytucjach np.
+            He is in prision - on jest więźniem.
+            He is in the prision - on jest w budynku więziennym.
+
+            4. Nazwy geograficzne
+
+            NIE UŻYWAMY THE gdy:
+             - z większością krajów, kontynentów, regionów, wysp, stanów, prowincji wiosek i miast.
+            np. North America, South East Asia, Poland
+            WYJĄTKI: the USA, the UK, the Netherkands, The Czech Republic, The Republic of Poland.
+
+             - drogi, ulice, parki, sklepy i restauracje
+            WYJĄTKI: autostrady i numerowane drogi, THE M6, THE A4.
+
+             - indywidualne nazwy gór i jezior.
+
+            UŻYWAMY THE gdy:
+
+             - łańcuchy górskie, rzeki, morza, kanały, pustynie i grupy wysp
+             - nazwy teatrów, kin, hoteli, galerii i muzeów
+
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>6A</subpart>
+    </grammary>
+    <grammary>
+        <title>Uncountable and plural nouns</title>
+        <content>  
+            c
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>6B</subpart>
+    </grammary>
+    <grammary>
+        <title>Quantifiers: all/every, etc.</title>
+        <content> 
+            d
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 4 Upper Intermediate - Unit 6</part>
+        <subpart>6C</subpart>
+    </grammary>
+</grammary_roles>

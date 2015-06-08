@@ -25,6 +25,12 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>double park</english>
+        <polish>zaparkować na drugiego, zaparkować równolegle do drugiego samochodu</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>knock sb over</english>
         <polish>potrącić kogoś, przewrócić kogoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
@@ -115,8 +121,14 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>regret</english>
-        <polish>żałować</polish>
+        <english>regret (doING)</english>
+        <polish>żałować (robienia czegoś)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>waste (What a waste!)</english>
+        <polish>strata (Co za strata!)</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -135,6 +147,12 @@
     <word>
         <english>loads of money</english>
         <polish>móstwo pieniędzy</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>I realy fancied him = I liked him</english>
+        <polish>Naprawdę go lubiłem</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -200,7 +218,7 @@
     </word>
     <word>
         <english>skimpy</english>
-        <polish>skąpy</polish>
+        <polish>niezakrywający, skąpy (w sensie ubrania)</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -236,13 +254,13 @@
     </word>
     <word>
         <english>go back on sth</english>
-        <polish>nie zrobić czegoś co sie obiecało</polish>
+        <polish>wycofać się z obietnicy, nie zrobić czegoś co sie obiecało</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>go without of sth</english>
-        <polish>?</polish>
+        <english>go without of sth (go without of food for 24h)</english>
+        <polish>obyć się bez czegoś (obyć się bez jedzenia przez 24h)</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -266,13 +284,25 @@
     </word>
     <word>
         <english>go off sb/sth</english>
-        <polish>?</polish>
+        <polish>przestać lubić kogoś/coś</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>go for sth = take the opportunity</english>
-        <polish>skorzystać z sytuacji aby coś osiągnąć, zawalczyć o coś, próbować coś zdobyć</polish>
+        <english>go with (shoes go with the clothes)</english>
+        <polish>pasować do czegoś (buty pasujące do ubrania)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>go (well) with sth</english>
+        <polish>być czegoś częścią, zgodzić się na coś ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>go for sth = take the opportunity (Would yo go for it?)</english>
+        <polish>wypróbować, skorzystać z sytuacji aby coś osiągnąć, zawalczyć o coś, próbować coś zdobyć (Spróbował byś?)</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -326,7 +356,13 @@
     </word>
     <word>
         <english>tackle sth</english>
-        <polish>?</polish>
+        <polish>zwalczyć</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>down to the penny</english>
+        <polish>co do grosza</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -339,6 +375,12 @@
     <word>
         <english>weapons expenditures</english>
         <polish>wydatki na uzbrojenie / broń</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>expenditures</english>
+        <polish>wydatki</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -373,14 +415,38 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>agricultural</english>
+        <polish>rolnictwo</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>recoup (the cost)</english>
-        <polish>odzyskać (koszty)</polish>
+        <polish>odzyskać poniesione (koszty)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>demand</english>
+        <polish>żądać</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>whichever</english>
+        <polish>którykolwiek</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
     <word>
         <english>attribute sth to sth/sb</english>
         <polish>przypisywać coś czemuś/komuś</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>simple pitch</english>
+        <polish>gatka, bajer</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -393,6 +459,12 @@
     <word>
         <english>oversight</english>
         <polish>niedopatrzenie ?</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>investment</english>
+        <polish>inwestycje</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -410,7 +482,7 @@
     </word>
     <word>
         <english>encircle</english>
-        <polish>okrążać</polish>
+        <polish>otaczać, okrążać</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -709,6 +781,12 @@
         <subpart>B</subpart>
     </word>
     <word>
+        <english>stocks</english>
+        <polish>towary w magazynie, asortyment</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>win sb's heart and mind</english>
         <polish>?</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
@@ -752,7 +830,7 @@
     </word>
     <word>
         <english>scarce</english>
-        <polish>ograniczony, niewystarczajacy?</polish>
+        <polish>ograniczony, niewystarczajacy</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -771,6 +849,12 @@
     <word>
         <english>pass sth on (to sb)</english>
         <polish>przekazywać coś (do kogoś)</polish>
+        <part>New English File 4 Upper Intermediate - Unit 7</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be fooled = be tricked</english>
+        <polish>być ogłupionym, wystrychniętym na dudka = być oszukanym</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>B</subpart>
     </word>
@@ -1285,10 +1369,9 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>whose</english>
+        <polish>którego</polish>
         <part>New English File 4 Upper Intermediate - Unit 7</part>
         <subpart>C</subpart>
     </word>
-
 </words>

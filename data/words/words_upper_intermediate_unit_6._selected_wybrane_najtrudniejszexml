@@ -97,18 +97,6 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 4 Upper Intermediate - Unit 6 - Selected (wybrane najtrudniejsze)</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 4 Upper Intermediate - Unit 6 - Selected (wybrane najtrudniejsze)</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
         <english>invertebrates</english>
         <polish>bezkręgowce</polish>
         <part>New English File 4 Upper Intermediate - Unit 6 - Selected (wybrane najtrudniejsze)</part>
@@ -127,8 +115,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>rozrzucać, rozsypywać</english>
-        <polish>scatter</polish>
+        <english>scatter</english>
+        <polish>rozrzucać, rozsypywać<</polish>
         <part>New English File 4 Upper Intermediate - Unit 6 - Selected (wybrane najtrudniejsze)</part>
         <subpart>A</subpart>
     </word>
@@ -344,7 +332,7 @@
     </word>
     <word>
         <english>commit to sth</english>
-        <polish>zobowiązać sie do czegoś</polish>
+        <polish>zobowiązać się do czegoś</polish>
         <part>New English File 4 Upper Intermediate - Unit 6 - Selected (wybrane najtrudniejsze)</part>
         <subpart>A</subpart>
     </word>

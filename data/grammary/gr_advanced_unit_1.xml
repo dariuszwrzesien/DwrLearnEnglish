@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Linkers</title>
+        <content>
+            RESULT - rezultat
+            --------------------------------------------------------------------
+            1. So - (najbardziej popularny łącznik aznaczający -> a więc, zatem)
+
+            It was freezing cold, SO I wore a thick coat.
+
+            2. As a result, therefore, consequently - (mardziej formalne od -> so), zazwyczaj używane na początku zdania lub wyrażenia.
+
+            As a result - w rezultacie ...
+            Therefore - dlatego ...
+            Consequently - w konsekwencji czego ...
+
+            It snowed hard all night. AS A RESULT the airport was closed.
+            We regret that you don't have qualificaions, AND THEREFORE / CONSEQUENTLY we are unable to offer you the job.
+
+            3. Therefore / consequently można też używać jako czasowników głównych.
+
+            We have therefore / consequently decided not to offer you the job.
+
+            ====================================================================
+
+            REASON - powód
+            --------------------------------------------------------------------
+            1. Because, as, since (more formal) - ponieważ.
+            Zazwyczaj używane na początku zdania.
+
+            I have stopped writing to her, because/as/since she never answers me.
+
+            2. Because of ... , - z powodu
+            due to (formal), owning to (formal)- z powodu (formalnie)
+
+            Używane zazwyczaj przed rzeczownikiem.
+
+            The plane was late BECAUSE OF THE FOG.
+            Flight 341 has been delayed DUE TO / OWNING TO adverse weather conditions
+
+            ====================================================================
+
+            PURPOSE - cel
+            --------------------------------------------------------------------
+            1. TO, IN ORDER TO, SO AS TO - po to żeby ...
+            Po nich zawsze bezokolicznik.
+
+            I did a language course TO/IN ORDER TO/ SO AS TO IMPROVE my English.
+
+            2. Aby zaprzeczyć używamy IN ORDER NOT TO lub SO AS NOT TO - po to żeby nie ...
+
+            She closed the door quietly SO AS NOT TO / IN ORDER NOT TO wake the baby.
+
+            3. SO THAT + ((modal) can/could + verb (czasownik) lub will/would + verb (czasownik)) - w celu aby móc/chcieć/itd ...
+
+            They moved to London SO THAT they COULD see their parents more often.
+
+            Musimy! użyć SO THAT gdy zmieniamy podmiot w zdaniu
+
+            SHE put the rug over the baby SO THAT HE WOULDN'T be cold.
+
+            4. IN CASE + PRESENT SIMPLE - na wypadek (odnosi się do przyszłości ale używamy czasu PRESENT)
+
+            I'm not going to tell Ann IN CASE she TELLS everyone else.
+
+            ====================================================================
+
+            CONTRAST - różnica
+            --------------------------------------------------------------------
+            1. BUT - ALE, nieformalny najczęsciej używany łącznik.
+
+            We enjoyed the concert BUT we didn't have very good seats.
+
+            YET (formal) - ALE, podobnie jak BUT ale bardziej formalnie.
+
+            Agnes was attracted to the strangers, YET something in her head was telling her not to get close to him.
+
+            HOWEVER / NETHERTHELESS (formal) - JEDNAK - używane na początku zdania, wskazują/łączą na coś ze zdania poprzedniego. Po nich występuje przecinek.
+
+            We enjoyed the concert. HOWEVER, we dodn't have very good seats.
+            Agnes wa attracted to the stranger. NEVERTHELESS, something in her head was telling her not to e close to him.
+
+            2. ALTHOUGH / EVEN THOUGH / THOUGH - CHOCIAŻ
+
+            EVEN THOUGH - jest bardziej współczujące od ALTHOUGH
+            THOUGH - nieformalne
+
+            We enjoyed the concert ALTHOUGH / EVEN THOUGH / THOUGH we didn't have very good seats.
+
+            THOUGH - może być użyte na końcu frazy/zdania jako komentaż
+
+            He's very friendly - a bit mean, THOUGH.
+
+            3. IN SPITE OF, DESPITE ..., DESPITE THE FACT THAT ... - pomimo że ...
+
+            Po IN SPITE OF i DESPITE używamy
+                -> gerung - czyli czasownika z końcówką ING
+                -> noun   - rzeczownika
+                -> THE FACT THAT + całe zdanie zdania
+
+            IN SPITE OF beING attracted to the stranger ...
+            DESPITE HER ATTRACTION to the stranger ...
+            DESPITE THE FACT THAT she was attracted to the stranger ...
+
+
+
+
+
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 1</part>
+        <subpart>1A</subpart>
+    </grammary>
+    <grammary>
+        <title>...</title>
+        <content>  
+            ...
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 1</part>
+        <subpart>1B</subpart>
+    </grammary>
+    <grammary>
+        <title>...</title>
+        <content>    
+            ...
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 1</part>
+        <subpart>1C</subpart>
+    </grammary>
+</grammary_roles>

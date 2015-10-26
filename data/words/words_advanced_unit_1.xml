@@ -1405,14 +1405,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>comprehension</english>
-        <polish>zrozumienie, rozumienie</polish>
+        <english>comprehension (comprehension problems)</english>
+        <polish>zrozumienie, rozumienie (problemy ze zrozumieniem)</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>conduct = run (business) = to do</english>
-        <polish>prowadzić</polish>
+        <polish>prowadzić (interesy)</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1508,7 +1508,7 @@
     </word>
     <word>
         <english>eligible</english>
-        <polish>wolny. do wzięcia</polish>
+        <polish>wolny, do wzięcia</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1519,8 +1519,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>encounter</english>
-        <polish>spotkanie, spotykać</polish>
+        <english>encounter (Majority of encounters in English ...)</english>
+        <polish>spotkanie, spotykać (Większość spotkań w języku angielskim ...)</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1598,7 +1598,7 @@
     </word>
     <word>
         <english>maintain</english>
-        <polish>utrzymywać. podtrzymywać</polish>
+        <polish>utrzymywać, podtrzymywać</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1627,8 +1627,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>phase</english>
-        <polish>faza, etap, stadium</polish>
+        <english>phase (entered a complex phase)</english>
+        <polish>faza, etap, stadium (wszedł w skomplikowany etap/fazę)</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
@@ -1728,10 +1728,24 @@
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
-     <word>
+    <word>
         <english>worship = the practice of showing respect for God</english>
         <polish>czcić, wielbić / kult, uwielbienie</polish>
         <part>New English File 5 Advanced - Unit 1</part>
         <subpart>C</subpart>
     </word>
+    <word>
+        <english>definite != indefined</english>
+        <polish>konkretny, wyznaczony, zdefiniowany != niewyznaczony, niezdefiniowany</polish>
+        <part>New English File 5 Advanced - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>attitude</english>
+        <polish>nastawienie</polish>
+        <part>New English File 5 Advanced - Unit 1</part>
+        <subpart>C</subpart>
+    </word>
+
+
 </words>

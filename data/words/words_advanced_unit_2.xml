@@ -37,8 +37,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>liable to = likely to</english>
-        <polish>prawdopodobny, przypuszczalny</polish>
+        <english>(be) liable to</english>
+        <polish>podatny na coś, narażony na coś</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -242,7 +242,7 @@
     </word>
     <word>
         <english>childhood</english>
-        <polish>dziciństwo</polish>
+        <polish>dzieciństwo</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -272,7 +272,7 @@
     </word>
     <word>
         <english>free -> freedom</english>
-        <polish>wolny, wolność</polish>
+        <polish>wolny -> wolność</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -350,8 +350,37 @@
     </word>
     <word>
         <english>lose -> loss</english>
-        <polish>sracić -> strata</polish>
+        <polish>stracić -> strata</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>A</subpart>
     </word>
+    <word>
+        <english>boarding school</english>
+        <polish>szkola z internatem</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+        <word>
+        <english>cod liver oil</english>
+        <polish>olej z wątroby dorsza</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+        <word>
+        <english>groan</english>
+        <polish>jęczeć, wydawać jęki, narzekać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+        <word>
+        <english>recall</english>
+        <polish>wspominać, przywoływać do pamięci</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+        <word>
+        <english>sniff</english>
+        <polish>wąchać, niuchać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>A</subpart>
 </words>

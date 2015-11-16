@@ -1,387 +1,843 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
+    <!--<word>-->
+        <!--<english>spectre = ghost</english>-->
+        <!--<polish>widmo, zjawa</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>prompt</english>-->
+        <!--<polish>zachęcać / powodować / natychmiastowy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>outlook = attitude towards</english>-->
+        <!--<polish>pogląd / perspektywy / prognoza</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>miasma</english>-->
+        <!--<polish>zły wpływ, zła atmosfera</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>misery = unhappiness</english>-->
+        <!--<polish>nieszczęście, cierpienie, nędza</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>splendid = (old-fashined) excellent (splendid idea)</english>-->
+        <!--<polish>znakomity (znakomity pomysł)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>(be) liable to</english>-->
+        <!--<polish>podatny na coś, narażony na coś</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>No wonder = it's not surprising (No wonder I was a skinny child)</english>-->
+        <!--<polish>Nic dziwnego że ... (Nic dziwnego że byłam chudym dzieckiem)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>skinny = very thin</english>-->
+        <!--<polish>chudy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>rite = a ceremony</english>-->
+        <!--<polish>rytułał, ceremonia</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>scolded = tell off</english>-->
+        <!--<polish>upominać kogoś, udzielać komuś nagany</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>germs</english>-->
+        <!--<polish>bakterie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>rocking horse</english>-->
+        <!--<polish>konik na biegunach</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>spring</english>-->
+        <!--<polish>sprężyna</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>unseat</english>-->
+        <!--<polish>wysadzić z siodła, zrzucić z siodła</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>oiling</english>-->
+        <!--<polish>naoliwienie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>cod</english>-->
+        <!--<polish>dorsz</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>dot</english>-->
+        <!--<polish>kropka</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>attitude</english>-->
+        <!--<polish>postawa</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>dip (dip hand in the water)</english>-->
+        <!--<polish>zanurzyć (zanurzyć rękę w wodzie)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>contribute to</english>-->
+        <!--<polish>przyczyniać się do</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>visual</english>-->
+        <!--<polish>wzrokowy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>toddler</english>-->
+        <!--<polish>dziecko raczkujące</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>adulthood</english>-->
+        <!--<polish>dorosłość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>parntership</english>-->
+        <!--<polish>partnerstwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>membership</english>-->
+        <!--<polish>członkostwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>boredom</english>-->
+        <!--<polish>nuda</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>wisdom</english>-->
+        <!--<polish>mądrość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>kindness</english>-->
+        <!--<polish>uprzejmość, życzliwość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>sadness</english>-->
+        <!--<polish>smutek</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>shame (That's a shame)</english>-->
+        <!--<polish>wstyd (Jaka szkoda)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>belief</english>-->
+        <!--<polish>wierzenie, przekonanie, przeświadczenie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>hatred</english>-->
+        <!--<polish>nienawiść</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>loss</english>-->
+        <!--<polish>strata</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>indispensable</english>-->
+        <!--<polish>niezbędny, nieodzowny</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>terror</english>-->
+        <!--<polish>strach</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>convalescence</english>-->
+        <!--<polish>rekonwalescencja</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>worthwhile</english>-->
+        <!--<polish>wart zachodu, interesujący</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>unite</english>-->
+        <!--<polish>jednoczyć, zjednoczyć</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>common</english>-->
+        <!--<polish>wspólny, pospolity</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>childhood</english>-->
+        <!--<polish>dzieciństwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>neighbourhood</english>-->
+        <!--<polish>sąsiedztwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>friendship</english>-->
+        <!--<polish>przyjacielstwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>relationship</english>-->
+        <!--<polish>relacje, stosunek do czegoś, pokrewieństwo</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>bore -> boredom</english>-->
+        <!--<polish>nudzić się -> nuda, znurzenie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>free -> freedom</english>-->
+        <!--<polish>wolny -> wolność</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>wise -> wisdom</english>-->
+        <!--<polish>mądry -> mądrość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>happy -> happiness</english>-->
+        <!--<polish>szczęśliwy -> szczęście</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>ill -> illness</english>-->
+        <!--<polish>chory -> choroba</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>kind -> kindness</english>-->
+        <!--<polish>uprzejmy -> uprzejmość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>celebrate -> celebration</english>-->
+        <!--<polish>świętować -> uroczystość</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>compete -> competition</english>-->
+        <!--<polish>konkurować -> zawody, konkurs</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>image -> imagination</english>-->
+        <!--<polish>wizerunek -> wyobraźnia</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>afraid -> fear</english>-->
+        <!--<polish>przestraszony -> strach, lęk</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>ashamed -> shame</english>-->
+        <!--<polish>zawstydzony -> wstyd, zawstydzenie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>belive -> belief</english>-->
+        <!--<polish>sądzić, uważać -> przekonanie, wiara</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>dead -> death</english>-->
+        <!--<polish>martwy, nieżywy, wyładowany, rozładowany (o baterii, akumulatorze) -> śmierć</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>hate -> hatred</english>-->
+        <!--<polish>nienawidzić -> nienawiść</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>lose -> loss</english>-->
+        <!--<polish>stracić -> strata</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>boarding school</english>-->
+        <!--<polish>szkoła z internatem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+        <!--<word>-->
+        <!--<english>cod liver oil</english>-->
+        <!--<polish>olej z wątroby dorsza</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+        <!--<word>-->
+        <!--<english>groan</english>-->
+        <!--<polish>jęczeć, wydawać jęki, narzekać</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+        <!--<word>-->
+        <!--<english>recall</english>-->
+        <!--<polish>wspominać, przywoływać do pamięci</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>sniff</english>-->
+        <!--<polish>wąchać, niuchać</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 2</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
     <word>
-        <english>spectre = ghost</english>
-        <polish>widmo, zjawa</polish>
+        <english>a hands-free</english>
+        <polish>zestaw słuchawkowy / głośnomówiący w samochodzie</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>simultaneously</english>
+        <polish>równocześnie, jednocześnie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>multitasking</english>
+        <polish>wielozadaniowość</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>related</english>
+        <polish>powiązany</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>dwell, dweller, city-dweller</english>
+        <polish>(za)mieszkać, mieszkaniec, mieszkanic miasta</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>frenzy</english>
+        <polish>gorączkowo, szaleńczo</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>earpiece</english>
+        <polish>słuchawka bluetooth</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>catch up with</english>
+        <polish>nadrobić zaległosci</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>update</english>
+        <polish>zaktualizować, unowocześniać, zmodernizować</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>social network</english>
+        <polish>portal społecznościowy</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>be on the go</english>
+        <polish>być w ruchu, być w drodze</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>peripheral</english>
+        <polish>urządzenie peryferyjne</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>neuroscience</english>
+        <polish>nauka o mózgu</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>counter-intuitive</english>
+        <polish>sprzeczny z intuicją</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>occurance</english>
+        <polish>zdarzenie, wystąpienie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>be engtossed in</english>
+        <polish>być pochłoniętym (czymś)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>stir</english>
+        <polish>mieszać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>at hand</english>
+        <polish>pod ręką</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>be capable of</english>
+        <polish>być zdolnym do</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>get clogged</english>
+        <polish>zablokować, sparaliżować, zatykać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>overloaded</english>
+        <polish>przeładowany</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>cognition</english>
+        <polish>poznanie, pojęcie czegoś1, zrozumienie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>consider to be</english>
+        <polish>uważać (kogoś) za</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>inherent (inherent limitations)</english>
+        <polish>wrodzony (wrodzone ograniczenia)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>process</english>
+        <polish>przetwarzać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>overcome</english>
+        <polish>przezwyciężać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>juggle</english>
+        <polish>żąglować</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>creep up</english>
+        <polish>podkraść się</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>rapid / rapidly</english>
+        <polish>bardzo szybki, gwałtowny / gwałtownie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>swear</english>
+        <polish>przysięgać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>impose</english>
+        <polish>nakładać, narzucać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>run out of</english>
+        <polish>kończyć się</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>a blizzard of emails</english>
+        <polish>nawał emaili</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>appears to be</english>
+        <polish>wydaje się być</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>wireless</english>
+        <polish>bezprzewodowy</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>mentally engaged</english>
+        <polish>umysłowo zaangażowany</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
+    </word>
+     <word>
+        <english>responders</english>
+        <polish>ankietowani</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>prompt</english>
-        <polish>zachęcać / powodować / natychmiastowy</polish>
+        <english>peak</english>
+        <polish>szczyt</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>outlook = attitude towards</english>
-        <polish>pogląd / perspektywy / prognoza</polish>
+        <english>technology on the go</english>
+        <polish>technologia w użyciu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>miasma</english>
-        <polish>zły wpływ, zła atmosfera</polish>
+        <english>talking face-to-face</english>
+        <polish>rozmowa twarzą w twarz</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>misery = unhappiness</english>
-        <polish>nieszczęście, cierpienie, nędza</polish>
+        <english>convinced</english>
+        <polish>przekonany</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>splendid = (old-fashined) excellent (splendid idea)</english>
-        <polish>znakomity (znakomity pomysł)</polish>
+        <english>apparently</english>
+        <polish>najwidoczniej</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>(be) liable to</english>
-        <polish>podatny na coś, narażony na coś</polish>
+        <english>bump into sb</english>
+        <polish>wpaść na kogoś (na ulicy)</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>No wonder = it's not surprising (No wonder I was a skinny child)</english>
-        <polish>Nic dziwnego że ... (Nic dziwnego że byłam chudym dzieckiem)</polish>
+        <english>run over something</english>
+        <polish>przejechać po czymś, potrącić kogoś</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>skinny = very thin</english>
-        <polish>chudy</polish>
+        <english>refer to  sth / referred to ...</english>
+        <polish>odnościć się do czegoś / o którym mowa ...</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>rite = a ceremony</english>
-        <polish>rytułał, ceremonia</polish>
+        <english>ingredient</english>
+        <polish>składnik potrawy</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>scolded = tell off</english>
-        <polish>upominać kogoś, udzielać komuś nagany</polish>
+        <english>cope</english>
+        <polish>poradzić sobie z czymś, znieść coś, dać sobie radę</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>germs</english>
-        <polish>bakterie</polish>
+        <english>waste a lot of time</english>
+        <polish>tracić mnóstwo czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>rocking horse</english>
-        <polish>konik na biegunach</polish>
+        <english>save time</english>
+        <polish>oszczędzać czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>spring</english>
-        <polish>sprężyna</polish>
+        <english>kill time</english>
+        <polish>zabijać czas (sprawiać, żeby szybciej mijał)</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>unseat</english>
-        <polish>wysadzić z siodła, zrzucić z siodła</polish>
+        <english>make up for lost time</english>
+        <polish>nadrabiać stracony czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>oiling</english>
-        <polish>naoliwienie</polish>
+        <english>take me a long time</english>
+        <polish>zajmuje mi to dużo czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>cod</english>
-        <polish>dorsz</polish>
+        <english>give me a hard time</english>
+        <polish>przysparzać problemów. kłaść kłody pod nogi</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>dot</english>
-        <polish>kropka</polish>
+        <english>spare the time</english>
+        <polish>wolny czas, poświęcić swój wolny czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>attitude</english>
-        <polish>postawa</polish>
+        <english>sth take up all my time</english>
+        <polish>coś zabiera mi cały wolny czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>dip (dip hand in the water)</english>
-        <polish>zanurzyć (zanurzyć rękę w wodzie)</polish>
+        <english>have the time of your live</english>
+        <polish>bawić się jak nigdy w zyciu, mieć wspaniały ubaw</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>contribute to</english>
-        <polish>przyczyniać się do</polish>
+        <english>run out of time</english>
+        <polish>nie mieć czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>visual</english>
-        <polish>wzrokowy</polish>
+        <english>on time</english>
+        <polish>na czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>toddler</english>
-        <polish>dziecko raczkujące</polish>
+        <english>before my time</english>
+        <polish>to nie moje czasy (np o muzyce)</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>adulthood</english>
-        <polish>dorosłość</polish>
+        <english>by the time</english>
+        <polish>do czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>parntership</english>
-        <polish>partnerstwo</polish>
+        <english>in four days' time</english>
+        <polish>za cztery dni, za jakiś okres czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>membership</english>
-        <polish>członkostwo</polish>
+        <english>at the time</english>
+        <polish>w tym czasie</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>boredom</english>
-        <polish>nuda</polish>
+        <english>time  off (We need some time off)</english>
+        <polish>wolny czas (Potrzebujemy trochę wolnego czasu)</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>wisdom</english>
-        <polish>mądrość</polish>
+        <english>in time for sth</english>
+        <polish>przed jakimś wydarzeniem</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>kindness</english>
-        <polish>uprzejmość, życzliwość</polish>
+        <english>on time to time</english>
+        <polish>od czasu do czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>sadness</english>
-        <polish>smutek</polish>
+        <english>at times = sometimes</english>
+        <polish>czasami</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>shame (That's a shame)</english>
-        <polish>wstyd (Jaka szkoda)</polish>
+        <english>... with time to spare</english>
+        <polish>z zapasem czasu, przed czasem</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>belief</english>
-        <polish>wierzenie, przekonanie, przeświadczenie</polish>
+        <english>the whole time</english>
+        <polish>cały czas</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>hatred</english>
-        <polish>nienawiść</polish>
+        <english>time's up !</english>
+        <polish>koniec czasu !</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>loss</english>
-        <polish>strata</polish>
+        <english>short of time = pushed for time</english>
+        <polish>czas mnie goni</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>indispensable</english>
-        <polish>niezbędny, nieodzowny</polish>
+        <english>I've got time on my hands</english>
+        <polish>Mam czas dla siebie</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>terror</english>
-        <polish>strach</polish>
+        <english>for the time being</english>
+        <polish>przez ten moment, tymczasowo</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>convalescence</english>
-        <polish>rekonwalescencja</polish>
+        <english>a question of time = a matter of time</english>
+        <polish>kwestia czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>worthwhile</english>
-        <polish>wart zachodu, interesujący</polish>
+        <english>a long time ago</english>
+        <polish>dawno temu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>unite</english>
-        <polish>jednoczyć, zjednoczyć</polish>
+        <english>There isn't much time left</english>
+        <polish>Nie zostało za wiele czasu</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>common</english>
-        <polish>wspólny, pospolity</polish>
+        <english>This time next week</english>
+        <polish>O tym czasie za tydzień</polish>
         <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>childhood</english>
-        <polish>dzieciństwo</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>neighbourhood</english>
-        <polish>sąsiedztwo</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>friendship</english>
-        <polish>przyjacielstwo</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>relationship</english>
-        <polish>relacje, stosunek do czegoś, pokrewieństwo</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>bore -> boredom</english>
-        <polish>nudzić się -> nuda, znurzenie</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>free -> freedom</english>
-        <polish>wolny -> wolność</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>wise -> wisdom</english>
-        <polish>mądry -> mądrość</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>happy -> happiness</english>
-        <polish>szczęśliwy -> szczęście</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>ill -> illness</english>
-        <polish>chory -> choroba</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>kind -> kindness</english>
-        <polish>uprzejmy -> uprzejmość</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>celebrate -> celebration</english>
-        <polish>świętować -> uroczystość</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>compete -> competition</english>
-        <polish>konkurować -> zawody, konkurs</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>image -> imagination</english>
-        <polish>wizerunek -> wyobraźnia</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>afraid -> fear</english>
-        <polish>przestraszony -> strach, lęk</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>ashamed -> shame</english>
-        <polish>zawstydzony -> wstyd, zawstydzenie</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>belive -> belief</english>
-        <polish>sądzić, uważać -> przekonanie, wiara</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>dead -> death</english>
-        <polish>martwy, nieżywy, wyładowany, rozładowany (o baterii, akumulatorze) -> śmierć</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>hate -> hatred</english>
-        <polish>nienawidzić -> nienawiść</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>lose -> loss</english>
-        <polish>stracić -> strata</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>boarding school</english>
-        <polish>szkoła z internatem</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-        <word>
-        <english>cod liver oil</english>
-        <polish>olej z wątroby dorsza</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-        <word>
-        <english>groan</english>
-        <polish>jęczeć, wydawać jęki, narzekać</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-        <word>
-        <english>recall</english>
-        <polish>wspominać, przywoływać do pamięci</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>sniff</english>
-        <polish>wąchać, niuchać</polish>
-        <part>New English File 5 Advanced - Unit 2</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
 </words>

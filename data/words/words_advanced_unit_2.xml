@@ -865,6 +865,12 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>turn into sth</english>
+        <polish>zmieniać w coś, przekształcać w coś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>dump</english>
         <polish>rzucić kogoś, zerwać z kimś</polish>
         <part>New English File 5 Advanced - Unit 2</part>
@@ -878,7 +884,7 @@
     </word>
     <word>
         <english>ridicule</english>
-        <polish>kpiny / wyśmiewać się</polish>
+        <polish>wyśmiewać się, kpić, wyszydzać</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -890,7 +896,7 @@
     </word>
     <word>
         <english>revive</english>
-        <polish>ożywiać, wskrzeszać, odnawiać, cucić</polish>
+        <polish>ożywiać, odnawiać, wskrzeszać, cucić</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -902,7 +908,7 @@
     </word>
     <word>
         <english>unbearably</english>
-        <polish>nied do zniesienia</polish>
+        <polish>nie do zniesienia</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -1010,7 +1016,7 @@
     </word>
     <word>
         <english>inexplicably</english>
-        <polish>niewytłumaczalnie</polish>
+        <polish>niewytłumaczalnie, w niewytłumaczalny sposób</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -1160,7 +1166,7 @@
     </word>
     <word>
         <english>turn-off</english>
-        <polish>coś co nas zniechęca, odrzuca</polish>
+        <polish>zniechęcający, coś co nas zniechęca, odrzuca</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -1172,7 +1178,19 @@
     </word>
     <word>
         <english>random</english>
-        <polish>przypadkowy</polish>
+        <polish>przypadkowy, losowy</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get randomly selected</english>
+        <polish>wybrano losowo</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get stronger</english>
+        <polish>wzmocnić się, umocnić</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
@@ -1375,29 +1393,351 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>get the impression (that)</english>
+        <polish>odnoszę wrażenie że</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>get the shock</english>
+        <polish>doznać szoku</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>get the chance</english>
+        <polish>mieć okazję</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english></english>
-        <polish></polish>
+        <english>get the joke = understand the joke</english>
+        <polish>zrozumieć dowcip</polish>
         <part>New English File 5 Advanced - Unit 2</part>
         <subpart>C</subpart>
     </word>
-
-
+    <word>
+        <english>get to know sb</english>
+        <polish>lepiej kogoś poznać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get hold of sb</english>
+        <polish>skontaktować się z kimś, złapać z kimś kontakt</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get rid of</english>
+        <polish>pozbyć się</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get my own back on</english>
+        <polish>zemścić się na kimś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get into trouble</english>
+        <polish>popaść w tarapaty</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get out of the way</english>
+        <polish>zejść z drogi</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>Get real!</english>
+        <polish>Bądź realistą</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>Get a life!</english>
+        <polish>Zacznij żyć! (własnym życiem)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>I'm not getting anywhere with it = it's too dificult</english>
+        <polish>To mnie prowadzi do nikąd, to mnie przerasta  = to jest zatrudne</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get on sb nerves</english>
+        <polish>denerwować kogoś, grać komuś na nerwach</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get on like a house on fire</english>
+        <polish>przypaść sobie do serca</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get the wrong end of the stick</english>
+        <polish>źle zrozumieć</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>ge's getting on (a bit)</english>
+        <polish>zaczyna się starzeć (troszkę)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get the message</english>
+        <polish>zrozumieć przesłanie, załapać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get sb's own way</english>
+        <polish>postawić na swoim</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get sb act together</english>
+        <polish>wziąć się w garść, zebrać się w sobie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get together</english>
+        <polish>spotkać się, zebrać się wspólnie</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get over sth</english>
+        <polish>wyzdrowieć, dojść do siebie (po zchorobie, zerwaniu, wypadku)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get on with = continue</english>
+        <polish>kontynuować</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get through to sb</english>
+        <polish>wytłumaczyć coś komuś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get into something</english>
+        <polish>zaangażować się w coś (w jakąś pracę)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get around = move from place to place</english>
+        <polish>włuczyć się z miejsca na miejsce</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get away with sth</english>
+        <polish>ujść na sucho, płazem</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get by</english>
+        <polish>radzić sobie finansowo, dawać radę</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get behind = fail to make enough progress</english>
+        <polish>opóźniać się z pracą</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get sb down = depress</english>
+        <polish>zasmuciś kogoś, zmartwić kogoś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get out of = avoid a responsibility or obligation</english>
+        <polish>wymigać się, uniknąć czegoś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get back to sb = write or speak to sb again later</english>
+        <polish>odpisać, oddzwonić poźniej</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get out of the way</english>
+        <polish>zejść z drogi</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fix</english>
+        <polish>naprawić</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>substituted</english>
+        <polish>zastępować kogoś (w pracy)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>make something up</english>
+        <polish>zmyślić coś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>crowning</english>
+        <polish>koronny (moment)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>set about</english>
+        <polish>zabrać się do czegoś</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>set up</english>
+        <polish>założyć firmę</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>chop up</english>
+        <polish>krajać, siekać, szatkować</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>smashed</english>
+        <polish>roztrzaskać</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fellow</english>
+        <polish>kumpel, facet, towarzysz</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>stunning-looking</english>
+        <polish>olśniewająco wyglądająca</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>instantly</english>
+        <polish>natychmiastowo</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>baronet</english>
+        <polish>baron, baronet</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>promptly (promptly pored a can of white paint)</english>
+        <polish>bezzwłocznie (bezzwłocznie wylała puszke białej farby)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>for good measure</english>
+        <polish>dla polepszenia efektu</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>barbarous</english>
+        <polish>barbarzyński</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>bouquet</english>
+        <polish>bukiet</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get to Paris</english>
+        <polish>dostać się do Paryża</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get the bus</english>
+        <polish>dojechać autobusem</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>getting dark</english>
+        <polish>ściemnia się, robi się ciemno</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get worse</english>
+        <polish>pogarsza się</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get somebody to fix (get Jane to finish)</english>
+        <polish>namów kogoś aby to naprawił (namów Jane aby to skończyła)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get my hair cut, get my passport renewed = have my hair cut, have my passport renewed</english>
+        <polish>zapłacić komuś za ścięcie włosów, zapłacić komuś za odnowienie paszportu (w języku potocznym, mówionym)</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get sacked</english>
+        <polish>zostać zwolnionym</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>get caught</english>
+        <polish>zostać złapanym</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>fetch / bring</english>
+        <polish>pójść po coś i przynieść / przynieść</polish>
+        <part>New English File 5 Advanced - Unit 2</part>
+        <subpart>C</subpart>
+    </word>
 </words>

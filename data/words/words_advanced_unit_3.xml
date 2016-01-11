@@ -524,7 +524,7 @@
     </word>
     <word>
         <english>acclaimed</english>
-        <polish>cieszący się uznaniem</polish>
+        <polish>cieszący się uznaniem, uznany</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -549,6 +549,12 @@
     <word>
         <english>freelance</english>
         <polish>niezależny, pracujący na własny rachunek</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>vaulted (vaulted archway)</english>
+        <polish>sklepienie (np. łukowe sklepienie)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -601,8 +607,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>lawn mowed (smooth lawn moved)</english>
-        <polish>wykoszony trawnik (gładko wykoszony trwanik)</polish>
+        <english>lawn mowed (smooth lawn mowed)</english>
+        <polish>trawnik wykoszony (gładko wykoszony trwanik)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -690,59 +696,4 @@
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
-        <english></english>
-        <polish></polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-
 </words>

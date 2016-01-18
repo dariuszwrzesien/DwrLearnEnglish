@@ -2,7 +2,7 @@
 <words>
     <!--<word>-->
         <!--<english>well off (He's extremely well-off)</english>-->
-        <!--<polish>zamożny</polish>-->
+        <!--<polish>dobrze sytuowany</polish>-->
         <!--<part>New English File 5 Advanced - Unit 3</part>-->
         <!--<subpart>A</subpart>-->
     <!--</word>-->
@@ -775,19 +775,19 @@
         <!--<subpart>B</subpart>-->
     <!--</word>-->
     <word>
-        <english>affluent</english>
-        <polish>zamożny</polish>
+        <english>affluent (formal)</english>
+        <polish>zamożny (formalnie)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>envios</english>
-        <polish>zawistny</polish>
+        <english>envios / envy</english>
+        <polish>zawistny / zawsiść</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
     <word>
-        <english>keep up woth the Jonses</english>
+        <english>keep up with the Jonses</english>
         <polish>robienie/kupowanie tego samego co sąsiedzi by im dorównać lub ich przewyższać</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
@@ -842,7 +842,7 @@
     </word>
     <word>
         <english>preoccupy</english>
-        <polish>absorbować, zrujnować</polish>
+        <polish>absorbować, zajmować</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -895,8 +895,14 @@
         <subpart>C</subpart>
     </word>
     <word>
+        <english>put a strain on space and finances</english>
+        <polish>zacisnąć pasa (zacisnąć pasa z powodu że nie stać nas na utrzymanie mieszkania z pensji)</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
         <english>put a strain on</english>
-        <polish>nakładać obciążenie na</polish>
+        <polish>położyć obciążenie / balast, przytłoczyć</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -907,7 +913,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>bit one's tongue</english>
+        <english>bite one's tongue</english>
         <polish>ugryźć się w język</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
@@ -938,13 +944,13 @@
     </word>
     <word>
         <english>sick with envy</english>
-        <polish>chory z zazdrości/zawiści</polish>
+        <polish>chory z zawiści</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>resentful</english>
-        <polish>pełen urazy, urażony</polish>
+        <polish>urażony, obrażony, pełen urazy</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -955,8 +961,8 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>refreshing</english>
-        <polish>odświeżajacy</polish>
+        <english>refreshingly</english>
+        <polish>odświeżajaco, pokrzepiająco</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1064,7 +1070,7 @@
     </word>
     <word>
         <english>denouement</english>
-        <polish>rozwiązanie (zagadnienia, sytuacji)</polish>
+        <polish>zwieńczenie, rozwiązanie przebiegu akcji/ sytuacji</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1112,13 +1118,13 @@
     </word>
     <word>
         <english>charge</english>
-        <polish>opłata</polish>
+        <polish>opłata za towar / usługę</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
     <word>
         <english>deposit</english>
-        <polish>zaliczka, zadatek</polish>
+        <polish>zaliczka, kaucja, zadatek</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1136,7 +1142,7 @@
     </word>
     <word>
         <english>lump sum</english>
-        <polish>jednorazowa opłata</polish>
+        <polish>jednorazowa opłata dużej kwoty</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1195,8 +1201,14 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>broke = hard up</english>
-        <polish>spłukany</polish>
+        <english>broke</english>
+        <polish>spłukany (permamentnie np. z każdym końcem miesiąca)</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>hard up</english>
+        <polish>spłukany (chwilowo, przejściowo)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1298,7 +1310,7 @@
     </word>
     <word>
         <english>misery</english>
-        <polish>bieda</polish>
+        <polish>nędza, cierpienie</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1340,7 +1352,7 @@
     </word>
     <word>
         <english>embrace</english>
-        <polish>uśćisk, objęcie</polish>
+        <polish>uścisk, objęcie</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>
@@ -1370,7 +1382,7 @@
     </word>
     <word>
         <english>moan about</english>
-        <polish>marudzić o coć, jęczeć z jakigoś powodu</polish>
+        <polish>marudzić o coś, utiskiwać, jęczeć z jakigoś powodu</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
     </word>

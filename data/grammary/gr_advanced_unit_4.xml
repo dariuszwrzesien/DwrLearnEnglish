@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Discourse markers</title>
+        <content>
+            TALKING OF Harry, did he get the job.                                     - Mówiąc o Harrym
+            BY THE WAY / INCIDENTALLY could you lend me some money.                   - A propos, przy okazji / nawiasem mówiąc
+            ACTUAL / IN FACT / AS A MATTER OF FACT I don't really like it.            - Właściwie, w istocie
+            IN ANY CASE / ANYWAY the weather was awful, so we didn't miss anything    - W każdym razie
+            AT LEAST nobody was killed                                                - Przynajmniej
+            AS I WAS SAYING, if Mark gets the job ...                                 - Tak jak już mówiłem
+            ON THE WHOLE I think that ... = GENERALLY                                 - Ogólnie, generalnie
+            ALL IN ALL I think I prefer ...                                           - W sumie, ogólnie rzecz biorąc
+            AFTER ALL it wasn't so bad.                                               - W końcu, mimo wszystko
+            BESIDES, I won't know many people there.                                  - Pozatym
+            BASICALLY, my job involves computer skills and people skills.             - W zasadzie
+            OBVIOUSLY you can't get a real idea of life in Japan unless ...           - Oczywiście, w oczywisty sposób
+            I MEAN, she never thinks about other people at all.                       - To znaczy, mam na myśli
+            IN OTHER WORDS, it was a complete disaster.                               - Innymi słowy
+            OTHERWISE I'm going to have to clean it again.                            - W przeciwnym wypadku, w przeciwnym razie
+            AS FAR AS accomodation IS CONCERNED / AS REGARDS / REGARDING accomodation - Jeśli chodzi o zakwaterowanie
+            THAT IS TO SAY, they are going to make mortgages more easily available    - To znaczy (precyzyjac wypowiedź)
+            ON THE ONE HAND ... ON THE OHER HAND                                      - Z jednej strony ... Z drugiej jednak strony ...
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 4</part>
+        <subpart>4A</subpart>
+    </grammary>
+    <grammary>
+        <title>...</title>
+        <content>
+            ...
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 4</part>
+        <subpart>4B</subpart>
+    </grammary>
+    <grammary>
+        <title>...</title>
+        <content>
+            ...
+        </content>
+        <comment>
+        </comment>
+        <part>New English File 5 Advanced - Unit 4</part>
+        <subpart>4C</subpart>
+    </grammary>
+</grammary_roles>

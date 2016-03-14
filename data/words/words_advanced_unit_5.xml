@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
     <word>
@@ -86,6 +85,12 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>ban</english>
+        <polish>zakaz, zakazywać</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>display</english>
         <polish>pokazać, wyświetlić, pokaz</polish>
         <part>New English File 5 Advanced - Unit 5</part>
@@ -118,6 +123,18 @@
     <word>
         <english>laid back</english>
         <polish>na luzie, wyluzowany, zrelaksowany</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>reference</english>
+        <polish>odniesienie, odwołanie</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>majority</english>
+        <polish>większość</polish>
         <part>New English File 5 Advanced - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -164,6 +181,24 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>correctness (political correctness)</english>
+        <polish>poprawność (polityczna poprawność)</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>belief</english>
+        <polish>przekonanie, przeświadczenie</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>duty</english>
+        <polish>obowiązek</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>mandatory = compulsory</english>
         <polish>przymusowy, obowiązkowy</polish>
         <part>New English File 5 Advanced - Unit 5</part>
@@ -189,7 +224,103 @@
     </word>
     <word>
         <english>self-esteem</english>
-        <polish>samoocena</polish>
+        <polish>poczucie własnej wartości, samoocena</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>indications</english>
+        <polish>wskazówki</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>anti-smoking</english>
+        <polish>zakaz palenia</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>outnumber</english>
+        <polish>przewaga liczebna</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>reawakening</english>
+        <polish>ponowne przebudzenie</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>misrepresented</english>
+        <polish>błednie przedstawiony</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>underestimated</english>
+        <polish>niedoceniony</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>prosocially</english>
+        <polish>prospołecznie</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>misjudge</english>
+        <polish>mylnie ocenic, błędnie osądzić</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>rewrite</english>
+        <polish>przepisać</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>prearrange</english>
+        <polish>wstępnie przygotować</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>outsells</english>
+        <polish>sprzedawać więcej od konkretnego innego, sprzedawać się lepiej</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>pro-govermet</english>
+        <polish>pro-rządowy</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>overcharge</english>
+        <polish>policzyć zbyt wysoką cenę</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>outdoor</english>
+        <polish>na zwenątrz, na świerzym powietrzu</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>curriculum</english>
+        <polish>plan nauczania</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>underprepared</english>
+        <polish>nieprzygotowany (niewystarczająco przygotowany)</polish>
         <part>New English File 5 Advanced - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -200,8 +331,38 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>frenzy</english>
+        <polish>szał, szaleństwo</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>awakening (awake)</english>
         <polish>przebudzenie (obudzić się)</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>swearing</english>
+        <polish>przekleństwo, obelżywość</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>deserve</english>
+        <polish>zasługiwać</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>discouraged</english>
+        <polish>zniechęcony, zrażony</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>cigarette butt</english>
+        <polish>niedopałek papierosa, pet</polish>
         <part>New English File 5 Advanced - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -218,6 +379,24 @@
         <subpart>A</subpart>
     </word>
     <word>
+        <english>abuse</english>
+        <polish>zamęczać, nadużywać</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>obliged to attend</english>
+        <polish>zobowiązany do uczestnictwa</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>counselling</english>
+        <polish>doradztwo</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english>curse</english>
         <polish>kląć, przeklinać / klątwa</polish>
         <part>New English File 5 Advanced - Unit 5</part>
@@ -226,6 +405,12 @@
     <word>
         <english>artefact</english>
         <polish>dzieło rąk ludzkich, wytwór, przedmiot materialny</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>unaware</english>
+        <polish>nieświadomy, nie zdający sobie sprawy (z czegoś)</polish>
         <part>New English File 5 Advanced - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -244,6 +429,24 @@
     <word>
         <english>merchant</english>
         <polish>kupiec</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>harmful (harmful behaviour)</english>
+        <polish>szkodliwy, krzywdzący (szkodliwe zachowanie)</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>alongside (him)</english>
+        <polish>obok, wzdłuż (niego)</polish>
+        <part>New English File 5 Advanced - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>small hours / small hours if the morning</english>
+        <polish>późne godziny nocne / wczesne godziny poranne</polish>
         <part>New English File 5 Advanced - Unit 5</part>
         <subpart>A</subpart>
     </word>

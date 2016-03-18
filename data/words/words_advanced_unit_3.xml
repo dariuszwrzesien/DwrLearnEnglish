@@ -415,8 +415,8 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>gripping</english>
-        <polish>wciągający, pasjonujący (np. film, książka)</polish>
+        <english>gripping (gripping story)</english>
+        <polish>wciągający, pasjonujący (wciągająca opowieść)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -439,7 +439,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>profoundly</english>
+        <english>profoundly = deeply</english>
         <polish>wnikliwie, gruntownie, głęboko</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
@@ -463,7 +463,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>awkward</english>
+        <english>awkward = difficult to deal with</english>
         <polish>niezręczny, niewygodny</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
@@ -481,7 +481,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>neatly</english>
+        <english>neatly = tidily</english>
         <polish>schludnie, starannie, porządnie</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
@@ -495,6 +495,12 @@
     <word>
         <english>be besotted with sb</english>
         <polish>być w kimś zadurzonym</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tone and style of the book</english>
+        <polish>ton i styl ksiązki</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -601,7 +607,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>flow of</english>
+        <english>flow of (flow of a novel)</english>
         <polish>tok</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
@@ -619,8 +625,14 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>swear (I swear ...)</english>
-        <polish>obiecywać (Ja obiecuję ...)</polish>
+        <english>swear (I swear ...) / swearing (swearing words)</english>
+        <polish>obiecywać (Ja obiecuję ...) / przeklinać (przekleństwa)</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>appeal to sth / sb (Deos being translator apeal to you?)</english>
+        <polish>oddziaływać na coś, podobać się komuś (Czy bycie tłumaczem podobało by się tobie?)</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -655,20 +667,44 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>gripping story</english>
-        <polish>wciągająca opowieść</polish>
-        <part>New English File 5 Advanced - Unit 3</part>
-        <subpart>B</subpart>
-    </word>
-    <word>
         <english>entertaining novel</english>
         <polish>zabawna powieść</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
     <word>
+        <english>attitude to</english>
+        <polish>nastawienie, stosunek do</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>sanction / sanctioned</english>
+        <polish>zatwierdzać, zaaprobować / zatwierdzony, zaaprobowany</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>the former</english>
+        <polish>pierwszy z wymienionych</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
         <english>intriguing plot</english>
         <polish>intrygująca fabuła</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>passages ( ... skipping awkward passages)</english>
+        <polish>fragmenty, ustępy ( ... opuszczać niezręczne fragmenty (książki))</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>manner</english>
+        <polish>fsposób (np. zachowanie), maniera</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>B</subpart>
     </word>
@@ -1385,5 +1421,11 @@
         <polish>marudzić o coś, utiskiwać, jęczeć z jakigoś powodu</polish>
         <part>New English File 5 Advanced - Unit 3</part>
         <subpart>C</subpart>
+    </word>
+    <word>
+        <english>vowel</english>
+        <polish>samogłoska</polish>
+        <part>New English File 5 Advanced - Unit 3</part>
+        <subpart>B</subpart>
     </word>
 </words>

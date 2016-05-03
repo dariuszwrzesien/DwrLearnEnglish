@@ -1,549 +1,1101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
-    <word>
-        <english>put up (put up tables)</english>
-        <polish>postawić, ustawić stoły</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>set out wine and snacks</english>
-        <polish>wyłożyć, rozstawić wino i przekąski</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>prescribed</english>
-        <polish>zalecany</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>manner</english>
-        <polish>sposób</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>glow</english>
-        <polish>świecić, żarzyć się</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>insert</english>
-        <polish>wstawić, włożyć</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>shattered</english>
-        <polish>wstrząśnięty, zdruzgotany</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>a must-see</english>
-        <polish>coś co należy koniecznie zobaczyć</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>itinerary</english>
-        <polish>plan podróży</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>reproach</english>
-        <polish>wyrzut, skarga / robić wyrzuty, wymawiać, zarzucać</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>stern</english>
-        <polish>surowy</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>whilst = while</english>
-        <polish>podczas gdy</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>forestall</english>
-        <polish>uprzedzić, ubiec</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>disrespectful</english>
-        <polish>nieokazujący szacunku, lekceważący, obraźliwy</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>live up to (sb expectations)</english>
-        <polish>dorastać do (czyichś oczekiwań)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>memorable</english>
-        <polish>pamiętny</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>sight</english>
-        <polish>widok, wzrok, atrakcja turystyczna</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>before hand</english>
-        <polish>z wyprzedzeniem</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>offset</english>
-        <polish>zrównoważyć, skompensować</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>carbon footprint</english>
-        <polish>ślad węglowy (suma emisji gazów cieplarnianych)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>quay [ki:]</english>
-        <polish>molo, nadbrzeźe</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>commute</english>
-        <polish>dojeżdżać do pracy</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>relocate</english>
-        <polish>przenosić się, relokować</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>resistance</english>
-        <polish>opór</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>resist</english>
-        <polish>opierać się</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>at the crack of dawn</english>
-        <polish>o brzasku</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>for my part</english>
-        <polish>z mojej strony, jeśli chodzi o mnie</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>conductor</english>
-        <polish>dyrygent</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>my heart sank = I immediately felt sad, depressed</english>
-        <polish>stracić zapał do robienia czegoś</polish>
+    <!--<word>-->
+        <!--<english>put up (put up tables)</english>-->
+        <!--<polish>postawić, ustawić stoły</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>set out wine and snacks</english>-->
+        <!--<polish>wyłożyć, rozstawić wino i przekąski</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>prescribed</english>-->
+        <!--<polish>zalecany</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>manner</english>-->
+        <!--<polish>sposób</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>glow</english>-->
+        <!--<polish>świecić, żarzyć się</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>insert</english>-->
+        <!--<polish>wstawić, włożyć</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>shattered</english>-->
+        <!--<polish>wstrząśnięty, zdruzgotany</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>a must-see</english>-->
+        <!--<polish>coś co należy koniecznie zobaczyć</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>itinerary</english>-->
+        <!--<polish>plan podróży</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>reproach</english>-->
+        <!--<polish>wyrzut, skarga / robić wyrzuty, wymawiać, zarzucać</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>stern</english>-->
+        <!--<polish>surowy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>whilst = while</english>-->
+        <!--<polish>podczas gdy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>forestall</english>-->
+        <!--<polish>uprzedzić, ubiec</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>disrespectful</english>-->
+        <!--<polish>nieokazujący szacunku, lekceważący, obraźliwy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>live up to (sb expectations)</english>-->
+        <!--<polish>dorastać do (czyichś oczekiwań)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>memorable</english>-->
+        <!--<polish>pamiętny</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>sight</english>-->
+        <!--<polish>widok, wzrok, atrakcja turystyczna</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>before hand</english>-->
+        <!--<polish>z wyprzedzeniem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>offset</english>-->
+        <!--<polish>zrównoważyć, skompensować</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>carbon footprint</english>-->
+        <!--<polish>ślad węglowy (suma emisji gazów cieplarnianych)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>quay [ki:]</english>-->
+        <!--<polish>molo, nadbrzeźe</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>commute</english>-->
+        <!--<polish>dojeżdżać do pracy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>relocate</english>-->
+        <!--<polish>przenosić się, relokować</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>resistance</english>-->
+        <!--<polish>opór</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>resist</english>-->
+        <!--<polish>opierać się</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>at the crack of dawn</english>-->
+        <!--<polish>o brzasku</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>for my part</english>-->
+        <!--<polish>z mojej strony, jeśli chodzi o mnie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>conductor</english>-->
+        <!--<polish>dyrygent</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>my heart sank = I immediately felt sad, depressed</english>-->
+        <!--<polish>stracić zapał do robienia czegoś</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>to make it in time = to get there in time</english>-->
+        <!--<polish>być na czas</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>to my horror = feeling horror, shock</english>-->
+        <!--<polish>strach, lęk, szok</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>by this point = now</english>-->
+        <!--<polish>w tym momencie, do tej chwili</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>presumably</english>-->
+        <!--<polish>przypuszczalnie, prawdopodobnie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>to my relief</english>-->
+        <!--<polish>ku mojej uldze</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>on the way back</english>-->
+        <!--<polish>w drodze powrotnej</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>grumpily</english>-->
+        <!--<polish>zrzędliwie, gderliwie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>city break = short stay in a city (for a weekend)</english>-->
+        <!--<polish>wypad weekandowy na zwiedzanie miasta</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>package holiday = holiday organized by travel company</english>-->
+        <!--<polish>zorganizowane wakacje (przez biuro podróży)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>stopover = short break between two part of journey</english>-->
+        <!--<polish>przerwa pomiędzy etapami podróży</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>day trip = one day trip</english>-->
+        <!--<polish>wycieczka jednodniowa</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>guided tour = trip with guide</english>-->
+        <!--<polish>wycieczka z przewodnikiem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>site = some important place e.g place of battle</english>-->
+        <!--<polish>miejsce, lokacja</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>low-cost airline = flight without luxury</english>-->
+        <!--<polish>tanie linie lotnicze</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>long-haul = inter continental journey</english>-->
+        <!--<polish>długodystansowy (lot, podróż)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>trip (a business trip, a school trip)</english>-->
+        <!--<polish>wycieczka  - z jednego miejsca do drugiego (i spowortem)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>journey</english>-->
+        <!--<polish>wyprawa, podróż - daleka lub powtarzalna podróż w to samo miejsce</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>travel (air travel, rail travel, space travel)</english>-->
+        <!--<polish>podróżować, podróż - NIEPOLICZALNY rzeczownik mówiący ogólnie o podróżowaniu - nie można używać go zamiast TRIP lub JOURNEY, czynność polegająca na odwiedzaniu różnych miejsc dla przyjemności lub w celach biznesowych, </polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>takeout insurance</english>-->
+        <!--<polish>wykupić ubezpieczenie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>set off/out</english>-->
+        <!--<polish>wyruszyć w podróż</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>cut short (a trip, a visit)</english>-->
+        <!--<polish>skrócić (wycieczkę, wizytę)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>go camping</english>-->
+        <!--<polish>jechać na kamping</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>go backpacking</english>-->
+        <!--<polish>iść na wędrówkę z plecakiem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>go sightseeing</english>-->
+        <!--<polish>iść pozwiedzać</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>go ON an outing (or excursion)</english>-->
+        <!--<polish>wyruszyć na wycieczkę bez transportu</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>go ON safari / holiday / a trip / a cruise</english>-->
+        <!--<polish>jechać na safari, wakacje, wycieczkę, rejs</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>postpone / put off = reschedule it fo a late time</english>-->
+        <!--<polish>odłożyć na później, przełożyć na później</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>cancel / call off = decide not to go</english>-->
+        <!--<polish>odwołać</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>overrated</english>-->
+        <!--<polish>przereklamowane</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>dull = boring</english>-->
+        <!--<polish>nieciekawy, nudny</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>touristy</english>-->
+        <!--<polish>turystyczny, nastawiony na turystów</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>spoilt = change for the worse</english>-->
+        <!--<polish>zepsuć, zmarnować</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>lively / vibrant = full of live and energy</english>-->
+        <!--<polish>pełen życia</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>off the beaten track = far away from other people, houses</english>-->
+        <!--<polish>na bezdrożach, poza utartym szlakiem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>overcrowded</english>-->
+        <!--<polish>zatłoczony</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>breathtaking</english>-->
+        <!--<polish>zapierajacy dech w piersiach</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>picturesque</english>-->
+        <!--<polish>malowniczy (krajobraz)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>coach (The coaches were parked)</english>-->
+        <!--<polish>autokar (Autokary zostały zaparkowane)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>folks</english>-->
+        <!--<polish>koledzy, ludziska (nieformalne)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>at dawn</english>-->
+        <!--<polish>o świcie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>decreed</english>-->
+        <!--<polish>uchwalony, zarządzony</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>enchanted</english>-->
+        <!--<polish>oczarowany, zauroczony</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>bridal suite</english>-->
+        <!--<polish>apartament dla nowożeńców</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>lack</english>-->
+        <!--<polish>brak, niedostatek</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>facility (recording facility)</english>-->
+        <!--<polish>urządzenie (urządzenie nagrywające)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>affordable</english>-->
+        <!--<polish>w przystępnej cenie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>obsolete</english>-->
+        <!--<polish>przestarzały</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>endure = bear</english>-->
+        <!--<polish>znosić, cierpieć (np. ból, biedę)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>armaments</english>-->
+        <!--<polish>zbrojenie się, zbrojenia</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>guilt</english>-->
+        <!--<polish>wina, poczucie winy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>reef</english>-->
+        <!--<polish>rafa koralowa</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>manner</english>-->
+        <!--<polish>maniery, sposób zachowania</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>fare (air)</english>-->
+        <!--<polish>opłata (za lot)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>family ties</english>-->
+        <!--<polish>więzy rodzinne</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>contributing factors</english>-->
+        <!--<polish>czynnik przyczyniający (się do czegoś)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>eat up</english>-->
+        <!--<polish>pożerać, zjeść wszystko</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>struggle (with) = contend (with)</english>-->
+        <!--<polish>borykać się, walczyć z czymś</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>marginally</english>-->
+        <!--<polish>skrajnie</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>settled</english>-->
+        <!--<polish>zakorzeniony, osiedlony</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>precious</english>-->
+        <!--<polish>cenny, drogocenny, wartościowy</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>rehearsal</english>-->
+        <!--<polish>próba (generalna w teatrze)</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <!--<word>-->
+        <!--<english>round trip</english>-->
+        <!--<polish>bilet powrotny, podróż tam i spowrotem</polish>-->
+        <!--<part>New English File 5 Advanced - Unit 6</part>-->
+        <!--<subpart>A</subpart>-->
+    <!--</word>-->
+    <word>
+        <english>loathe = hate</english>
+        <polish>czuć odrazę do / nie cierpieć czegoś</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cowards</english>
+        <polish>tchórz</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>grumpy</english>
+        <polish>zrzęliwy, gburowaty</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fussy</english>
+        <polish>wybredny / grymaśny</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>subliminal</english>
+        <polish>podświadomy</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wag</english>
+        <polish>merdać</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>serene = calm</english>
+        <polish>spokojny</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>acquire</english>
+        <polish>nabywać, zdobywać</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tank</english>
+        <polish>akwarium</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>swirl</english>
+        <polish>wirować</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>harass</english>
+        <polish>nękać, molestować</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>trait</english>
+        <polish>cecha</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>snuggle up</english>
+        <polish>wtulić się, przytulac się do</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>radiator</english>
+        <polish>grzejnik, kaloryfer</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>numerous</english>
+        <polish>liczny</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>telly = TV</english>
+        <polish>telewizor</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>reflect</english>
+        <polish>odzwierciedlać</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>lunatic</english>
+        <polish>obłąkany, szaleniec, wariat</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>concede = admit</english>
+        <polish>przyznać się, przyznać słuszność</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>undoubtedly</english>
+        <polish>niewątpliwie</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bob</english>
+        <polish>skinienie (skinienie głową na znak zgody, potwierdzenia)</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mealy</english>
+        <polish>srokaty - rodzaj umaszczenia koniaw czarno-białe łaty, cętki</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>show off</english>
+        <polish>popisywać się</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pastimes = hobbies</english>
+        <polish>hobby, zainteresowania</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>unconsciously</english>
+        <polish>nieświadomie</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>foal</english>
+        <polish>źrebak</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>calf</english>
+        <polish>cielę, cielak</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>nest</english>
+        <polish>gniazdo</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>hive</english>
+        <polish>ul (dla pszczół)</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>stable</english>
+        <polish>stajnia</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>kennel</english>
+        <polish>buda dla psa</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>squeak</english>
+        <polish>piszczeć</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>mouse - mice</english>
+        <polish>mysz - myszy</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bark</english>
+        <polish>szczekać, szczekanie</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>grunt</english>
+        <polish>chrząkać, chrumkać</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>neigh</english>
+        <polish>rżeć</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>pest</english>
+        <polish>szkodnik (np. chwast, owad)</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>breed (breed - bred - bred)</english>
+        <polish>cz. hodować zwierzęta, rozmnażać zwierzęta / rz. rasa hodowlana</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>be in the doghouse</english>
+        <polish>mieć przechlapane</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>incessantly</english>
+        <polish>nieustannie</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>cruelty</english>
+        <polish>okrucieństwo</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>claws</english>
+        <polish>szpony</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fins</english>
+        <polish>płetwy</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>fur</english>
+        <polish>futro</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>horns</english>
+        <polish>róg</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>wings</english>
+        <polish>skrzydła</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>shell</english>
+        <polish>skorupa (np. zółwia, ślimaka)</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>beak</english>
+        <polish>dziób</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>tail</english>
+        <polish>ogon</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>paws</english>
+        <polish>łapa</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>scratch</english>
+        <polish>drapać, podrapać</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>spit</english>
+        <polish>pluć</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>animal activists</english>
+        <polish>aktywiści na rzecz zwierząt</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>endangered species</english>
+        <polish>zagrożone gatunki</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>bred in captivity</english>
+        <polish>wychowany w zamknięciu / w niewoli</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>battery hens</english>
+        <polish>kurczak z chowu przemysłowego</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>the donkey work</english>
+        <polish>ośla robota, czarna robota, robota głupiego</polish>
+        <part>New English File 5 Advanced - Unit 6</part>
+        <subpart>B</subpart>
+    </word>
+    <word>
+        <english>like water off a duck's back</english>
+        <polish>spłyneło to po nim jak po kaczce</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>to make it in time = to get there in time</english>
-        <polish>być na czas</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>to my horror = feeling horror, shock</english>
-        <polish>strach, lęk, szok</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>by this point = now</english>
-        <polish>w tym momencie, do tej chwili</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>presumably</english>
-        <polish>przypuszczalnie, prawdopodobnie</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>to my relief</english>
-        <polish>ku mojej uldze</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>on the way back</english>
-        <polish>w drodze powrotnej</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>grumpily</english>
-        <polish>zrzędliwie, gderliwie</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>city break = short stay in a city (for a weekend)</english>
-        <polish>wypad weekandowy na zwiedzanie miasta</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>package holiday = holiday organized by travel company</english>
-        <polish>zorganizowane wakacje (przez biuro podróży)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>stopover = short break between two part of journey</english>
-        <polish>przerwa pomiędzy etapami podróży</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>day trip = one day trip</english>
-        <polish>wycieczka jednodniowa</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>guided tour = trip with guide</english>
-        <polish>wycieczka z przewodnikiem</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>site = some important place e.g place of battle</english>
-        <polish>miejsce, lokacja</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>low-cost airline = flight without luxury</english>
-        <polish>tanie linie lotnicze</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>long-haul = inter continental journey</english>
-        <polish>długodystansowy (lot, podróż)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>trip (a business trip, a school trip)</english>
-        <polish>wycieczka  - z jednego miejsca do drugiego (i spowortem)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>journey</english>
-        <polish>wyprawa, podróż - daleka lub powtarzalna podróż w to samo miejsce</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>travel (air travel, rail travel, space travel)</english>
-        <polish>podróżować, podróż - NIEPOLICZALNY rzeczownik mówiący ogólnie o podróżowaniu - nie można używać go zamiast TRIP lub JOURNEY, czynność polegająca na odwiedzaniu różnych miejsc dla przyjemności lub w celach biznesowych, </polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>takeout insurance</english>
-        <polish>wykupić ubezpieczenie</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>set off/out</english>
-        <polish>wyruszyć w podróż</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>cut short (a trip, a visit)</english>
-        <polish>skrócić (wycieczkę, wizytę)</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>go camping</english>
-        <polish>jechać na kamping</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>go backpacking</english>
-        <polish>iść na wędrówkę z plecakiem</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>go sightseeing</english>
-        <polish>iść pozwiedzać</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>go ON an outing (or excursion)</english>
-        <polish>wyruszyć na wycieczkę bez transportu</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>go ON safari / holiday / a trip / a cruise</english>
-        <polish>jechać na safari, wakacje, wycieczkę, rejs</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>postpone / put off = reschedule it fo a late time</english>
-        <polish>odłożyć na później, przełożyć na później</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>cancel / call off = decide not to go</english>
-        <polish>odwołać</polish>
-        <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
-    </word>
+        <subpart>B</subpart>
+    </word>
     <word>
-        <english>overrated</english>
-        <polish>przereklamowane</polish>
+        <english>like a fish out of water</english>
+        <polish>jak ryba wyjęta z wody</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>dull = boring</english>
-        <polish>nieciekawy, nudny</polish>
+        <english>don't count your chicken (before they hatch)</english>
+        <polish>nie licz kurczaków przed wykluciem, nie dziel skóry na niedźwiedziu</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>touristy</english>
-        <polish>turystyczny, nastawiony na turystów</polish>
+        <english>hatch</english>
+        <polish>wykluć się</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>spoilt = change for the worse</english>
-        <polish>zepsuć, zmarnować</polish>
+        <english>take the bull by the horns</english>
+        <polish>wziąć byka za rogi</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>lively / vibrant = full of live and energy</english>
-        <polish>pełen życia</polish>
+        <english>the lion's share</english>
+        <polish>lwia część</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>off the beaten track = far away from other people, houses</english>
-        <polish>na bezdrożach, poza utartym szlakiem</polish>
+        <english>a dark horse</english>
+        <polish>czarny koń</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>overcrowded</english>
-        <polish>zatłoczony</polish>
+        <english>I smell a rat</english>
+        <polish>czuje szczura</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>breathtaking</english>
-        <polish>zapierajacy dech w piersiach</polish>
+        <english>kill two birds with one stone</english>
+        <polish>zabić dwa ptaki jednym kamieniem, upiecdwie pieczenie na jednym ogniu</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>picturesque</english>
-        <polish>malowniczy (krajobraz)</polish>
+        <english>her bark is worse than her bite</english>
+        <polish>ona więcej szczeka niż gryzie, jej słowa są gorsze niż jej czyny</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>coach (The coaches were parked)</english>
-        <polish>autokar (Autokary zostały zaparkowane)</polish>
+        <english>with his tail between his legs</english>
+        <polish>z podwiniętym ogonem, z podkulonym ogonem</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>folks</english>
-        <polish>koledzy, ludziska (nieformalne)</polish>
+        <english>let sleeping dogs lie</english>
+        <polish>milczeć jak grób - milczeć na temat czegoś z przeszłości aby nie wywoływać kłótni</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>at dawn</english>
-        <polish>o świcie</polish>
+        <english>awkward</english>
+        <polish>niezręczny</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>decreed</english>
-        <polish>uchwalony, zarządzony</polish>
+        <english>deceive = cheat</english>
+        <polish>oszukiwać, okłamywać</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>enchanted</english>
-        <polish>oczarowany, zauroczony</polish>
+        <english>pets</english>
+        <polish>zwierzątka domowe</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>bridal suite</english>
-        <polish>apartament dla nowożeńców</polish>
+        <english>guts</english>
+        <polish>wnętrzności</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>lack</english>
-        <polish>brak, niedostatek</polish>
+        <english>carry out</english>
+        <polish>przeprowadzać badania</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>facility (recording facility)</english>
-        <polish>urządzenie (urządzenie nagrywające)</polish>
+        <english>bad-tempered</english>
+        <polish>wybuchowy</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>affordable</english>
-        <polish>w przystępnej cenie</polish>
+        <english>bearded lizard</english>
+        <polish>brodata jaszczurka</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>obsolete</english>
-        <polish>przestarzały</polish>
+        <english>alike</english>
+        <polish>podobny</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>endure = bear</english>
-        <polish>znosić, cierpieć (np. ból, biedę)</polish>
+        <english>tolerant</english>
+        <polish>tolerancyjny</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>armaments</english>
-        <polish>zbrojenie się, zbrojenia</polish>
+        <english>smart = clever</english>
+        <polish>mądry</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>guilt</english>
-        <polish>wina, poczucie winy</polish>
+        <english>eccentric</english>
+        <polish>ekscentryczny</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>reef</english>
-        <polish>rafa koralowa</polish>
+        <english>sleepwalker</english>
+        <polish>lunatyk</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>manner</english>
-        <polish>maniery, sposób zachowania</polish>
+        <english>a dog - puppy</english>
+        <polish>pies - szczeniak</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>fare (air)</english>
-        <polish>opłata (za lot)</polish>
+        <english>a cat - kitten</english>
+        <polish>kot - kotek</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>family ties</english>
-        <polish>więzy rodzinne</polish>
+        <english>a horse - foal</english>
+        <polish>koń - źrebie</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>contributing factors</english>
-        <polish>czynnik przyczyniający (się do czegoś)</polish>
+        <english>a cow - calf</english>
+        <polish>krowa - cielę</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>eat up</english>
-        <polish>pożerać, zjeść wszystko</polish>
+        <english>nest</english>
+        <polish>gniazdo dla ptaków</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>struggle (with) = contend (with)</english>
-        <polish>borykać się, walczyć z czymś</polish>
+        <english>cage</english>
+        <polish>klatka dla ptaków</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>marginally</english>
-        <polish>skrajnie</polish>
+        <english>roar</english>
+        <polish>ryczeć jak lew</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>settled</english>
-        <polish>zakorzeniony, osiedlony</polish>
+        <english>ferocious</english>
+        <polish>bardzo agresywny, dziki</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>precious</english>
-        <polish>cenny, drogocenny, wartościowy</polish>
+        <english>shepherd</english>
+        <polish>pasterz</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>rehearsal</english>
-        <polish>próba (generalna w teatrze)</polish>
+        <english>put down = kill</english>
+        <polish>zabić zwierzę</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
     <word>
-        <english>round trip</english>
-        <polish>bilet powrotny, podróż tam i spowrotem</polish>
+        <english>at this point</english>
+        <polish>w tym miejscu, w tym punkcie, momencie</polish>
         <part>New English File 5 Advanced - Unit 6</part>
-        <subpart>A</subpart>
+        <subpart>B</subpart>
     </word>
 </words>

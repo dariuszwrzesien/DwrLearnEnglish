@@ -73,7 +73,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>peached egg</english>
+        <english>poached egg</english>
         <polish>jajka w koszulkach</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>A</subpart>
@@ -253,7 +253,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>spit (spit - spat - 1spat)</english>
+        <english>spit (spit - spat - spat)</english>
         <polish>pluć</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>A</subpart>
@@ -524,13 +524,13 @@
     </word>
     <word>
         <english>variety</english>
-        <polish>róznorodność, rozmaitość</polish>
+        <polish>różnorodność, rozmaitość</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>emergency services</english>
-        <polish>slużby ratunkowe</polish>
+        <polish>służby ratunkowe</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>A</subpart>
     </word>
@@ -697,7 +697,7 @@
         <subpart>B</subpart>
     </word>
     <word>
-        <english>cushion / cusioned</english>
+        <english>cushion / cushioned</english>
         <polish>zamortyzować, zabezpieczyć / zamortyzowany</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>B</subpart>
@@ -1087,12 +1087,6 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>put-down</english>
-        <polish>upokarzająca uwaga, obelga</polish>
-        <part>New English File 5 Advanced - Unit 7</part>
-        <subpart>C</subpart>
-    </word>
-    <word>
         <english>undistracted</english>
         <polish>niezakłócony</polish>
         <part>New English File 5 Advanced - Unit 7</part>
@@ -1101,12 +1095,6 @@
     <word>
         <english>untrue</english>
         <polish>nieprawdziwy, fałszywy</polish>
-        <part>New English File 5 Advanced - Unit 7</part>
-        <subpart>C</subpart>
-    </word>
-    <word>
-        <english>besotted</english>
-        <polish>zadurzony, zamroczony</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1153,7 +1141,7 @@
         <subpart>C</subpart>
     </word>
     <word>
-        <english>laughing at themsekves != take themselves seriously</english>
+        <english>laughing at themselves != take themselves seriously</english>
         <polish>śmiać się z siebie != brać się na poważnie</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>C</subpart>
@@ -1298,7 +1286,7 @@
     </word>
     <word>
         <english>make a fuss</english>
-        <polish>robić dużo hałasu wokół czegoś</polish>
+        <polish>wybrzydzać, robić dużo hałasu wokół czegoś</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>C</subpart>
     </word>
@@ -1413,6 +1401,18 @@
     <word>
         <english>profitability</english>
         <polish>zyskowność, rentowność, dochodowość, opłacalność</polish>
+        <part>New English File 5 Advanced - Unit 7</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>admittance</english>
+        <polish>wstęp, pozwolenie na wejście</polish>
+        <part>New English File 5 Advanced - Unit 7</part>
+        <subpart>C</subpart>
+    </word>
+    <word>
+        <english>admission</english>
+        <polish>opłata za wstęp</polish>
         <part>New English File 5 Advanced - Unit 7</part>
         <subpart>C</subpart>
     </word>

@@ -44,13 +44,13 @@ class Sentence
 
     /**
      * @ORM\ManyToOne(targetEntity="Part", inversedBy="sentences")
-     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false)
+     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false, onDelete="set null")
      */
     private $part;
     
     /**
      * @ORM\ManyToOne(targetEntity="Subpart", inversedBy="sentences")
-     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false)
+     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false, onDelete="set null")
      */
     private $subpart;
     

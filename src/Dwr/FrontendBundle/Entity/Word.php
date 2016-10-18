@@ -37,13 +37,13 @@ class Word
 
     /**
      * @ORM\ManyToOne(targetEntity="Part", inversedBy="words")
-     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false)
+     * @ORM\JoinColumn(name="part_id", referencedColumnName="id", nullable=false, onDelete="set null")
      */
     private $part;
     
     /**
      * @ORM\ManyToOne(targetEntity="Subpart", inversedBy="words")
-     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false)
+     * @ORM\JoinColumn(name="subpart_id", referencedColumnName="id", nullable=false, onDelete="set null")
      */
     private $subpart;
 

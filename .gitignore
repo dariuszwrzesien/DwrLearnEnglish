@@ -7,3 +7,4 @@ app/bootstrap.php.cache
 .idea/*
 Capfile
 config/
+app/config/parameters.yml

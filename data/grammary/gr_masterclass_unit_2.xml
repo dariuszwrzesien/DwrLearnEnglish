@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Can / could, be able to, manage to, succeed in doing sth</title>
+        <content>
+
+            ...
+        </content>
+        <comment>
+        </comment>
+        <part>Masterclass - Unit 2</part>
+        <subpart>2</subpart>
+    </grammary>
+    <grammary>
+        <title>Comparatives and Superlatives (Stopniowanie przymiotników)</title>
+        <content>
+            long - longer - the longest
+            short - shorter - the shortest
+
+            large - larger - the largest
+            late - later - the latest
+
+            flat - flatter - the flattest
+            thin - thinner - the thinnest
+
+            heavy - heavier - the heaviest
+            funny - funnier - the funniest
+
+            important - more/less important - the most/least important
+            independent - more/less independent - the most/least independent
+
+            clever - cleverer - the cleverest
+            narrow - narrower - the narrowest
+            moder - more/less modern - the most/least modern
+
+            good - better - the best
+            bad - worse - the worst
+            far - farther - the farthest
+
+            well - better - the best
+            badly - worse - the worst
+            much - more - the most
+            little - less - the least
+
+            quickly - more/less quickly - the most/least quickly
+            carefully - more/less carefully - the most/least carefully
+        </content>
+        <comment>
+        </comment>
+        <part>Masterclass - Unit 2</part>
+        <subpart>2</subpart>
+    </grammary>
+</grammary_roles>

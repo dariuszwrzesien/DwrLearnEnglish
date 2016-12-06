@@ -109,12 +109,6 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>by chance</english>
-        <polish>przypadkiem, przypadkowo</polish>
-        <part>Masterclass - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
         <english>genre (Melodrama is not my genre at all) [żonre]</english>
         <polish>gatunek literacki, filmowy, muzyczny</polish>
         <part>Masterclass - Unit 2</part>
@@ -212,7 +206,7 @@
     </word>
     <word>
         <english>succeed in doing sth</english>
-        <polish>udać się coś zrobić, osiągnąć cel</polish>
+        <polish>udało się coś zrobić, osiągnąć cel</polish>
         <part>Masterclass - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -271,8 +265,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>severe [:sewiea]</english>
-        <polish>srogi, surowy, ciężki, poważny</polish>
+        <english>severe [:sewiea] (severe learning difficulties)</english>
+        <polish>srogi, surowy, ciężki, poważny (ciężkie problemy z uczeniem się)</polish>
         <part>Masterclass - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -301,14 +295,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>vulnerable age</english>
-        <polish>wiek podatny na wpływ</polish>
-        <part>Masterclass - Unit 2</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>vulnerable</english>
-        <polish>podatny, skłonny</polish>
+        <english>vulnerable (vulnerable age)</english>
+        <polish>podatny, skłonny (wiek podatny na wpływ)</polish>
         <part>Masterclass - Unit 2</part>
         <subpart>A</subpart>
     </word>
@@ -435,6 +423,54 @@
     <word>
         <english>turn over (turn sb over to sb)</english>
         <polish>rozruszać (np. silnik) / odwrócić coś do góry nogami (wydać kogoś komuś np. policji)</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>breakout</english>
+        <polish>ucieczka z więzienia</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>breakthrough</english>
+        <polish>punkt zwrotny, przełom</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>hold-up</english>
+        <polish>napad rabunkowy</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>let-down</english>
+        <polish>rozczarowanie, zawód</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>outbreak</english>
+        <polish>wybuch epidemii / wojny, nagłe wystąpienie czegoś</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>takeaway</english>
+        <polish>jedzenie na wynos</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>take-off</english>
+        <polish>start samolotu, oderwanie się od ziemi</polish>
+        <part>Masterclass - Unit 2</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>turnout</english>
+        <polish>frekwencja, liczba obecnych osób</polish>
         <part>Masterclass - Unit 2</part>
         <subpart>A</subpart>
     </word>

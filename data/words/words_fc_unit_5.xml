@@ -2,7 +2,7 @@
 <words>
     <word>
         <english>tourist spots</english>
-        <polish>miejsca turystyczne, oblegane</polish>
+        <polish>miejsca turystyczne, oblegane miejsca</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -139,7 +139,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>disguise = hide = conseal</english>
+        <english>disguise = hide / conseal</english>
         <polish>ukryć pod przybraniem, zakamuflować</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -230,7 +230,7 @@
     </word>
     <word>
         <english>check in</english>
-        <polish>zameldować się, odprawić bagaż na lotnisku</polish>
+        <polish>zameldować się w hotel, odprawić bagaż na lotnisku</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -284,7 +284,7 @@
     </word>
     <word>
         <english>moral != immoral</english>
-        <polish>poralny != niemoralny</polish>
+        <polish>moralny != niemoralny</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -313,7 +313,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>farmin</english>
+        <english>farming</english>
         <polish>rolnictwo, gospodarka rolna</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -343,14 +343,14 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>crunchy</english>
-        <polish>chrupiący</polish>
+        <english>crispy</english>
+        <polish>kruchy, chrupiący</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>crunchy</english>
-        <polish>chrubki</polish>
+        <polish>chrupki, skrzypiący, chrzęszczący</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -439,8 +439,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>still water</english>
-        <polish>woda niegazowana</polish>
+        <english>still water / flat water !=  sparkling water</english>
+        <polish>woda niegazowana != woda gazowana</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -469,7 +469,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>delicious, vary tasty</english>
+        <english>delicious, very tasty</english>
         <polish>przepyszny, smaczny</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -487,7 +487,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>filthy, vary dirty</english>
+        <english>filthy, very dirty</english>
         <polish>bardzo brudny</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -588,4 +588,95 @@
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
+    <word>
+        <english>airport shuttle</english>
+        <polish>autobus dowożący na lotnisko</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>amenities</english>
+        <polish>udogodnienia</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>complimentary </english>
+        <polish>pochlebny / bezpłatny, gratisowy</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>en-suite</english>
+        <polish>z przyległą łazienką (np. pokój w hotelu)</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>self-service</english>
+        <polish>samoobsługa</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>set menu</english>
+        <polish>zestaw menu, gotowe menu</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>dwelling</english>
+        <polish>mieszkanie, dom, siedziba</polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english> </english>
+        <polish></polish>
+        <part>Masterclass - Unit 5</part>
+        <subpart>A</subpart>
+    </word>
+
 </words>

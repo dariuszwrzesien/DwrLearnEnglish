@@ -26,7 +26,7 @@
     </word>
     <word>
         <english>host country</english>
-        <polish>kraj goszcząscy turystów</polish>
+        <polish>kraj goszczący turystów</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -51,12 +51,6 @@
     <word>
         <english>the cultivated</english>
         <polish>wykształceni, wyedukowani</polish>
-        <part>Masterclass - Unit 5</part>
-        <subpart>A</subpart>
-    </word>
-    <word>
-        <english>coach tour</english>
-        <polish>wycieczka objazdowa autokarem</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -182,7 +176,7 @@
     </word>
     <word>
         <english>repulsive</english>
-        <polish>odrażające</polish>
+        <polish>odrażające, odpychające, odrzucające</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -344,7 +338,7 @@
     </word>
     <word>
         <english>crispy</english>
-        <polish>kruchy, chrupiący</polish>
+        <polish>kruchy, chrupiący (twardy z wierzchu miękki w środku)</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -553,8 +547,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>dreary</english>
-        <polish>nudny, drętwy</polish>
+        <english>dreary [driri]</english>
+        <polish>drętwy, nudny</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -583,8 +577,8 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>vile</english>
-        <polish>wstrętny</polish>
+        <english>vile [vail]</english>
+        <polish>wstrętny, nikczemny, podły</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -595,7 +589,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>amenities</english>
+        <english>amenities [aminitiz]</english>
         <polish>udogodnienia</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -637,7 +631,7 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>pick on</english>
+        <english>pick on sb</english>
         <polish>czepiać się kogoś</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
@@ -661,20 +655,20 @@
         <subpart>A</subpart>
     </word>
     <word>
-        <english>excursion</english>
-        <polish>wycieczka, wypad, wyprawa</polish>
+        <english>excursion (shopping excursion, forest excursion)</english>
+        <polish>wycieczka (krótka, jednodniowa), wypad na zakupy, wycieczka do lasu</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
     <word>
         <english>journey</english>
-        <polish>podróż, wędrówka</polish>
+        <polish>podróż (długa), długa wędrówka</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
     <word>
-        <english>tour</english>
-        <polish>wycieczka (np. autokarowa), zwiedzanie jakiegoś miejsca</polish>
+        <english>tour (coach tour, guided tour)</english>
+        <polish>wycieczka (np. autokarowa, z przewodnikiem), zwiedzanie jakiegoś miejsca</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>
@@ -686,7 +680,7 @@
     </word>
     <word>
         <english>voyage</english>
-        <polish>rejs kosmiczny, wojaż</polish>
+        <polish>podróż morska / podróż kosmiczna, wojaż</polish>
         <part>Masterclass - Unit 5</part>
         <subpart>A</subpart>
     </word>

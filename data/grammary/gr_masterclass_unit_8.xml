@@ -1,8 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammary_roles>
     <grammary>
-        <title>Reported speach</title>
+        <title>Direct and reported speech</title>
         <content>
+            Direct speech
+            -------------------------------------------------------------------
+
+            Używamy gdy cytujemy kogoś, przytaczamy czyjeś słowa:
+
+            "I'll be late home tommorrow", Bob SAID.
+
+            ===================================================================
+
+            Reported speech
+            -------------------------------------------------------------------
+
+            Gdy relacjonujemy co ktoś powiedział, ale nie używamy jego dokładnych słów.
+            Wtedy możemy to zrobić w następujący sposób:
+
+            -----------------------------
+            1. Reporting statements
+            -----------------------------
+
+            Zmiana czasu o jeden wstecz: (D - direct / R - reported)
+
+            Present simple:
+            D: "I'm a nurse", she said.
+            R: She said she was a nurse. //Past Simple
+
+            Present continuous:
+            D: "I'm not going", she said.
+            R: She said she was not going. //Past Simple Continuous
+
+            Past simple:
+            D: "Tomy did it", she said.
+            R: She said Tomy had done it. //Past Perfect
+
+            Present Perfect:
+            D: "I haven't read it", she said.
+            R: She said she had not read it.
+
+            Past continuous:
+            D: "I was lying", he said.
+            R: He said he had been lying. //Past Perfect Continuous
+
+            Will future:
+            D: "I will get it", she said.
+            R: She said she would get it. //Would
+
+            Can:
+            D: "I can speak French", he said.
+            R: He said he could speak French. //Could
+
+            May:
+            D: "I may be late", she said.
+            R: She said she might be late. //Might
+
+            Must:
+            D: "I must go", he said.
+            R: He said he had to go. //Had to
+
+            Uwaga:
+            PAST PERFECT i modale (might, ought to, could, should i would) nie zmieniają sie w REPORTED SPEACH.
+
+            -----------------------------------------
+            2. Changes in time and place references
+            -----------------------------------------
+
+            Gdy relacjonujemy zmianie ulega czas i miejsce:
+
+            Direct / Reported
+
+            today / that day
+            tomorrow / the next day, the following day
+            yesterday / the previous day, the day before
+            two days ago / two days before, two days earlier
+            now / then
+            here / there
+            come / go
+
+            Gdy relacjonujemy coś w ten sam dzień oczywiście czas się nie zmienia.
+
+            Marie phoned on Sunday.
+            Marie phoned yesterday. (Said on Monday)
+            He said that Marie had phone two days ago. (said on Tuesday)
+
+            -----------------------------------------
+            3. Reporting question
+            -----------------------------------------
+
+            Gdy relacjonujemy pytanie, tak jak poprzednio cofamy o jeden czas, zmieniamy czas i miejsce
+
+            Jeśli pytanie było skonstruowane za pomocą inwersji ze słówkiem DO, DOES, DID to
+            dodatkowo dodajemy słówko IF/WHETHER i uwaga - zdanie zostawiamy tak jak było - nie ma inwersji !
+
+            Do you understand?
+            He asked me IF/WHETHER I understood?
+
+            Did you see it?
+            He asked her If she had seen it?
+
+            Jeśli zdanie nie było tworzone przez inwersję to zostaje słówko pytające i zdanie bez inwersji!
+
+            When are you arriving?
+            He asked me when I was arriving?
+
+            Zamiast ASKED można użyć WANTED TO KNOW IF.
+
+            Mr Jones wanted to know if I was enjoying myself.
+
+            -----------------------------------------
+            4. Reporting advice, commands, requests nd warnings
+            -----------------------------------------
+
+            Advice:
+            D: "You really should stop!"
+            R: She advised me to stop.
+
+            Command:
+            D: "Don't interrupt me!"
+            R: He told me not to interrupt him.
+
+            Request: *
+            "Could you close the door please?"
+            She asked me to close the door.
+
+            Warning: **
+            "If you tell anyone, I'll ...!
+            She warned me not to tell anyone
+
+            * Uwaga, w tym przypadku też mamy doczynienia z pytaniem ale kontekst jest inny:
+
+            "Can you remind me, please?" (request)
+            He asked me to remind him.
+
+            "Can you come tomorrow?" (question)
+            She asked me if I could come the next day.
+
+            ** Uwaga, w tym przypadku też struktura zmienia się w zależności od kontekstu:
+
+            Come on! Hurry up! (command)
+            She told us to hurry up.
+
+            "It doesn't start till eight" (statement)
+            He told us it didn't start until eight.
+
+            -----------------------------------------
+            5. Reporting suggestions
+            -----------------------------------------
+
+            D: Let's stay in.
+
+            R: She suggested that we (should) stay in.
+            R: She suggested that we stayed in.
+            R: She suggested staying in.
+
+            Uwaga: nie możemy użyć bezokolicznika po suggest (ponieważ jest to gerund).
 
         </content>
         <comment>

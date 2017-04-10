@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammary_roles>
+    <grammary>
+        <title>Relative clauses</title>
+        <content>
+            Relative clauses jest używany gdy chcemy dodać dodatkowe informacje do zdania.
+            Zamiast tworzyć dwa zdania, używamy "relative clauses" aby ułożyć jedno zdanie.
+
+            The man was so boring. He sat next to me the whole journey.
+            The man who sat next to me the whole journey was so borning.
+
+            -----------------------------------------
+            RELATIVE PRONOUNS
+            -----------------------------------------
+
+            who (whom),
+            which,
+            that,
+            whose,
+            where,
+            when,
+            why
+
+            Wybieramy odpowiedni "relative pronouns" polegając na:
+
+            1. Czy "relative clause" to defining czy non-defining.
+            2. Czy odnosi się do osoby czy do rzeczy.
+            3. Czy jest podmiotem czy dopełnieniem w zdaniu:
+
+
+            Subject / Defining / Person:     WHO, THAT
+            Subject / Defining / Thing:      WHICH, THAT
+            Subject / Non-defining / Person: WHO
+            Subject / Non-defining / Thing:  WHICH
+
+            Object / Defining / Person:      0, WHO(M), THAT
+            Object / Defining / Thing:       0, WHICH, THAT
+            Object / Non-defining / Person:  WHO(M)
+            Object / Non-defining / Thing:   WHICH
+
+            Possessive / Defining / Person:     WHOSE (OF WHICH)
+            Possessive / Defining / Thing:      WHOSE
+            Possessive / Non-defining / Person: WHOSE (OF WHICH)
+            Possessive / Non-defining / Thing:  WHOSE
+
+            -------------------------------------------
+            DEFINING AND NON-DEFINING RELATIVE CLAUSES
+            -------------------------------------------
+
+            1. Defining clauses
+
+
+
+            2. Non-defining clauses
+
+            3. Where, when, why
+
+            4. Relative clauses and preposition
+
+            5. Relative clauses after numbers and certain words
+
+            6. Omitting pronouns from relative clauses
+
+
+
+        </content>
+        <comment>
+        </comment>
+        <part>Masterclass - Unit 9</part>
+        <subpart>1</subpart>
+    </grammary>
+</grammary_roles>

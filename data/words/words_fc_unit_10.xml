@@ -1,9 +1,550 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
     <word>
+        <english>muffin pan / cupcake pan</english>
+        <polish>brytfanna na muffinki / babeczki</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sole</english>
+        <polish>podeszwa</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>vase</english>
+        <polish>wazon</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>flowerpot</english>
+        <polish>doniczka</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>jar</english>
+        <polish>słoik</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>swing</english>
+        <polish>huśtawka</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wicker chair</english>
+        <polish>wiklinowe krzesło</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>cotton</english>
+        <polish>bawełna</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>linen</english>
+        <polish>płócienny</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>rattan</english>
+        <polish>rattanowy (krzesło, stolik z rattanu)</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>silk</english>
+        <polish>jedwab</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>steel</english>
+        <polish>stal</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wood</english>
+        <polish>drewno</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>apparatus</english>
+        <polish>aparat, przyrząd, urządzenie</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>intended</english>
+        <polish>przeznaczony, stworzony dla kogoś</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>emulate</english>
+        <polish>naśladować, emulować</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>purpose</english>
+        <polish>zamiar, cel, celowość</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>waterproof</english>
+        <polish>wodoodporny</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lever</english>
+        <polish>dźwignia</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>trial</english>
+        <polish>próba</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>consist of</english>
+        <polish>składać sie z czegoś</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>descent</english>
+        <polish>zniżanie, opadanie, schodzenie w dół</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>collapse</english>
+        <polish>zawalenie się</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>verb: approach (approaching train), noun: try a different aproach</english>
+        <polish>cz.: zbliżać się (zbliżający się pociąg), rz.: podejście, spróbuj innego podejścia</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>airship = zeppelin</english>
+        <polish>sterowiec</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>thus = so</english>
+        <polish>stąd, tak więc, tym samym</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>steer</english>
+        <polish>sterować</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>obtain (We have obtained what we wanted.)</english>
+        <polish>uzyskać  (Uzyskaliśmy to, czego chcieliśmy.)</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>diameter</english>
+        <polish>średnica</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>bamboo pannier</english>
+        <polish>bambusowy kosz</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>envelope</english>
+        <polish>koperta, powłoka</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>relative != absolute</english>
+        <polish>względny != bezwzględny</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>at will</english>
+        <polish>na życzenie, do woli, według życzenia</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>aviation</english>
+        <polish>lotnictwo</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>with hindsight </english>
+        <polish>z perspektywy czasu</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wooden rods</english>
+        <polish>drewniane drągi, pręty, kije</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>(fixed) securely</english>
+        <polish>bezpiecznie (zamocoany), pewnie, trwale, mocno</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>concave != convex</english>
+        <polish>wklęsły != wypukły</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tailpiece</english>
+        <polish>końcówka</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>rear</english>
+        <polish>tył</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>rudders</english>
+        <polish>stery</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>hilltop</english>
+        <polish>wzgórze</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>sacrifices</english>
+        <polish>poświęcenie</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>boiler</english>
+        <polish>kocioł</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>tubes and wires</english>
+        <polish>rurki i druty</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>altitude</english>
+        <polish>wysokość nad poziomem morza</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>courageous [korejdzys]</english>
+        <polish>odważny, dzielny</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>post-it note</english>
+        <polish>karteczka samoprzylepna</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>accidentally</english>
+        <polish>przez przypadek</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>manufacture</english>
+        <polish>produkować</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>lift off</english>
+        <polish>odkleić / start rakety</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>fall out</english>
+        <polish>wypadać</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>adhesive</english>
+        <polish>pzym. lepki, przyczelny, rz. klej</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>come off</english>
+        <polish>odpaść, odkleić się</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>wringer</english>
+        <polish>wyżymaczka</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english>kettle</english>
+        <polish>czajnik</polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
         <english></english>
         <polish></polish>
         <part>Masterclass - Unit 10</part>
         <subpart>A</subpart>
     </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+    <word>
+        <english></english>
+        <polish></polish>
+        <part>Masterclass - Unit 10</part>
+        <subpart>A</subpart>
+    </word>
+
 </words>
